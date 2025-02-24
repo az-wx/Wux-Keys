@@ -33,10 +33,9 @@ If FileExist("Lang.ahk")
 Menu, Tray, Add, Utils, Utils
 If FileExist("Utils.ahk")
 	Menu, Tray, Check, Utils
-Menu, Tray, Add, FLKeys, FLKeys
+Menu, Tray, Add, FL Keys, FLKeys
 If FileExist("FLKeys.ahk")
-	;Menu, Tray, Check, Hotkeys
-
+	Menu, Tray, Check, FL Keys
 
 
 
