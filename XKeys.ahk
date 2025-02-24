@@ -17,10 +17,14 @@ Menu, Tray, Icon, .ico\'.ico ; Tray Icon
 Menu, Tray, Tip, •
 Menu, Tray, Click, 1
 
-; Menu, Tray, NoStandard
-Menu, Tray, Add, X Keys, XKeys
-If FileExist("XKeys.ahk")
-	Menu, Tray, Check, X Keys
+Menu, Tray, NoStandard
+
+Menu, X Keys, Add, History
+Menu, X Keys, Add, WinSpy, WindowSpy
+Menu, X Keys, Add, Help
+
+Menu, Tray, Add, X Keys, :X Keys
+
 Menu, Tray, Add, M Clip, MClip
 If FileExist("MClip.ahk")
 	Menu, Tray, Check, M Clip 
@@ -36,11 +40,12 @@ If FileExist("Utils.ahk")
 Menu, Tray, Add, FL Keys, FLKeys
 If FileExist("FLKeys.ahk")
 	Menu, Tray, Check, FL Keys
-
-
-
 Menu, Tray, Add, Freeze, Freeze
 Menu, Tray, Default, Freeze
+Menu, Tray, Add, Exit, Exit
+
+
+
 
 
 SetTimer, FLDialogSkipper, 15
@@ -196,7 +201,7 @@ longdash:
 
 
 XKeys:
-	FuncToggler("XKeys")
+	GoSub, History
 	Return
 MClip:
 	FuncToggler("MClip")
@@ -235,8 +240,9 @@ Freeze:
 		; PostMessage, 0x0111, 65305,,, F-Clip.ahk - AutoHotkey  ; Suspend.
 		GoSub, TestScript
 	} Return
-
-
+Exit:
+	ExitApp
+	Return
 TestScript:
 	SendLevel 0
 	SetTitleMatchMode 2

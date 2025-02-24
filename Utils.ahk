@@ -22,7 +22,7 @@ History:
 	Send {LShift Up}
 	Sleep 11
 	KeyHistory
-	WinWaitActive, C:\Users\azowux\OneDrive\•\II.ahk - AutoHotkey v1.1.37.01
+	WinWaitActive, C:\Users\azowux\OneDrive\Wux-Keys\XKeys.ahk - AutoHotkey v1.1.37.01
 	WinMove, , , 330, 200, 1200, 800
 	Send {F5}
 	Return
