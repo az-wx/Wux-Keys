@@ -43,12 +43,12 @@ Space & RShift:: ; Transliterate
 	Return
 
 ModifiersUp:
-		If GetKeyState("LShift", "T")||GetKeyState("LShift", "P")
-			Send {LShift Up}
 		If GetKeyState("LAlt", "T")||GetKeyState("LAlt", "P")
 			Send {LAlt Up}
 		If GetKeyState("LCtrl", "T")||GetKeyState("LCtrl", "P")
 			Send {LCtrl Up}
+		If GetKeyState("LShift", "T")||GetKeyState("LShift", "P") ; Playing safer, since it is physically is pressed
+			Send {LShift Up}	
 		SetTimer, , Off
 		Return
 

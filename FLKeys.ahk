@@ -143,7 +143,9 @@ RAlt & 6::6
 RAlt & 7::7
 
 
+
 #IfWinActive
+RAlt & F8::Run, FLPlugins.ahk ; Scan changes
 
 
 

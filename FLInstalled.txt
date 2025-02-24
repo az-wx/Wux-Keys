@@ -1,0 +1,8160 @@
+Control Surface.fst
+Distructor.fst
+Edison.fst
+Effector.fst
+EQUO.fst
+Frequency Shifter.fst
+Frequency Splitter.fst
+Fruity 7 Band EQ.fst
+Fruity Balance.fst
+Fruity Bass Boost.fst
+Fruity Big Clock.fst
+Fruity Blood Overdrive.fst
+Fruity Center.fst
+Fruity Chorus.fst
+Fruity Compressor.fst
+Fruity Convolver.fst
+Fruity dB Meter.fst
+Fruity Delay 2.fst
+Fruity Delay 3.fst
+Fruity Delay Bank.fst
+Fruity Delay.fst
+Fruity Fast Dist.fst
+Fruity Fast LP.fst
+Fruity Filter.fst
+Fruity Flanger.fst
+Fruity Flangus.fst
+Fruity Formula Controller.fst
+Fruity Free Filter.fst
+Fruity HTML NoteBook.fst
+Fruity Limiter.fst
+Fruity Love Philter.fst
+Fruity LSD.fst
+Fruity Multiband Compressor.fst
+Fruity Mute 2.fst
+Fruity NoteBook 2.fst
+Fruity NoteBook.fst
+Fruity PanOMatic.fst
+Fruity Parametric EQ 2.fst
+Fruity Parametric EQ.fst
+Fruity Peak Controller.fst
+Fruity Phase Inverter.fst
+Fruity Phaser.fst
+Fruity Reeverb 2.fst
+Fruity Reeverb.fst
+Fruity Scratcher.fst
+Fruity Send.fst
+Fruity Soft Clipper.fst
+Fruity Spectroman.fst
+Fruity Squeeze.fst
+Fruity Stereo Enhancer.fst
+Fruity Stereo Shaper.fst
+Fruity Vocoder.fst
+Fruity WaveShaper.fst
+Fruity Wrapper.fst
+Fruity X-Y Controller.fst
+Fruity X-Y-Z Controller.fst
+Gross Beat.fst
+Hardcore.fst
+Hyper Chorus.fst
+Luxeverb.fst
+Maximus.fst
+Multiband Delay.fst
+Newtime.fst
+Newtone.fst
+Patcher.fst
+Pitch Shifter.fst
+Pitcher.fst
+Razer Chroma.fst
+Soundgoodizer.fst
+Transient Processor.fst
+Tuner.fst
+VFX Color Mapper.fst
+VFX Envelope.fst
+VFX Key Mapper.fst
+VFX Keyboard Splitter.fst
+VFX Level Scaler.fst
+VFX Sequencer.fst
+Vintage Chorus.fst
+Vintage Phaser.fst
+Vocodex.fst
+Wave Candy.fst
+ZGameEditor Visualizer.fst
+Cobra Fuzz.fst
+BOD.fst
+CamelCrusher.fst
+Crystallizer.fst
+Decapitator.fst
+Devil-Loc Deluxe.fst
+Devil-Loc.fst
+EchoBoy.fst
+EffectRack.fst
+FabFilter Micro.fst
+FabFilter Pro-C 2.fst
+FabFilter Pro-DS.fst
+FabFilter Pro-G.fst
+FabFilter Pro-L 2.fst
+FabFilter Pro-MB.fst
+FabFilter Pro-Q 3.fst
+FabFilter Pro-R.fst
+FabFilter Saturn 2.fst
+FabFilter Simplon.fst
+FabFilter Timeless 3.fst
+FabFilter Volcano 3.fst
+FilterFreak1.fst
+FilterFreak2.fst
+Little AlterBoy.fst
+Little MicroShift.fst
+Little PrimalTap.fst
+Little Radiator.fst
+MicroShift.fst
+PanMan.fst
+PhaseMistress.fst
+PrimalTap.fst
+Radiator.fst
+SGA1566.fst
+Transatlantic Plate Reverb.fst
+Tremolator.fst
+4U+ BlindTest.fst
+4U+ DynamicTiltEQ.fst
+4U+ ProjectTime.fst
+Abbey Road Chambers Mono-Stereo.fst
+Abbey Road Chambers Stereo.fst
+Abbey Road EMI TG12345 Channel Stereo.fst
+Abbey Road J37 Tape Stereo.fst
+Abbey Road Plates Mono-Stereo.fst
+Abbey Road Plates Stereo.fst
+Abbey Road REDD.17 Stereo.fst
+Abbey Road REDD.37.51 Stereo.fst
+Abbey Road Reel ADT Live Mono-Stereo.fst
+Abbey Road Reel ADT Live Stereo.fst
+Abbey Road Reel ADT Mono-Stereo.fst
+Abbey Road Reel ADT Stereo.fst
+Abbey Road Reel ADT2V Live Mono-Stereo.fst
+Abbey Road Reel ADT2V Live Stereo.fst
+Abbey Road Reel ADT2V Mono-Stereo.fst
+Abbey Road Reel ADT2V Stereo.fst
+Abbey Road RS124 Stereo.fst
+Abbey Road RS127 Box.fst
+Abbey Road RS127 Rack.fst
+Abbey Road RS135.fst
+Abbey Road RS56 Passive EQ Stereo.fst
+Abbey Road Saturator Stereo.fst
+Abbey Road Studio 3 5.1-Stereo.fst
+Abbey Road Studio 3 7.1-Stereo.fst
+Abbey Road Studio 3 Stereo.fst
+Abbey Road TG Mastering Live Stereo.fst
+Abbey Road TG Mastering Stereo.fst
+Abbey Road TG Meter Bridge Stereo.fst
+Abbey Road The King's Microphones Stereo.fst
+Abbey Road Vinyl Light Stereo.fst
+Abbey Road Vinyl Stereo.fst
+Acme Opticom XLA-3.fst
+Acoustic Feedback.fst
+Active Equalizer.fst
+ADA Flanger.fst
+ADA STD-1 Stereo Tapped Delay.fst
+ADPTR MetricAB.fst
+ADPTR Sculpt.fst
+ADPTR StreamLiner.fst
+AIR Soft Clipper.fst
+Alborosie Dub Station.fst
+AMEK EQ 200.fst
+AMEK EQ 250.fst
+AMEK Mastering Compressor.fst
+American Class A.fst
+Amp Room.fst
+Ampbox.fst
+Ampeg B15N.fst
+Ampeg SVT3Pro.fst
+Ampeg SVTVR Classic.fst
+Ampeg SVTVR.fst
+Ampeg V4B.fst
+Amplifikation 360.fst
+Amplifikation Caliburn.fst
+Amplifikation Clarent.fst
+Amplifikation Creme.fst
+Amplifikation Lancaster.fst
+Amplifikation Matchlock.fst
+Amplifikation Rectifor.fst
+Amplifikation Vermilion.fst
+Amplifikation VVV.fst
+AmpLion 2 Rock Essentials.fst
+Aphex Vintage Exciter Stereo.fst
+API-2500 Stereo.fst
+API-550A Stereo.fst
+API-550B Stereo.fst
+API-560 Stereo.fst
+Archetype Abasi.fst
+Archetype Cory Wong.fst
+Archetype Gojira.fst
+Archetype Nolly.fst
+Archetype Plini.fst
+ARP 2600 FX.fst
+ATONE.fst
+AudioTrack Stereo.fst
+Auto-Key 2.fst
+Auto-Tune Pro.fst
+Autoformer.fst
+B360 5.0-Quad.fst
+B360 5.1-Quad.fst
+B360 7.1-Quad.fst
+B360 AmbiX-FuMa Quad.fst
+B360 FuMa-AmbiX Quad.fst
+B360 Mono-Quad.fst
+B360 Stereo-Quad.fst
+Bass Amp Room.fst
+Bass Rider Live Stereo.fst
+Bass Rider Stereo.fst
+Bass Sculptor.fst
+Bass XXL.fst
+BassFocus.fst
+Basslane Pro.fst
+Bassment.fst
+BassmentCore.fst
+BassRift.fst
+Berzerk Distortion Stereo.fst
+Bettermaker Bus Compressor DSP.fst
+Bettermaker EQ232D.fst
+Big Goat.fst
+Bitpunk.fst
+Black Box Analog Design HG-2.fst
+Black Box Analog Design HG-2MS.fst
+Blue Cat's AcouFiend.fst
+Blue Cat's Axiom.fst
+Blue Cat's Connector.fst
+Blue Cat's Destructor.fst
+Blue Cat's DP Meter Pro 4 (Srnd).fst
+Blue Cat's DP Meter Pro 4 (Stereo).fst
+Blue Cat's Dynamics 4(Stereo).fst
+Blue Cat's FreqAnalyst 2 (Stereo).fst
+Blue Cat's FreqAnalyst Multi 2.fst
+Blue Cat's FreqAnalyst Pro 2 (Stereo).fst
+Blue Cat's Hot Tuna.fst
+Blue Cat's Late Replies.fst
+Blue Cat's Liny EQ 5 (Dual).fst
+Blue Cat's Liny EQ 5 (Stereo).fst
+Blue Cat's MB-5 Dynamix 2(Stereo).fst
+Blue Cat's MB-7 Mixer 2 (Dual).fst
+Blue Cat's MB-7 Mixer 2 (Stereo).fst
+Blue Cat's Oscilloscope Multi 2.fst
+Blue Cat's PatchWork.fst
+Blue Cat's Plug'n Script.fst
+Blue Cat's PolyVibe.fst
+Blue Cat's Protector 2.fst
+Blue Cat's Re-Guitar.fst
+Blue Cat's Re-Head.fst
+Blue Cat's Remote Control 3.fst
+Blue Cat's StereoScope Multi 2.fst
+Blue Cat's StereoScope Pro 2.fst
+Blue Face.fst
+Bratwurst Fuzz.fst
+Brauer Motion Mono-Stereo.fst
+Brauer Motion Stereo.fst
+Brit73AI.fst
+Butch Vig Vocals Stereo.fst
+bx_2098 EQ.fst
+bx_bassdude.fst
+bx_blackdist2.fst
+bx_bluechorus2.fst
+bx_boom.fst
+bx_cleansweep Pro.fst
+bx_cleansweep V2.fst
+bx_clipper.fst
+bx_console AMEK 200.fst
+bx_console AMEK 9099.fst
+bx_console Focusrite SC.fst
+bx_console N.fst
+bx_console SSL 4000 E.fst
+bx_console SSL 4000 G.fst
+bx_console SSL 9000 J.fst
+bx_control V2.fst
+bx_crispyscale.fst
+bx_crispytuner.fst
+bx_delay2500.fst
+bx_digital V3 mix.fst
+bx_digital V3.fst
+bx_distorange.fst
+bx_dynEQ V2.fst
+bx_glue.fst
+bx_greenscreamer.fst
+bx_hybrid V2 mix.fst
+bx_hybrid V2.fst
+bx_limiter True Peak.fst
+bx_limiter.fst
+bx_masterdesk Classic.fst
+bx_masterdesk Pro.fst
+bx_masterdesk True Peak.fst
+bx_masterdesk.fst
+bx_megadual.fst
+bx_megasingle.fst
+bx_metal2.fst
+bx_meter.fst
+bx_opto Pedal.fst
+bx_opto.fst
+bx_panEQ.fst
+bx_refinement.fst
+bx_rockergain100.fst
+bx_rockrack V3 Player.fst
+bx_rockrack V3.fst
+bx_rooMS.fst
+bx_saturator V2.fst
+bx_shredspread.fst
+bx_solo.fst
+bx_stereomaker.fst
+bx_subfilter.fst
+bx_subsynth.fst
+bx_townhouse Buss Compressor.fst
+bx_tuner.fst
+bx_XL V2.fst
+bx_XL V3.fst
+bx_yellowdrive.fst
+C1 comp Stereo.fst
+C1 comp-gate Stereo.fst
+C1 comp-sc Stereo.fst
+C1 gate Stereo.fst
+C360 5.0.fst
+C360 5.1.fst
+C4 Stereo.fst
+C6 Stereo.fst
+C6-SideChain Stereo.fst
+Camel Strip.fst
+CD-Burn.DDP.Master.fst
+Center Stereo.fst
+Cerberus Bass Amp.fst
+Chandler GAV19T.fst
+Chandler Limited Curve Bender.fst
+Chandler Limited Germanium Comp.fst
+Chandler Limited Zener Limiter.fst
+Chandler Limited Zener-Bender.fst
+Chorus Ensembler.fst
+CLA Bass Mono-Stereo.fst
+CLA Bass Stereo.fst
+CLA Drums Mono-Stereo.fst
+CLA Drums Stereo.fst
+CLA EchoSphere Mono-Stereo.fst
+CLA EchoSphere Stereo.fst
+CLA Effects Mono-Stereo.fst
+CLA Effects Stereo.fst
+CLA Epic Mono-Stereo.fst
+CLA Epic Stereo.fst
+CLA Guitars Mono-Stereo.fst
+CLA Guitars Stereo.fst
+CLA MixDown Stereo.fst
+CLA MixHub Lite Stereo.fst
+CLA MixHub Stereo.fst
+CLA Nx Stereo.fst
+CLA Unplugged Mono-Stereo.fst
+CLA Unplugged Stereo.fst
+CLA Vocals Mono-Stereo.fst
+CLA Vocals Stereo.fst
+CLA-2A Stereo.fst
+CLA-3A Stereo.fst
+CLA-76 Stereo.fst
+Clarity Vx - DeReverb Pro Stereo.fst
+Clarity Vx - DeReverb Stereo.fst
+Clarity Vx Pro Stereo.fst
+Clarity Vx Stereo.fst
+Cluster Delay.fst
+Cobra Fuzz.fst
+Comet.fst
+Console 1.fst
+Cry Boy.fst
+Cryostasis.fst
+Cyclic Panner.fst
+D2O.fst
+Dangerous BAX EQ Master.fst
+Dangerous BAX EQ Mix.fst
+Dark Memory.fst
+Darkglass Ultra.fst
+dbx-160 Stereo.fst
+dearVR music.fst
+dearVR pro.fst
+DeEsser Stereo.fst
+Deleight.fst
+DeSibilizer LL.fst
+DeSibilizer.fst
+Dials.fst
+Diezel Herbert.fst
+Diezel VH4.fst
+DIFIX.fst
+Dirty Dog Reverb.fst
+Distortion 1 mkII.fst
+Doppler Mono-Stereo.fst
+Doppler Stereo.fst
+Dorrough Stereo.fst
+Dorrough360 5.0.fst
+Dorrough360 5.1.fst
+Doubler2 Mono-Stereo.fst
+Doubler2 Stereo.fst
+Doubler4 Mono-Stereo.fst
+Doubler4 Stereo.fst
+DPR-402 Stereo.fst
+Dr Drive.fst
+Dr Phase.fst
+Dragon EQ.fst
+Drawmer 1973.fst
+Drawmer S73.fst
+DS Tantra 2.fst
+Dubstation 2.fst
+Duck.fst
+DW Drum Enhancer.fst
+Echoes T7E mkII.fst
+Eden WT800.fst
+Efektor Bass Cruncher.fst
+Efektor Bass Driver.fst
+Efektor Bass Smasher.fst
+Efektor CH3604.fst
+Efektor CP3603.fst
+Efektor DL3606.fst
+Efektor DS3603.fst
+Efektor FL3606.fst
+Efektor FZ3603.fst
+Efektor Gainia HB.fst
+Efektor Gainia TD.fst
+Efektor Gainia XT.fst
+Efektor GQ3607.fst
+Efektor Harmonitron.fst
+Efektor OD3603.fst
+Efektor PH3605.fst
+Efektor RV3604.fst
+Efektor TR3604.fst
+Efektor WF3607.fst
+Efektor Whammo.fst
+EK Edstortion Rack.fst
+EK Edstortion.fst
+EK Phazevibe Rack.fst
+EK Phazevibe.fst
+EKramer BA Stereo.fst
+EKramer DR Stereo.fst
+EKramer FX Mono-Stereo.fst
+EKramer FX Stereo.fst
+EKramer GT Mono-Stereo.fst
+EKramer GT Stereo.fst
+EKramer VC Mono-Stereo.fst
+EKramer VC Stereo.fst
+Electric Matter.fst
+Electrum.fst
+ElectrumCore.fst
+elysia alpha master.fst
+elysia alpha mix.fst
+elysia karacter master.fst
+elysia karacter mix.fst
+elysia mpressor.fst
+elysia museq master.fst
+elysia museq mix.fst
+elysia niveau filter.fst
+elysia nvelope.fst
+elysia phils cascade.fst
+EMO-D5 Stereo.fst
+EMO-F2 Stereo.fst
+EMO-Generator Stereo.fst
+EMO-Q4 Stereo.fst
+ENGL E646 VS.fst
+ENGL E765 RT.fst
+ENGL Savage 120.fst
+Enhanced EQ.fst
+Enigma Mono-Stereo.fst
+Enigma Stereo.fst
+Eos 2.fst
+Expanse3D.fst
+EZmix 3.fst
+F6 Stereo.fst
+F6-RTA Stereo.fst
+FA Echobandit Rack.fst
+FA Echobandit.fst
+FET Compressor.fst
+fiedler audio splat.fst
+fiedler audio stage.fst
+Filterverse.fst
+Filtron.fst
+FinalPlug 6.fst
+FireCharger.fst
+FireCobra.fst
+FireMaster.fst
+FireMaximizer.fst
+FirePresser.fst
+FIRETHEPUMP.fst
+Fix Doubler.fst
+Fix Flanger.fst
+Fix Phaser.fst
+Flamingo Verb.fst
+Flex Beat.fst
+Focusing Equalizer.fst
+Fog Convolver 2.fst
+Fortin Cali Suite.fst
+Fortin Nameless Suite.fst
+Fortin NTS Suite.fst
+Fox Echo Chorus.fst
+Friedman BE100.fst
+Friedman Buxom Betty.fst
+Friedman DS40.fst
+Frostbite 2.fst
+Fuchs Overdrive Supreme 50.fst
+Fuchs Train II.fst
+FuzzPlus3.fst
+Gallien Krueger 800RB.fst
+Gatekeeper.fst
+Gem Comp G.fst
+Gem Comp LA.fst
+Gem Comp670.fst
+Gem Comp76.fst
+Gem Dopamine.fst
+Gem ECHOSON.fst
+Gem EQ495.fst
+Gem EQ550.fst
+Gem EQ84.fst
+Gem EQP.fst
+Gem Mod.fst
+Gem Modula.fst
+Gem OTD-2.fst
+Gem Sculptube.fst
+Gem TAPEDESK.fst
+Gem Voice.fst
+GEQ Classic Stereo.fst
+GEQ Modern Stereo.fst
+GGD Studio Cabs Cali 1.5.fst
+GGD Studio Cabs Contenders Round 1.fst
+GGD Studio Cabs Goldstack 1.5.fst
+GGD Studio Cabs Zilla 1.5.fst
+GK Amplification 3 Pro.fst
+Gong Amp.fst
+Gorilla Drive.fst
+Gorilla.fst
+GrainSpace.fst
+Green Reaper.fst
+GreenADAI.fst
+GTR Amp Mono-Stereo.fst
+GTR Amp Stereo.fst
+GTR Solo Tool Rack Mono-Stereo.fst
+GTR Solo Tool Rack Stereo.fst
+GTR Stomp 2 Mono-Stereo.fst
+GTR Stomp 2 Stereo.fst
+GTR Stomp 4 Mono-Stereo.fst
+GTR Stomp 4 Stereo.fst
+GTR Stomp 6 Mono-Stereo.fst
+GTR Stomp 6 Stereo.fst
+GTR Tool Rack Mono-Stereo.fst
+GTR Tool Rack Stereo.fst
+GW MixCentric Stereo.fst
+GW PianoCentric Mono-Stereo.fst
+GW PianoCentric Stereo.fst
+GW ToneCentric Stereo.fst
+GW VoiceCentric Mono-Stereo.fst
+GW VoiceCentric Stereo.fst
+H-Comp Stereo.fst
+H-Delay Mono-Stereo.fst
+H-Delay Stereo.fst
+H-EQ Stereo.fst
+H-EQ-Light Stereo.fst
+H-Reverb 5.0.fst
+H-Reverb 5.1.fst
+H-Reverb long 5.0.fst
+H-Reverb long 5.1.fst
+H-Reverb long Mono-5.0.fst
+H-Reverb long Mono-5.1.fst
+H-Reverb long Mono-Stereo.fst
+H-Reverb long Stereo-5.0.fst
+H-Reverb long Stereo-5.1.fst
+H-Reverb long Stereo.fst
+H-Reverb Mono-5.0.fst
+H-Reverb Mono-5.1.fst
+H-Reverb Mono-Stereo.fst
+H-Reverb Stereo-5.0.fst
+H-Reverb Stereo-5.1.fst
+H-Reverb Stereo.fst
+Harmonic Maximizer.fst
+Harmonics Analog Saturation Processor.fst
+Harris Doyle Natalus DSCEQ.fst
+Heavy Pedal mkII.fst
+Hybrid Filter.fst
+Hyperspace.fst
+HyperTune.fst
+I Wish.fst
+IDR360 5.0.fst
+IDR360 5.1.fst
+Impact.fst
+IMPusher Stereo.fst
+Inf EQ.fst
+Infiltrator.fst
+InPhase Live Stereo.fst
+InPhase LT Live Stereo.fst
+InPhase LT Stereo.fst
+InPhase Stereo.fst
+Invisible Limiter G2.fst
+Invisible Limiter G3.fst
+Invisible Limiter.fst
+IQ-Analyser NetAux.fst
+IQ-Analyser.fst
+IQ-Comp.fst
+IQ-DeEsser.fst
+IQ-Eq.fst
+IQ-Limiter.fst
+IQ-Reverb.fst
+IR-L efficient Stereo.fst
+IR-L full Stereo.fst
+IR-L Mono-Stereo.fst
+IR1 efficient Stereo.fst
+IR1 full Stereo.fst
+IR1 Mono-Stereo.fst
+IR360 discrete Mono-5.0.fst
+IR360 eff discrete 5.0.fst
+IR360 eff discrete 5.1.fst
+IR360 eff discrete Stereo-5.0.fst
+IR360 eff s.field Stereo-5.0.fst
+IR360 sound field 5.0.fst
+IR360 sound field 5.1.fst
+IR360 sound field Mono-5.0.fst
+IR360 sound field Stereo-5.0.fst
+IRDX Core.fst
+IRLive Mono-Stereo.fst
+IRLive Stereo.fst
+JJP-Bass Mono-Stereo.fst
+JJP-Bass Stereo.fst
+JJP-Cymb-Perc Mono-Stereo.fst
+JJP-Cymb-Perc Stereo.fst
+JJP-Drums Mono-Stereo.fst
+JJP-Drums Stereo.fst
+JJP-Guitars Mono-Stereo.fst
+JJP-Guitars Stereo.fst
+JJP-Strings-Keys Mono-Stereo.fst
+JJP-Strings-Keys Stereo.fst
+JJP-Vocals Mono-Stereo.fst
+JJP-Vocals Stereo.fst
+Kaleidoscopes Mono-Stereo.fst
+Kaleidoscopes Stereo.fst
+Kerry King Signature.fst
+Key Detector Stereo.fst
+Kickstart 2.fst
+Kiive Tape Face.fst
+Kiive Xtressor.fst
+Klirrton Grindstein.fst
+Knif Audio Soma.fst
+Kombinat Tri.fst
+Kramer HLS Stereo.fst
+Kramer PIE Stereo.fst
+Kramer Tape Stereo.fst
+Krush.fst
+KSHMR Essentials Kick.fst
+Kujaku.fst
+L1 limiter Stereo.fst
+L1+ Ultramaximizer Stereo.fst
+L12X Solid State Amplifier.fst
+L2 Stereo.fst
+L3 MultiMaximizer Stereo.fst
+L3 UltraMaximizer Stereo.fst
+L3-LL Multi Stereo.fst
+L3-LL Ultra Stereo.fst
+L316 Stereo.fst
+L360 5.0.fst
+L360 5.1.fst
+LadyBug Reverb.fst
+LDC2 Compander.fst
+LFE360 5.1.fst
+Lindell 254E.fst
+Lindell 354E.fst
+Lindell 50 Buss.fst
+Lindell 50 Channel.fst
+Lindell 69 Buss.fst
+Lindell 69 Channel.fst
+Lindell 6X-500.fst
+Lindell 7X-500.fst
+Lindell 80 Bus.fst
+Lindell 80 Channel.fst
+Lindell 902 De-esser.fst
+Lindell ChannelX.fst
+Lindell MBC.fst
+Lindell PEX-500.fst
+Lindell SBC.fst
+Lindell TE-100.fst
+LinEQ Broadband Stereo.fst
+LinEQ Lowband Stereo.fst
+LinMB Stereo.fst
+Lion Master.fst
+LoAir 5.0-5.1.fst
+LoAir 5.1.fst
+LoAir Stereo.fst
+Lofi Space Mono-Stereo.fst
+Lofi Space Stereo.fst
+Looptrotter SA2RATE2.fst
+Low Filter.fst
+LTL Chop Shop EQ.fst
+LTL SILVER BULLET mk2.fst
+M360 Manager 5.0-5.1.fst
+M360 Manager 5.0.fst
+M360 Manager 5.1.fst
+M360 Mixdown 5.0.fst
+M360 Mixdown 5.1.fst
+M5133.fst
+Maag EQ2.fst
+Maag EQ4.fst
+Maag MAGNUM-K.fst
+Magma BB Tubes Stereo.fst
+Magma Channel Strip Stereo.fst
+Magma Lil Tube Stereo.fst
+Magma Springs Mono-Stereo.fst
+Magma Springs Stereo.fst
+Manipulator.fst
+MannyM Delay Mono-Stereo.fst
+MannyM Delay Stereo.fst
+MannyM Distortion Stereo.fst
+MannyM EQ Stereo.fst
+MannyM Reverb Mono-Stereo.fst
+MannyM Reverb Stereo.fst
+MannyM Tone Shaper Stereo.fst
+MannyM TripleD Stereo.fst
+Mantis.fst
+Mark Studio 2.fst
+Marshall Bluesbreaker 1962.fst
+Marshall JMP 2203.fst
+Marshall Plexi Super Lead 1959.fst
+Marshall Silver Jubilee 2555.fst
+Maserati ACG Mono-Stereo.fst
+Maserati ACG Stereo.fst
+Maserati B72 Mono-Stereo.fst
+Maserati B72 Stereo.fst
+Maserati DRM Stereo.fst
+Maserati GRP Stereo.fst
+Maserati GTi Mono-Stereo.fst
+Maserati GTi Stereo.fst
+Maserati HMX Mono-Stereo.fst
+Maserati HMX Stereo.fst
+Maserati VX1 Mono-Stereo.fst
+Maserati VX1 Stereo.fst
+Master Plan v1.5.fst
+MasterMind.fst
+MasterVerb 6.fst
+Material Comp.fst
+MaxxBass Stereo.fst
+MaxxVolume Stereo.fst
+MDMX Fuzz Stereo.fst
+MDMX OverDrive Stereo.fst
+MDMX Screamer Stereo.fst
+Megaphone.fst
+MetaFilter Mono-Stereo.fst
+MetaFilter Stereo.fst
+MetaFlanger Mono-Stereo.fst
+MetaFlanger Stereo.fst
+Metal Amp Room.fst
+Meter.fst
+Michelangelo.fst
+Millennia NSEQ-2.fst
+Millennia TCL-2.fst
+miniVerb.fst
+Mirror.fst
+MixChecker Pro.fst
+Mixland Vac Attack.fst
+Model 72 FX Synthesizer System.fst
+Model N Channel.fst
+Modular FX.fst
+MoMa.fst
+MondoMod Mono-Stereo.fst
+MondoMod Stereo.fst
+Morph EQ.fst
+Morphoder Mono-Stereo.fst
+Morphoder Stereo.fst
+MorphVerb.fst
+MT-A.fst
+Multiband X6.fst
+MultiDrive Pedal Pro.fst
+MultiDynamics 6.fst
+MultiDynamics 7.fst
+MultiMod Rack Mono-Stereo.fst
+MultiMod Rack Stereo.fst
+Mutronics Mutator.fst
+MV2 Stereo.fst
+MV360 5.0.fst
+MV360 5.1.fst
+NA 8180.fst
+NA Acoustic Voice.fst
+NA Analog Rack Bass Equalizer.fst
+NA Analog Rack Chorus.fst
+NA Analog Rack Cleaner.fst
+NA Analog Rack Compressor.fst
+NA Analog Rack Delay.fst
+NA Analog Rack Flanger.fst
+NA Analog Rack Fuzz.fst
+NA Analog Rack Guitar Equalizer.fst
+NA Analog Rack Noise Gate.fst
+NA Analog Rack Phaser.fst
+NA Analog Rack Reverb.fst
+NA Analog Rack Screamer.fst
+NA Analog Rack Tremolo.fst
+NA Bass Driver.fst
+NA Blackice Beta Gamma.fst
+NA Bst100 V2.fst
+NA Cali Dual.fst
+NA Cali Reverb.fst
+NA Crunck V2.fst
+NA Delay3000.fst
+NA Doubler.fst
+NA EN Hardball.fst
+NA Faceman.fst
+NA Hivolt 103.fst
+NA IR Loader.fst
+NA Jmp Pro.fst
+NA LoFi.fst
+NA Mp1 Pro.fst
+NA Mrh159.fst
+NA Mrh810 V2.fst
+NA Overdrive Special.fst
+NA Plugin Rig.fst
+NA PSA1000 Jr.fst
+NA PSA1000.fst
+NA Quinta.fst
+NA Sound Master.fst
+NA The Boss Rack.fst
+NA The Boss.fst
+NA Voice DC30.fst
+Nanopulse.fst
+Nectar 4 Auto-Level.fst
+Nectar 4 Backer.fst
+Nectar 4 Breath Control.fst
+Nectar 4 Compressor.fst
+Nectar 4 DeEsser.fst
+Nectar 4 Delay.fst
+Nectar 4 Dimension.fst
+Nectar 4 Equalizer.fst
+Nectar 4 Gate.fst
+Nectar 4 Pitch.fst
+Nectar 4 Reverb.fst
+Nectar 4 Saturation.fst
+Nectar 4 Voices.fst
+Nectar 4.fst
+Need 31102 Console EQ.fst
+Need 533 EQ.fst
+Need 73 Console EQ.fst
+Need 81 Console EQ.fst
+Need 84 Console EQ.fst
+Need Pre 31102.fst
+Need Pre Trilogy.fst
+NEOLD BIG AL.fst
+NEOLD U17.fst
+NEOLD U2A.fst
+NEOLD V76U73.fst
+NEOLD WARBLE.fst
+Neutron 4 Compressor.fst
+Neutron 4 Equalizer.fst
+Neutron 4 Exciter.fst
+Neutron 4 Gate.fst
+Neutron 4 Sculptor.fst
+Neutron 4 Transient Shaper.fst
+Neutron 4 Unmask.fst
+Neutron 4 Visual Mixer.fst
+Neutron 4.fst
+NLS Buss Stereo.fst
+NLS Channel Stereo.fst
+Noveltech Character.fst
+Noveltech Vocal Enhancer.fst
+NS1 Stereo.fst
+Nu Compressor.fst
+NUGEN Send.fst
+NUGEN Stereoizer3.fst
+NUGEN Visualizer2.fst
+NX 5.0-Stereo.fst
+NX 5.0.fst
+NX 5.1-Stereo.fst
+NX 5.1.fst
+NX 7.1-Stereo.fst
+NX 7.1.fst
+Nx Ambisonics Quad-Stereo.fst
+NX Ambisonics Quad.fst
+Nx Germano Studios 5.1-Stereo.fst
+Nx Germano Studios Stereo.fst
+NX Mono-Stereo.fst
+Nx Ocean Way Nashville Stereo.fst
+NX Stereo.fst
+OCS-45.fst
+Octaver 82.fst
+OMEGA Ampworks Granophyre.fst
+OneKnob Brighter Stereo.fst
+OneKnob Driver Stereo.fst
+OneKnob Filter Stereo.fst
+OneKnob Louder Stereo.fst
+OneKnob Phatter Stereo.fst
+OneKnob Pressure Stereo.fst
+OneKnob Pumper Stereo.fst
+OneKnob Wetter Mono-Stereo.fst
+OneKnob Wetter Stereo.fst
+Orbitron.fst
+Other Desert Cities.fst
+OTO Biscuit 8-bit Effects.fst
+Outer Space.fst
+OVox Mono-Stereo.fst
+OVox Stereo.fst
+Owl Control.fst
+Ozone 11 Clarity.fst
+Ozone 11 Dynamic EQ.fst
+Ozone 11 Dynamics.fst
+Ozone 11 Equalizer.fst
+Ozone 11 Exciter.fst
+Ozone 11 Imager.fst
+Ozone 11 Impact.fst
+Ozone 11 Low End Focus.fst
+Ozone 11 Master Rebalance.fst
+Ozone 11 Match EQ.fst
+Ozone 11 Maximizer.fst
+Ozone 11 Spectral Shaper.fst
+Ozone 11 Stabilizer.fst
+Ozone 11 Vintage Compressor.fst
+Ozone 11 Vintage EQ.fst
+Ozone 11 Vintage Limiter.fst
+Ozone 11 Vintage Tape.fst
+Ozone 11.fst
+Pancz.fst
+Panorama 6.fst
+Panorama 7.fst
+Parallax.fst
+Passive EQ.fst
+Passive Equalizer.fst
+PAZ- Analyzer Stereo.fst
+PAZ- Frequency Stereo.fst
+PAZ- Meters Stereo.fst
+PAZ- Position Stereo.fst
+Pillar Power Amp.fst
+PitchMonster.fst
+Plamen.fst
+Plasma.fst
+PlaylistRider Stereo.fst
+PlexiTape.fst
+Pluralis.fst
+Polaris.fst
+PolyComp.fst
+Pre X7.fst
+PreBOX.fst
+Pro Audio DSP DSM V3.fst
+PRS Archon Mono-Stereo.fst
+PRS Dallas Mono-Stereo.fst
+PRS V9 Mono-Stereo.fst
+PS22 Split Mono-Stereo.fst
+PS22 Split Stereo.fst
+PS22 Spread Mono-Stereo.fst
+PS22 Spread Stereo.fst
+PS22 Spread(10) Mono-Stereo.fst
+PS22 Spread(10) Stereo.fst
+PS22 XSplit Mono-Stereo.fst
+PS22 XSplit Stereo.fst
+PSE Stereo.fst
+PuigChild 670 Stereo.fst
+PuigTec EQP1A Stereo.fst
+PuigTec MEQ5 Stereo.fst
+Punish.fst
+Purple Audio MC 77.fst
+PutMeOnDrums.fst
+Pyros.fst
+Q-Clone Stereo.fst
+Q1 Stereo.fst
+Q10 Stereo.fst
+Q2 Stereo.fst
+Q3 Stereo.fst
+Q4 Stereo.fst
+Q6 Stereo.fst
+Q8 Stereo.fst
+QuatroMod.fst
+R360 5.0.fst
+R360 5.1.fst
+R360 Mono-5.0.fst
+R360 Mono-5.1.fst
+R360 Stereo-5.0.fst
+R360 Stereo-5.1.fst
+Rabbit Tape.fst
+RBass Stereo.fst
+RChannel Mono-Stereo.fst
+RChannel Stereo.fst
+RCompressor Stereo.fst
+RDeEsser Stereo.fst
+Reels.fst
+Renaissance Axx Stereo.fst
+RePitch VST.fst
+Replicant 2.fst
+REQ 2 Stereo.fst
+REQ 4 Stereo.fst
+REQ 6 Stereo.fst
+Retro Fi Mono-Stereo.fst
+Retro Fi Stereo.fst
+Retronaut.fst
+Revoice Pro Link (Legacy).fst
+Revoice Pro Link.fst
+Rhino Reverb.fst
+Rift.fst
+RootOne.fst
+RoughRider3.fst
+RoyalCompressor.fst
+RVerb Mono-Stereo.fst
+RVerb Stereo.fst
+RVox Stereo.fst
+RX950.fst
+RZ062a Equalizer.fst
+RZ062b Equalizer.fst
+S1 Imager Stereo.fst
+S1 MS Matrix Stereo.fst
+S1 Shuffler Stereo.fst
+S360 Imager 5.0.fst
+S360 Imager 5.1.fst
+S360 Imager Mono-5.0.fst
+S360 Imager Mono-5.1.fst
+S360 Imager Stereo-5.0.fst
+S360 Imager Stereo-5.1.fst
+S360 Panner Mono-5.0.fst
+S360 Panner Mono-5.1.fst
+S360 Panner Stereo-5.0.fst
+S360 Panner Stereo-5.1.fst
+SA76.fst
+Sakura Dither.fst
+Saphira Stereo.fst
+Saturation Knob.fst
+Scheps 73 Stereo.fst
+Scheps Omni Channel 2 Stereo.fst
+Scheps Parallel Particles Stereo.fst
+Schoeps Double MS.fst
+Schoeps Mono Upmix 1to2.fst
+Schoeps Mono Upmix 1to3.fst
+SerumFX.fst
+Shadow Hills Class A Mastering Comp.fst
+Shadow Hills Mastering Compressor.fst
+ShaperBox 3.fst
+Sibilance Stereo.fst
+Sibilance-Live Stereo.fst
+Side Filter.fst
+Silk Vocal Live Stereo.fst
+Silk Vocal Stereo.fst
+Smack Attack Stereo.fst
+smartEQ4.fst
+Smash And Grab v2.fst
+Solidus Randy 250.fst
+Solidus VS8100.fst
+SoundShifter Pitch Stereo.fst
+Space Rider Mono-Stereo.fst
+Space Rider Stereo.fst
+Space Station UM282.fst
+Space Strip.fst
+Spacer.fst
+Speakers.fst
+Spherix Compressor 7.1.2.fst
+Spherix Compressor 7.1.4.fst
+Spherix Limiter 7.1.2.fst
+Spherix Limiter 7.1.4.fst
+SPL Attacker Plus.fst
+SPL De-Esser Dual-Band.fst
+SPL De-Esser.fst
+SPL De-Verb Plus.fst
+SPL DrumXchanger.fst
+SPL EQ Ranger Plus.fst
+SPL Free Ranger.fst
+SPL HawkEye.fst
+SPL IRON.fst
+SPL Mo-Verb Plus.fst
+SPL Passeq Single.fst
+SPL Passeq.fst
+SPL PQ.fst
+SPL Transient Designer Plus.fst
+SPL TwinTube.fst
+SPL Vitalizer MK2-T.fst
+Spring Reverb.fst
+Springs.fst
+SSL EV2 Channel Stereo.fst
+SSL Native Bus Compressor v6.fst
+SSL Native Channelstrip v6.fst
+SSL Native Drumstrip v6.fst
+SSL Native FlexVerb.fst
+SSL Native Vocalstrip 2.fst
+SSL Native X-Comp v6.fst
+SSL Native X-EQ 2.fst
+SSL Native X-Phase v6.fst
+SSL Native X-Saturator v6.fst
+SSL Native X-ValveComp v6.fst
+SSLChannel Stereo.fst
+SSLComp Stereo.fst
+SSLEQ Stereo.fst
+SSLGChannel Stereo.fst
+Stereo Imager D.fst
+STL ControlHub.fst
+STL Ignite - AmpHub.fst
+STL ToneHub.fst
+StudioVerse Audio Effects Mono-Stereo.fst
+StudioVerse Audio Effects Stereo.fst
+Sub Align Stereo.fst
+Sub Ninja.fst
+SubbassDoctor808.fst
+Submarine Stereo.fst
+Suhr PT100.fst
+Suhr SE100.fst
+Summit Audio EQF-100.fst
+Summit Audio Grand Channel.fst
+Summit Audio TLA-100A.fst
+Supermodal.fst
+SuperTap 2-Taps Mono-Stereo.fst
+SuperTap 2-Taps Stereo.fst
+SuperTap 6-Taps Mono-Stereo.fst
+SuperTap 6-Taps Stereo.fst
+Surge XT Effects.fst
+Swarm Reverb.fst
+SYS AlgoVerb.fst
+SYS Chorus.fst
+SYS Comp.fst
+SYS CompListenMic.fst
+SYS Delay.fst
+SYS Distortion.fst
+SYS EQ-Dynamic.fst
+SYS EQ.fst
+SYS Expander.fst
+SYS Flanger.fst
+SYS Gain.fst
+SYS Gate.fst
+SYS Meter.fst
+SYS MultiMod.fst
+SYS Notepad.fst
+SYS Pan.fst
+SYS Phaser.fst
+SYS PinkNoise.fst
+SYS Pitch.fst
+SYS Saturator.fst
+SYSTEM.fst
+Tape Pro.fst
+Tape.fst
+TapeMAI.fst
+TapeSAI.fst
+Tau Compressor Plus.fst
+TBTECH Kirchhoff-EQ.fst
+TB_Barricade_v4.fst
+TB_BitJuggler_v1.fst
+TB_Compressor_v4.fst
+TB_DualVCF_v1.fst
+TB_Enhancer_v1.fst
+TB_Equalizer_v4.fst
+TB_GonioMeter_v1.fst
+TB_MBC_v1.fst
+TB_Morphit_v1.fst
+TB_ReelBus_v4.fst
+TB_Reverb_v4.fst
+TB_Sibalance_v4.fst
+TB_Spectrogram_v1.fst
+TB_VoicePitcher_v4.fst
+TDR Nova.fst
+Texture.fst
+TH-U.fst
+The Bluesman.fst
+The Dom.fst
+The Driver.fst
+The Glue.fst
+The God Particle.fst
+The Orb.fst
+THE OVEN.fst
+The Overseer.fst
+The Shredder.fst
+ThickPreAI.fst
+Things Bubbles.fst
+Things Crusher.fst
+Things Flip EQ.fst
+Things Motor.fst
+Things Texture.fst
+THX Spatial Creator.fst
+TimeMachine.fst
+TITANIUM31B.fst
+TITANIUM33B.fst
+TITANIUM3BASSTARD.fst
+TITANIUM3EQ.fst
+TITANIUM3PRE.fst
+TITANIUM3STRIP.fst
+TOMO Audiolabs LISA.fst
+Tonal Balance Control 2.fst
+ToneLib-GFX.fst
+ToneLib-Metal.fst
+Tonelux Tilt Live.fst
+Tonelux Tilt.fst
+TONEX.fst
+Torque Stereo.fst
+Torque-Live Stereo.fst
+TR5 Black 76.fst
+TR5 Brickwall Limiter.fst
+TR5 British Channel.fst
+TR5 Bus Compressor.fst
+TR5 Classic Clipper.fst
+TR5 Classic Comp.fst
+TR5 Classic EQ.fst
+TR5 Classic Multi Band Limiter.fst
+TR5 Comprexxor.fst
+TR5 CSR Hall.fst
+TR5 CSR Inverse.fst
+TR5 CSR Plate.fst
+TR5 CSR Room.fst
+TR5 De Esser.fst
+TR5 Dyna-Mu.fst
+TR5 EQ-73.fst
+TR5 EQ-81.fst
+TR5 EQ-PA.fst
+TR5 EQ-PB.fst
+TR5 EQ-PG.fst
+TR5 EQP-1A.fst
+TR5 EQual.fst
+TR5 Fame Studio Reverb.fst
+TR5 Joe Chiccarelli Vocal Strip.fst
+TR5 Leslie.fst
+TR5 Linear Phase EQ.fst
+TR5 Master EQ-432.fst
+TR5 Master Match.fst
+TR5 Metering.fst
+TR5 Mic Room.fst
+TR5 One.fst
+TR5 Opto Comp.fst
+TR5 Precision Comp-Limiter.fst
+TR5 Quad Compressor.fst
+TR5 Quad Image.fst
+TR5 Quad Limiter.fst
+TR5 Saturator X.fst
+TR5 Space Delay.fst
+TR5 Stealth Limiter.fst
+TR5 Suite.fst
+TR5 Sunset Sound Studio Reverb.fst
+TR5 Tape Echo.fst
+TR5 Tape Machine 24.fst
+TR5 Tape Machine 440.fst
+TR5 Tape Machine 80.fst
+TR5 Tape Machine 99.fst
+TR5 TASCAM 388.fst
+TR5 TASCAM PORTA ONE.fst
+TR5 TEAC A-3340S.fst
+TR5 TEAC A-6100 MKII.fst
+TR5 The Farm Stone Room.fst
+TR5 VC-670.fst
+TR5 White 2A.fst
+TR5 White Channel.fst
+Track Symbiosis.fst
+TrackPlug 6.fst
+TRACT LinPhase Stereo.fst
+TRACT Stereo.fst
+tranQuilizr G2.fst
+tranQuilizr.fst
+Transient Shaper.fst
+Transmutator.fst
+TransX Multi Stereo.fst
+TransX Wide Stereo.fst
+TrapTune.fst
+TridA-Pre.fst
+Trident A-Range.fst
+Triple Fader.fst
+TrueVerb Mono-Stereo.fst
+TrueVerb Stereo.fst
+TS-1 Transient Shaper.fst
+TSAR-1 Reverb.fst
+TSAR-1R Reverb.fst
+Tube Delay.fst
+Tube KC-1.fst
+Tube Modulator.fst
+Tube-Tech CL 1B mk II.fst
+Tube-Tech CL 1B.fst
+Tube-Tech Classic Channel mk II.fst
+Tube-Tech Classic Channel.fst
+Tube-Tech Equalizers mk II.fst
+Tube-Tech ME 1B.fst
+Tube-Tech PE 1C.fst
+Tuned Reverb.fst
+Type A.fst
+Type B.fst
+U73b Compressor.fst
+U78 Saturator.fst
+UltraPitch 3 Voices Mono-Stereo.fst
+UltraPitch 6 Voices Mono-Stereo.fst
+UltraPitch Shift Mono-Stereo.fst
+UM225 Stereo-5.0.fst
+UM226 Stereo-5.1.fst
+Unfiltered Audio Bass Mint.fst
+Unfiltered Audio Byome.fst
+Unfiltered Audio Dent 2.fst
+Unfiltered Audio Fault.fst
+Unfiltered Audio G8.fst
+Unfiltered Audio Indent 2.fst
+Unfiltered Audio Instant Delay.fst
+Unfiltered Audio lo-fi-af.fst
+Unfiltered Audio Needlepoint.fst
+Unfiltered Audio Sandman Pro.fst
+Unfiltered Audio Sandman.fst
+Unfiltered Audio Silo.fst
+Unfiltered Audio SpecOps.fst
+Unfiltered Audio Tails.fst
+Unfiltered Audio Triad.fst
+Unfiltered Audio Zip.fst
+UniChannel.fst
+UrbanPuncher.fst
+USRackAI.fst
+ValhallaDelay.fst
+ValhallaFreqEcho.fst
+ValhallaPlate.fst
+ValhallaRoom.fst
+ValhallaShimmer.fst
+ValhallaSpaceModulator.fst
+ValhallaSupermassive.fst
+ValhallaUberMod.fst
+ValhallaVintageVerb.fst
+Valley People Dyna-mite Gate.fst
+Valley People Dyna-mite Slam.fst
+Valley People Dyna-mite.fst
+Valves.fst
+Vari Comp.fst
+VC 160.fst
+VC 2A.fst
+VC 76.fst
+VComp Stereo.fst
+VEQ3 Stereo.fst
+VEQ4 Stereo.fst
+Verbum.fst
+Vertigo VSC-2.fst
+Vertigo VSM-3.fst
+Vintage Amp Room.fst
+Vinyl Strip.fst
+Vitamin Stereo.fst
+Vocal Bender Stereo.fst
+Vocal Chain.fst
+Vocal Rider Live Stereo.fst
+Vocal Rider Stereo.fst
+Vocal Tune.fst
+VocAlign 6 Pro VST.fst
+Voltage Amps Bass Mono-Stereo.fst
+Voltage Amps Bass Stereo.fst
+Voltage Amps Guitar Mono-Stereo.fst
+Voltage Amps Guitar Stereo.fst
+VoxDucker.fst
+Voxessor.fst
+VU Meter Stereo.fst
+W43 Stereo.fst
+Wave Box.fst
+Wave Shredder.fst
+Waves Gemstones Mono-Stereo.fst
+Waves Gemstones Stereo.fst
+Waves Harmony Mono-Stereo.fst
+Waves Harmony Stereo.fst
+Waves Stream Receive Stereo.fst
+Waves Stream Send Stereo.fst
+Waves Tune LT Stereo.fst
+Waves Tune Real-Time Stereo.fst
+Waves Tune Stereo.fst
+Weiss Compressor Limiter.fst
+Weiss Deess.fst
+Weiss DS1-MK3.fst
+Weiss EQ MP.fst
+Weiss EQ1.fst
+Weiss MM-1 Mastering Maximizer.fst
+Wider.fst
+Wires.fst
+WLM Meter 5.0.fst
+WLM Meter 5.1.fst
+WLM Meter Stereo.fst
+WLM Plus 5.0.fst
+WLM Plus 5.1.fst
+WLM Plus Stereo.fst
+WNS Stereo.fst
+X-Click Stereo.fst
+X-Crackle Stereo.fst
+X-FDBK Stereo.fst
+X-Hum Stereo.fst
+X-Noise Stereo.fst
+XenoVerb.fst
+Xrider.fst
+Xvox Comp.fst
+Xvox DS.fst
+Xvox Pro.fst
+Xvox SFX.fst
+Xvox Space.fst
+Xvox Tone.fst
+Yak Delay.fst
+Z-Noise Stereo.fst
+Control Surface.fst
+Distructor.fst
+Edison.fst
+Effector.fst
+EQUO.fst
+Frequency Shifter.fst
+Frequency Splitter.fst
+Fruity 7 Band EQ.fst
+Fruity Balance.fst
+Fruity Bass Boost.fst
+Fruity Big Clock.fst
+Fruity Blood Overdrive.fst
+Fruity Center.fst
+Fruity Chorus.fst
+Fruity Compressor.fst
+Fruity Convolver.fst
+Fruity dB Meter.fst
+Fruity Delay 2.fst
+Fruity Delay 3.fst
+Fruity Delay Bank.fst
+Fruity Delay.fst
+Fruity Fast Dist.fst
+Fruity Fast LP.fst
+Fruity Filter.fst
+Fruity Flanger.fst
+Fruity Flangus.fst
+Fruity Formula Controller.fst
+Fruity Free Filter.fst
+Fruity HTML NoteBook.fst
+Fruity Limiter.fst
+Fruity Love Philter.fst
+Fruity LSD.fst
+Fruity Multiband Compressor.fst
+Fruity Mute 2.fst
+Fruity NoteBook 2.fst
+Fruity NoteBook.fst
+Fruity PanOMatic.fst
+Fruity Parametric EQ 2.fst
+Fruity Parametric EQ.fst
+Fruity Peak Controller.fst
+Fruity Phase Inverter.fst
+Fruity Phaser.fst
+Fruity Reeverb 2.fst
+Fruity Reeverb.fst
+Fruity Scratcher.fst
+Fruity Send.fst
+Fruity Soft Clipper.fst
+Fruity Spectroman.fst
+Fruity Squeeze.fst
+Fruity Stereo Enhancer.fst
+Fruity Stereo Shaper.fst
+Fruity Vocoder.fst
+Fruity WaveShaper.fst
+Fruity Wrapper.fst
+Fruity X-Y Controller.fst
+Fruity X-Y-Z Controller.fst
+Gross Beat.fst
+Hardcore.fst
+Hyper Chorus.fst
+Luxeverb.fst
+Maximus.fst
+Multiband Delay.fst
+Newtime.fst
+Newtone.fst
+Patcher.fst
+Pitch Shifter.fst
+Pitcher.fst
+Razer Chroma.fst
+Soundgoodizer.fst
+Transient Processor.fst
+Tuner.fst
+VFX Color Mapper.fst
+VFX Envelope.fst
+VFX Key Mapper.fst
+VFX Keyboard Splitter.fst
+VFX Level Scaler.fst
+VFX Sequencer.fst
+Vintage Chorus.fst
+Vintage Phaser.fst
+Vocodex.fst
+Wave Candy.fst
+ZGameEditor Visualizer.fst
+Cobra Fuzz.fst
+BOD.fst
+CamelCrusher.fst
+Crystallizer.fst
+Decapitator.fst
+Devil-Loc Deluxe.fst
+Devil-Loc.fst
+EchoBoy.fst
+EffectRack.fst
+FabFilter Micro.fst
+FabFilter Pro-C 2.fst
+FabFilter Pro-DS.fst
+FabFilter Pro-G.fst
+FabFilter Pro-L 2.fst
+FabFilter Pro-MB.fst
+FabFilter Pro-Q 3.fst
+FabFilter Pro-R.fst
+FabFilter Saturn 2.fst
+FabFilter Simplon.fst
+FabFilter Timeless 3.fst
+FabFilter Volcano 3.fst
+FilterFreak1.fst
+FilterFreak2.fst
+Little AlterBoy.fst
+Little MicroShift.fst
+Little PrimalTap.fst
+Little Radiator.fst
+MicroShift.fst
+PanMan.fst
+PhaseMistress.fst
+PrimalTap.fst
+Radiator.fst
+SGA1566.fst
+Transatlantic Plate Reverb.fst
+Tremolator.fst
+4U+ BlindTest.fst
+4U+ DynamicTiltEQ.fst
+4U+ ProjectTime.fst
+Abbey Road Chambers Mono-Stereo.fst
+Abbey Road Chambers Stereo.fst
+Abbey Road EMI TG12345 Channel Stereo.fst
+Abbey Road J37 Tape Stereo.fst
+Abbey Road Plates Mono-Stereo.fst
+Abbey Road Plates Stereo.fst
+Abbey Road REDD.17 Stereo.fst
+Abbey Road REDD.37.51 Stereo.fst
+Abbey Road Reel ADT Live Mono-Stereo.fst
+Abbey Road Reel ADT Live Stereo.fst
+Abbey Road Reel ADT Mono-Stereo.fst
+Abbey Road Reel ADT Stereo.fst
+Abbey Road Reel ADT2V Live Mono-Stereo.fst
+Abbey Road Reel ADT2V Live Stereo.fst
+Abbey Road Reel ADT2V Mono-Stereo.fst
+Abbey Road Reel ADT2V Stereo.fst
+Abbey Road RS124 Stereo.fst
+Abbey Road RS127 Box.fst
+Abbey Road RS127 Rack.fst
+Abbey Road RS135.fst
+Abbey Road RS56 Passive EQ Stereo.fst
+Abbey Road Saturator Stereo.fst
+Abbey Road Studio 3 5.1-Stereo.fst
+Abbey Road Studio 3 7.1-Stereo.fst
+Abbey Road Studio 3 Stereo.fst
+Abbey Road TG Mastering Live Stereo.fst
+Abbey Road TG Mastering Stereo.fst
+Abbey Road TG Meter Bridge Stereo.fst
+Abbey Road The King's Microphones Stereo.fst
+Abbey Road Vinyl Light Stereo.fst
+Abbey Road Vinyl Stereo.fst
+Acme Opticom XLA-3.fst
+Acoustic Feedback.fst
+Active Equalizer.fst
+ADA Flanger.fst
+ADA STD-1 Stereo Tapped Delay.fst
+ADPTR MetricAB.fst
+ADPTR Sculpt.fst
+ADPTR StreamLiner.fst
+AIR Soft Clipper.fst
+Alborosie Dub Station.fst
+AMEK EQ 200.fst
+AMEK EQ 250.fst
+AMEK Mastering Compressor.fst
+American Class A.fst
+Amp Room.fst
+Ampbox.fst
+Ampeg B15N.fst
+Ampeg SVT3Pro.fst
+Ampeg SVTVR Classic.fst
+Ampeg SVTVR.fst
+Ampeg V4B.fst
+Amplifikation 360.fst
+Amplifikation Caliburn.fst
+Amplifikation Clarent.fst
+Amplifikation Creme.fst
+Amplifikation Lancaster.fst
+Amplifikation Matchlock.fst
+Amplifikation Rectifor.fst
+Amplifikation Vermilion.fst
+Amplifikation VVV.fst
+AmpLion 2 Rock Essentials.fst
+Aphex Vintage Exciter Stereo.fst
+API-2500 Stereo.fst
+API-550A Stereo.fst
+API-550B Stereo.fst
+API-560 Stereo.fst
+Archetype Abasi.fst
+Archetype Cory Wong.fst
+Archetype Gojira.fst
+Archetype Nolly.fst
+Archetype Plini.fst
+ARP 2600 FX.fst
+ATONE.fst
+AudioTrack Stereo.fst
+Auto-Key 2.fst
+Auto-Tune Pro.fst
+Autoformer.fst
+B360 5.0-Quad.fst
+B360 5.1-Quad.fst
+B360 7.1-Quad.fst
+B360 AmbiX-FuMa Quad.fst
+B360 FuMa-AmbiX Quad.fst
+B360 Mono-Quad.fst
+B360 Stereo-Quad.fst
+Bass Amp Room.fst
+Bass Rider Live Stereo.fst
+Bass Rider Stereo.fst
+Bass Sculptor.fst
+Bass XXL.fst
+BassFocus.fst
+Basslane Pro.fst
+Bassment.fst
+BassmentCore.fst
+BassRift.fst
+Berzerk Distortion Stereo.fst
+Bettermaker Bus Compressor DSP.fst
+Bettermaker EQ232D.fst
+Big Goat.fst
+Bitpunk.fst
+Black Box Analog Design HG-2.fst
+Black Box Analog Design HG-2MS.fst
+Blue Cat's AcouFiend.fst
+Blue Cat's Axiom.fst
+Blue Cat's Connector.fst
+Blue Cat's Destructor.fst
+Blue Cat's DP Meter Pro 4 (Srnd).fst
+Blue Cat's DP Meter Pro 4 (Stereo).fst
+Blue Cat's Dynamics 4(Stereo).fst
+Blue Cat's FreqAnalyst 2 (Stereo).fst
+Blue Cat's FreqAnalyst Multi 2.fst
+Blue Cat's FreqAnalyst Pro 2 (Stereo).fst
+Blue Cat's Hot Tuna.fst
+Blue Cat's Late Replies.fst
+Blue Cat's Liny EQ 5 (Dual).fst
+Blue Cat's Liny EQ 5 (Stereo).fst
+Blue Cat's MB-5 Dynamix 2(Stereo).fst
+Blue Cat's MB-7 Mixer 2 (Dual).fst
+Blue Cat's MB-7 Mixer 2 (Stereo).fst
+Blue Cat's Oscilloscope Multi 2.fst
+Blue Cat's PatchWork.fst
+Blue Cat's Plug'n Script.fst
+Blue Cat's PolyVibe.fst
+Blue Cat's Protector 2.fst
+Blue Cat's Re-Guitar.fst
+Blue Cat's Re-Head.fst
+Blue Cat's Remote Control 3.fst
+Blue Cat's StereoScope Multi 2.fst
+Blue Cat's StereoScope Pro 2.fst
+Blue Face.fst
+Bratwurst Fuzz.fst
+Brauer Motion Mono-Stereo.fst
+Brauer Motion Stereo.fst
+Brit73AI.fst
+Butch Vig Vocals Stereo.fst
+bx_2098 EQ.fst
+bx_bassdude.fst
+bx_blackdist2.fst
+bx_bluechorus2.fst
+bx_boom.fst
+bx_cleansweep Pro.fst
+bx_cleansweep V2.fst
+bx_clipper.fst
+bx_console AMEK 200.fst
+bx_console AMEK 9099.fst
+bx_console Focusrite SC.fst
+bx_console N.fst
+bx_console SSL 4000 E.fst
+bx_console SSL 4000 G.fst
+bx_console SSL 9000 J.fst
+bx_control V2.fst
+bx_crispyscale.fst
+bx_crispytuner.fst
+bx_delay2500.fst
+bx_digital V3 mix.fst
+bx_digital V3.fst
+bx_distorange.fst
+bx_dynEQ V2.fst
+bx_glue.fst
+bx_greenscreamer.fst
+bx_hybrid V2 mix.fst
+bx_hybrid V2.fst
+bx_limiter True Peak.fst
+bx_limiter.fst
+bx_masterdesk Classic.fst
+bx_masterdesk Pro.fst
+bx_masterdesk True Peak.fst
+bx_masterdesk.fst
+bx_megadual.fst
+bx_megasingle.fst
+bx_metal2.fst
+bx_meter.fst
+bx_opto Pedal.fst
+bx_opto.fst
+bx_panEQ.fst
+bx_refinement.fst
+bx_rockergain100.fst
+bx_rockrack V3 Player.fst
+bx_rockrack V3.fst
+bx_rooMS.fst
+bx_saturator V2.fst
+bx_shredspread.fst
+bx_solo.fst
+bx_stereomaker.fst
+bx_subfilter.fst
+bx_subsynth.fst
+bx_townhouse Buss Compressor.fst
+bx_tuner.fst
+bx_XL V2.fst
+bx_XL V3.fst
+bx_yellowdrive.fst
+C1 comp Stereo.fst
+C1 comp-gate Stereo.fst
+C1 comp-sc Stereo.fst
+C1 gate Stereo.fst
+C360 5.0.fst
+C360 5.1.fst
+C4 Stereo.fst
+C6 Stereo.fst
+C6-SideChain Stereo.fst
+Camel Strip.fst
+CD-Burn.DDP.Master.fst
+Center Stereo.fst
+Cerberus Bass Amp.fst
+Chandler GAV19T.fst
+Chandler Limited Curve Bender.fst
+Chandler Limited Germanium Comp.fst
+Chandler Limited Zener Limiter.fst
+Chandler Limited Zener-Bender.fst
+Chorus Ensembler.fst
+CLA Bass Mono-Stereo.fst
+CLA Bass Stereo.fst
+CLA Drums Mono-Stereo.fst
+CLA Drums Stereo.fst
+CLA EchoSphere Mono-Stereo.fst
+CLA EchoSphere Stereo.fst
+CLA Effects Mono-Stereo.fst
+CLA Effects Stereo.fst
+CLA Epic Mono-Stereo.fst
+CLA Epic Stereo.fst
+CLA Guitars Mono-Stereo.fst
+CLA Guitars Stereo.fst
+CLA MixDown Stereo.fst
+CLA MixHub Lite Stereo.fst
+CLA MixHub Stereo.fst
+CLA Nx Stereo.fst
+CLA Unplugged Mono-Stereo.fst
+CLA Unplugged Stereo.fst
+CLA Vocals Mono-Stereo.fst
+CLA Vocals Stereo.fst
+CLA-2A Stereo.fst
+CLA-3A Stereo.fst
+CLA-76 Stereo.fst
+Clarity Vx - DeReverb Pro Stereo.fst
+Clarity Vx - DeReverb Stereo.fst
+Clarity Vx Pro Stereo.fst
+Clarity Vx Stereo.fst
+Cluster Delay.fst
+Cobra Fuzz.fst
+Comet.fst
+Console 1.fst
+Cry Boy.fst
+Cryostasis.fst
+Cyclic Panner.fst
+D2O.fst
+Dangerous BAX EQ Master.fst
+Dangerous BAX EQ Mix.fst
+Dark Memory.fst
+Darkglass Ultra.fst
+dbx-160 Stereo.fst
+dearVR music.fst
+dearVR pro.fst
+DeEsser Stereo.fst
+Deleight.fst
+DeSibilizer LL.fst
+DeSibilizer.fst
+Dials.fst
+Diezel Herbert.fst
+Diezel VH4.fst
+DIFIX.fst
+Dirty Dog Reverb.fst
+Distortion 1 mkII.fst
+Doppler Mono-Stereo.fst
+Doppler Stereo.fst
+Dorrough Stereo.fst
+Dorrough360 5.0.fst
+Dorrough360 5.1.fst
+Doubler2 Mono-Stereo.fst
+Doubler2 Stereo.fst
+Doubler4 Mono-Stereo.fst
+Doubler4 Stereo.fst
+DPR-402 Stereo.fst
+Dr Drive.fst
+Dr Phase.fst
+Dragon EQ.fst
+Drawmer 1973.fst
+Drawmer S73.fst
+DS Tantra 2.fst
+Dubstation 2.fst
+Duck.fst
+DW Drum Enhancer.fst
+Echoes T7E mkII.fst
+Eden WT800.fst
+Efektor Bass Cruncher.fst
+Efektor Bass Driver.fst
+Efektor Bass Smasher.fst
+Efektor CH3604.fst
+Efektor CP3603.fst
+Efektor DL3606.fst
+Efektor DS3603.fst
+Efektor FL3606.fst
+Efektor FZ3603.fst
+Efektor Gainia HB.fst
+Efektor Gainia TD.fst
+Efektor Gainia XT.fst
+Efektor GQ3607.fst
+Efektor Harmonitron.fst
+Efektor OD3603.fst
+Efektor PH3605.fst
+Efektor RV3604.fst
+Efektor TR3604.fst
+Efektor WF3607.fst
+Efektor Whammo.fst
+EK Edstortion Rack.fst
+EK Edstortion.fst
+EK Phazevibe Rack.fst
+EK Phazevibe.fst
+EKramer BA Stereo.fst
+EKramer DR Stereo.fst
+EKramer FX Mono-Stereo.fst
+EKramer FX Stereo.fst
+EKramer GT Mono-Stereo.fst
+EKramer GT Stereo.fst
+EKramer VC Mono-Stereo.fst
+EKramer VC Stereo.fst
+Electric Matter.fst
+Electrum.fst
+ElectrumCore.fst
+elysia alpha master.fst
+elysia alpha mix.fst
+elysia karacter master.fst
+elysia karacter mix.fst
+elysia mpressor.fst
+elysia museq master.fst
+elysia museq mix.fst
+elysia niveau filter.fst
+elysia nvelope.fst
+elysia phils cascade.fst
+EMO-D5 Stereo.fst
+EMO-F2 Stereo.fst
+EMO-Generator Stereo.fst
+EMO-Q4 Stereo.fst
+ENGL E646 VS.fst
+ENGL E765 RT.fst
+ENGL Savage 120.fst
+Enhanced EQ.fst
+Enigma Mono-Stereo.fst
+Enigma Stereo.fst
+Eos 2.fst
+Expanse3D.fst
+EZmix 3.fst
+F6 Stereo.fst
+F6-RTA Stereo.fst
+FA Echobandit Rack.fst
+FA Echobandit.fst
+FET Compressor.fst
+fiedler audio splat.fst
+fiedler audio stage.fst
+Filterverse.fst
+Filtron.fst
+FinalPlug 6.fst
+FireCharger.fst
+FireCobra.fst
+FireMaster.fst
+FireMaximizer.fst
+FirePresser.fst
+FIRETHEPUMP.fst
+Fix Doubler.fst
+Fix Flanger.fst
+Fix Phaser.fst
+Flamingo Verb.fst
+Flex Beat.fst
+Focusing Equalizer.fst
+Fog Convolver 2.fst
+Fortin Cali Suite.fst
+Fortin Nameless Suite.fst
+Fortin NTS Suite.fst
+Fox Echo Chorus.fst
+Friedman BE100.fst
+Friedman Buxom Betty.fst
+Friedman DS40.fst
+Frostbite 2.fst
+Fuchs Overdrive Supreme 50.fst
+Fuchs Train II.fst
+FuzzPlus3.fst
+Gallien Krueger 800RB.fst
+Gatekeeper.fst
+Gem Comp G.fst
+Gem Comp LA.fst
+Gem Comp670.fst
+Gem Comp76.fst
+Gem Dopamine.fst
+Gem ECHOSON.fst
+Gem EQ495.fst
+Gem EQ550.fst
+Gem EQ84.fst
+Gem EQP.fst
+Gem Mod.fst
+Gem Modula.fst
+Gem OTD-2.fst
+Gem Sculptube.fst
+Gem TAPEDESK.fst
+Gem Voice.fst
+GEQ Classic Stereo.fst
+GEQ Modern Stereo.fst
+GGD Studio Cabs Cali 1.5.fst
+GGD Studio Cabs Contenders Round 1.fst
+GGD Studio Cabs Goldstack 1.5.fst
+GGD Studio Cabs Zilla 1.5.fst
+GK Amplification 3 Pro.fst
+Gong Amp.fst
+Gorilla Drive.fst
+Gorilla.fst
+GrainSpace.fst
+Green Reaper.fst
+GreenADAI.fst
+GTR Amp Mono-Stereo.fst
+GTR Amp Stereo.fst
+GTR Solo Tool Rack Mono-Stereo.fst
+GTR Solo Tool Rack Stereo.fst
+GTR Stomp 2 Mono-Stereo.fst
+GTR Stomp 2 Stereo.fst
+GTR Stomp 4 Mono-Stereo.fst
+GTR Stomp 4 Stereo.fst
+GTR Stomp 6 Mono-Stereo.fst
+GTR Stomp 6 Stereo.fst
+GTR Tool Rack Mono-Stereo.fst
+GTR Tool Rack Stereo.fst
+GW MixCentric Stereo.fst
+GW PianoCentric Mono-Stereo.fst
+GW PianoCentric Stereo.fst
+GW ToneCentric Stereo.fst
+GW VoiceCentric Mono-Stereo.fst
+GW VoiceCentric Stereo.fst
+H-Comp Stereo.fst
+H-Delay Mono-Stereo.fst
+H-Delay Stereo.fst
+H-EQ Stereo.fst
+H-EQ-Light Stereo.fst
+H-Reverb 5.0.fst
+H-Reverb 5.1.fst
+H-Reverb long 5.0.fst
+H-Reverb long 5.1.fst
+H-Reverb long Mono-5.0.fst
+H-Reverb long Mono-5.1.fst
+H-Reverb long Mono-Stereo.fst
+H-Reverb long Stereo-5.0.fst
+H-Reverb long Stereo-5.1.fst
+H-Reverb long Stereo.fst
+H-Reverb Mono-5.0.fst
+H-Reverb Mono-5.1.fst
+H-Reverb Mono-Stereo.fst
+H-Reverb Stereo-5.0.fst
+H-Reverb Stereo-5.1.fst
+H-Reverb Stereo.fst
+Harmonic Maximizer.fst
+Harmonics Analog Saturation Processor.fst
+Harris Doyle Natalus DSCEQ.fst
+Heavy Pedal mkII.fst
+Hybrid Filter.fst
+Hyperspace.fst
+HyperTune.fst
+I Wish.fst
+IDR360 5.0.fst
+IDR360 5.1.fst
+Impact.fst
+IMPusher Stereo.fst
+Inf EQ.fst
+Infiltrator.fst
+InPhase Live Stereo.fst
+InPhase LT Live Stereo.fst
+InPhase LT Stereo.fst
+InPhase Stereo.fst
+Invisible Limiter G2.fst
+Invisible Limiter G3.fst
+Invisible Limiter.fst
+IQ-Analyser NetAux.fst
+IQ-Analyser.fst
+IQ-Comp.fst
+IQ-DeEsser.fst
+IQ-Eq.fst
+IQ-Limiter.fst
+IQ-Reverb.fst
+IR-L efficient Stereo.fst
+IR-L full Stereo.fst
+IR-L Mono-Stereo.fst
+IR1 efficient Stereo.fst
+IR1 full Stereo.fst
+IR1 Mono-Stereo.fst
+IR360 discrete Mono-5.0.fst
+IR360 eff discrete 5.0.fst
+IR360 eff discrete 5.1.fst
+IR360 eff discrete Stereo-5.0.fst
+IR360 eff s.field Stereo-5.0.fst
+IR360 sound field 5.0.fst
+IR360 sound field 5.1.fst
+IR360 sound field Mono-5.0.fst
+IR360 sound field Stereo-5.0.fst
+IRDX Core.fst
+IRLive Mono-Stereo.fst
+IRLive Stereo.fst
+JJP-Bass Mono-Stereo.fst
+JJP-Bass Stereo.fst
+JJP-Cymb-Perc Mono-Stereo.fst
+JJP-Cymb-Perc Stereo.fst
+JJP-Drums Mono-Stereo.fst
+JJP-Drums Stereo.fst
+JJP-Guitars Mono-Stereo.fst
+JJP-Guitars Stereo.fst
+JJP-Strings-Keys Mono-Stereo.fst
+JJP-Strings-Keys Stereo.fst
+JJP-Vocals Mono-Stereo.fst
+JJP-Vocals Stereo.fst
+Kaleidoscopes Mono-Stereo.fst
+Kaleidoscopes Stereo.fst
+Kerry King Signature.fst
+Key Detector Stereo.fst
+Kickstart 2.fst
+Kiive Tape Face.fst
+Kiive Xtressor.fst
+Klirrton Grindstein.fst
+Knif Audio Soma.fst
+Kombinat Tri.fst
+Kramer HLS Stereo.fst
+Kramer PIE Stereo.fst
+Kramer Tape Stereo.fst
+Krush.fst
+KSHMR Essentials Kick.fst
+Kujaku.fst
+L1 limiter Stereo.fst
+L1+ Ultramaximizer Stereo.fst
+L12X Solid State Amplifier.fst
+L2 Stereo.fst
+L3 MultiMaximizer Stereo.fst
+L3 UltraMaximizer Stereo.fst
+L3-LL Multi Stereo.fst
+L3-LL Ultra Stereo.fst
+L316 Stereo.fst
+L360 5.0.fst
+L360 5.1.fst
+LadyBug Reverb.fst
+LDC2 Compander.fst
+LFE360 5.1.fst
+Lindell 254E.fst
+Lindell 354E.fst
+Lindell 50 Buss.fst
+Lindell 50 Channel.fst
+Lindell 69 Buss.fst
+Lindell 69 Channel.fst
+Lindell 6X-500.fst
+Lindell 7X-500.fst
+Lindell 80 Bus.fst
+Lindell 80 Channel.fst
+Lindell 902 De-esser.fst
+Lindell ChannelX.fst
+Lindell MBC.fst
+Lindell PEX-500.fst
+Lindell SBC.fst
+Lindell TE-100.fst
+LinEQ Broadband Stereo.fst
+LinEQ Lowband Stereo.fst
+LinMB Stereo.fst
+Lion Master.fst
+LoAir 5.0-5.1.fst
+LoAir 5.1.fst
+LoAir Stereo.fst
+Lofi Space Mono-Stereo.fst
+Lofi Space Stereo.fst
+Looptrotter SA2RATE2.fst
+Low Filter.fst
+LTL Chop Shop EQ.fst
+LTL SILVER BULLET mk2.fst
+M360 Manager 5.0-5.1.fst
+M360 Manager 5.0.fst
+M360 Manager 5.1.fst
+M360 Mixdown 5.0.fst
+M360 Mixdown 5.1.fst
+M5133.fst
+Maag EQ2.fst
+Maag EQ4.fst
+Maag MAGNUM-K.fst
+Magma BB Tubes Stereo.fst
+Magma Channel Strip Stereo.fst
+Magma Lil Tube Stereo.fst
+Magma Springs Mono-Stereo.fst
+Magma Springs Stereo.fst
+Manipulator.fst
+MannyM Delay Mono-Stereo.fst
+MannyM Delay Stereo.fst
+MannyM Distortion Stereo.fst
+MannyM EQ Stereo.fst
+MannyM Reverb Mono-Stereo.fst
+MannyM Reverb Stereo.fst
+MannyM Tone Shaper Stereo.fst
+MannyM TripleD Stereo.fst
+Mantis.fst
+Mark Studio 2.fst
+Marshall Bluesbreaker 1962.fst
+Marshall JMP 2203.fst
+Marshall Plexi Super Lead 1959.fst
+Marshall Silver Jubilee 2555.fst
+Maserati ACG Mono-Stereo.fst
+Maserati ACG Stereo.fst
+Maserati B72 Mono-Stereo.fst
+Maserati B72 Stereo.fst
+Maserati DRM Stereo.fst
+Maserati GRP Stereo.fst
+Maserati GTi Mono-Stereo.fst
+Maserati GTi Stereo.fst
+Maserati HMX Mono-Stereo.fst
+Maserati HMX Stereo.fst
+Maserati VX1 Mono-Stereo.fst
+Maserati VX1 Stereo.fst
+Master Plan v1.5.fst
+MasterMind.fst
+MasterVerb 6.fst
+Material Comp.fst
+MaxxBass Stereo.fst
+MaxxVolume Stereo.fst
+MDMX Fuzz Stereo.fst
+MDMX OverDrive Stereo.fst
+MDMX Screamer Stereo.fst
+Megaphone.fst
+MetaFilter Mono-Stereo.fst
+MetaFilter Stereo.fst
+MetaFlanger Mono-Stereo.fst
+MetaFlanger Stereo.fst
+Metal Amp Room.fst
+Meter.fst
+Michelangelo.fst
+Millennia NSEQ-2.fst
+Millennia TCL-2.fst
+miniVerb.fst
+Mirror.fst
+MixChecker Pro.fst
+Mixland Vac Attack.fst
+Model 72 FX Synthesizer System.fst
+Model N Channel.fst
+Modular FX.fst
+MoMa.fst
+MondoMod Mono-Stereo.fst
+MondoMod Stereo.fst
+Morph EQ.fst
+Morphoder Mono-Stereo.fst
+Morphoder Stereo.fst
+MorphVerb.fst
+MT-A.fst
+Multiband X6.fst
+MultiDrive Pedal Pro.fst
+MultiDynamics 6.fst
+MultiDynamics 7.fst
+MultiMod Rack Mono-Stereo.fst
+MultiMod Rack Stereo.fst
+Mutronics Mutator.fst
+MV2 Stereo.fst
+MV360 5.0.fst
+MV360 5.1.fst
+NA 8180.fst
+NA Acoustic Voice.fst
+NA Analog Rack Bass Equalizer.fst
+NA Analog Rack Chorus.fst
+NA Analog Rack Cleaner.fst
+NA Analog Rack Compressor.fst
+NA Analog Rack Delay.fst
+NA Analog Rack Flanger.fst
+NA Analog Rack Fuzz.fst
+NA Analog Rack Guitar Equalizer.fst
+NA Analog Rack Noise Gate.fst
+NA Analog Rack Phaser.fst
+NA Analog Rack Reverb.fst
+NA Analog Rack Screamer.fst
+NA Analog Rack Tremolo.fst
+NA Bass Driver.fst
+NA Blackice Beta Gamma.fst
+NA Bst100 V2.fst
+NA Cali Dual.fst
+NA Cali Reverb.fst
+NA Crunck V2.fst
+NA Delay3000.fst
+NA Doubler.fst
+NA EN Hardball.fst
+NA Faceman.fst
+NA Hivolt 103.fst
+NA IR Loader.fst
+NA Jmp Pro.fst
+NA LoFi.fst
+NA Mp1 Pro.fst
+NA Mrh159.fst
+NA Mrh810 V2.fst
+NA Overdrive Special.fst
+NA Plugin Rig.fst
+NA PSA1000 Jr.fst
+NA PSA1000.fst
+NA Quinta.fst
+NA Sound Master.fst
+NA The Boss Rack.fst
+NA The Boss.fst
+NA Voice DC30.fst
+Nanopulse.fst
+Nectar 4 Auto-Level.fst
+Nectar 4 Backer.fst
+Nectar 4 Breath Control.fst
+Nectar 4 Compressor.fst
+Nectar 4 DeEsser.fst
+Nectar 4 Delay.fst
+Nectar 4 Dimension.fst
+Nectar 4 Equalizer.fst
+Nectar 4 Gate.fst
+Nectar 4 Pitch.fst
+Nectar 4 Reverb.fst
+Nectar 4 Saturation.fst
+Nectar 4 Voices.fst
+Nectar 4.fst
+Need 31102 Console EQ.fst
+Need 533 EQ.fst
+Need 73 Console EQ.fst
+Need 81 Console EQ.fst
+Need 84 Console EQ.fst
+Need Pre 31102.fst
+Need Pre Trilogy.fst
+NEOLD BIG AL.fst
+NEOLD U17.fst
+NEOLD U2A.fst
+NEOLD V76U73.fst
+NEOLD WARBLE.fst
+Neutron 4 Compressor.fst
+Neutron 4 Equalizer.fst
+Neutron 4 Exciter.fst
+Neutron 4 Gate.fst
+Neutron 4 Sculptor.fst
+Neutron 4 Transient Shaper.fst
+Neutron 4 Unmask.fst
+Neutron 4 Visual Mixer.fst
+Neutron 4.fst
+NLS Buss Stereo.fst
+NLS Channel Stereo.fst
+Noveltech Character.fst
+Noveltech Vocal Enhancer.fst
+NS1 Stereo.fst
+Nu Compressor.fst
+NUGEN Send.fst
+NUGEN Stereoizer3.fst
+NUGEN Visualizer2.fst
+NX 5.0-Stereo.fst
+NX 5.0.fst
+NX 5.1-Stereo.fst
+NX 5.1.fst
+NX 7.1-Stereo.fst
+NX 7.1.fst
+Nx Ambisonics Quad-Stereo.fst
+NX Ambisonics Quad.fst
+Nx Germano Studios 5.1-Stereo.fst
+Nx Germano Studios Stereo.fst
+NX Mono-Stereo.fst
+Nx Ocean Way Nashville Stereo.fst
+NX Stereo.fst
+OCS-45.fst
+Octaver 82.fst
+OMEGA Ampworks Granophyre.fst
+OneKnob Brighter Stereo.fst
+OneKnob Driver Stereo.fst
+OneKnob Filter Stereo.fst
+OneKnob Louder Stereo.fst
+OneKnob Phatter Stereo.fst
+OneKnob Pressure Stereo.fst
+OneKnob Pumper Stereo.fst
+OneKnob Wetter Mono-Stereo.fst
+OneKnob Wetter Stereo.fst
+Orbitron.fst
+Other Desert Cities.fst
+OTO Biscuit 8-bit Effects.fst
+Outer Space.fst
+OVox Mono-Stereo.fst
+OVox Stereo.fst
+Owl Control.fst
+Ozone 11 Clarity.fst
+Ozone 11 Dynamic EQ.fst
+Ozone 11 Dynamics.fst
+Ozone 11 Equalizer.fst
+Ozone 11 Exciter.fst
+Ozone 11 Imager.fst
+Ozone 11 Impact.fst
+Ozone 11 Low End Focus.fst
+Ozone 11 Master Rebalance.fst
+Ozone 11 Match EQ.fst
+Ozone 11 Maximizer.fst
+Ozone 11 Spectral Shaper.fst
+Ozone 11 Stabilizer.fst
+Ozone 11 Vintage Compressor.fst
+Ozone 11 Vintage EQ.fst
+Ozone 11 Vintage Limiter.fst
+Ozone 11 Vintage Tape.fst
+Ozone 11.fst
+Pancz.fst
+Panorama 6.fst
+Panorama 7.fst
+Parallax.fst
+Passive EQ.fst
+Passive Equalizer.fst
+PAZ- Analyzer Stereo.fst
+PAZ- Frequency Stereo.fst
+PAZ- Meters Stereo.fst
+PAZ- Position Stereo.fst
+Pillar Power Amp.fst
+PitchMonster.fst
+Plamen.fst
+Plasma.fst
+PlaylistRider Stereo.fst
+PlexiTape.fst
+Pluralis.fst
+Polaris.fst
+PolyComp.fst
+Pre X7.fst
+PreBOX.fst
+Pro Audio DSP DSM V3.fst
+PRS Archon Mono-Stereo.fst
+PRS Dallas Mono-Stereo.fst
+PRS V9 Mono-Stereo.fst
+PS22 Split Mono-Stereo.fst
+PS22 Split Stereo.fst
+PS22 Spread Mono-Stereo.fst
+PS22 Spread Stereo.fst
+PS22 Spread(10) Mono-Stereo.fst
+PS22 Spread(10) Stereo.fst
+PS22 XSplit Mono-Stereo.fst
+PS22 XSplit Stereo.fst
+PSE Stereo.fst
+PuigChild 670 Stereo.fst
+PuigTec EQP1A Stereo.fst
+PuigTec MEQ5 Stereo.fst
+Punish.fst
+Purple Audio MC 77.fst
+PutMeOnDrums.fst
+Pyros.fst
+Q-Clone Stereo.fst
+Q1 Stereo.fst
+Q10 Stereo.fst
+Q2 Stereo.fst
+Q3 Stereo.fst
+Q4 Stereo.fst
+Q6 Stereo.fst
+Q8 Stereo.fst
+QuatroMod.fst
+R360 5.0.fst
+R360 5.1.fst
+R360 Mono-5.0.fst
+R360 Mono-5.1.fst
+R360 Stereo-5.0.fst
+R360 Stereo-5.1.fst
+Rabbit Tape.fst
+RBass Stereo.fst
+RChannel Mono-Stereo.fst
+RChannel Stereo.fst
+RCompressor Stereo.fst
+RDeEsser Stereo.fst
+Reels.fst
+Renaissance Axx Stereo.fst
+RePitch VST.fst
+Replicant 2.fst
+REQ 2 Stereo.fst
+REQ 4 Stereo.fst
+REQ 6 Stereo.fst
+Retro Fi Mono-Stereo.fst
+Retro Fi Stereo.fst
+Retronaut.fst
+Revoice Pro Link (Legacy).fst
+Revoice Pro Link.fst
+Rhino Reverb.fst
+Rift.fst
+RootOne.fst
+RoughRider3.fst
+RoyalCompressor.fst
+RVerb Mono-Stereo.fst
+RVerb Stereo.fst
+RVox Stereo.fst
+RX950.fst
+RZ062a Equalizer.fst
+RZ062b Equalizer.fst
+S1 Imager Stereo.fst
+S1 MS Matrix Stereo.fst
+S1 Shuffler Stereo.fst
+S360 Imager 5.0.fst
+S360 Imager 5.1.fst
+S360 Imager Mono-5.0.fst
+S360 Imager Mono-5.1.fst
+S360 Imager Stereo-5.0.fst
+S360 Imager Stereo-5.1.fst
+S360 Panner Mono-5.0.fst
+S360 Panner Mono-5.1.fst
+S360 Panner Stereo-5.0.fst
+S360 Panner Stereo-5.1.fst
+SA76.fst
+Sakura Dither.fst
+Saphira Stereo.fst
+Saturation Knob.fst
+Scheps 73 Stereo.fst
+Scheps Omni Channel 2 Stereo.fst
+Scheps Parallel Particles Stereo.fst
+Schoeps Double MS.fst
+Schoeps Mono Upmix 1to2.fst
+Schoeps Mono Upmix 1to3.fst
+SerumFX.fst
+Shadow Hills Class A Mastering Comp.fst
+Shadow Hills Mastering Compressor.fst
+ShaperBox 3.fst
+Sibilance Stereo.fst
+Sibilance-Live Stereo.fst
+Side Filter.fst
+Silk Vocal Live Stereo.fst
+Silk Vocal Stereo.fst
+Smack Attack Stereo.fst
+smartEQ4.fst
+Smash And Grab v2.fst
+Solidus Randy 250.fst
+Solidus VS8100.fst
+SoundShifter Pitch Stereo.fst
+Space Rider Mono-Stereo.fst
+Space Rider Stereo.fst
+Space Station UM282.fst
+Space Strip.fst
+Spacer.fst
+Speakers.fst
+Spherix Compressor 7.1.2.fst
+Spherix Compressor 7.1.4.fst
+Spherix Limiter 7.1.2.fst
+Spherix Limiter 7.1.4.fst
+SPL Attacker Plus.fst
+SPL De-Esser Dual-Band.fst
+SPL De-Esser.fst
+SPL De-Verb Plus.fst
+SPL DrumXchanger.fst
+SPL EQ Ranger Plus.fst
+SPL Free Ranger.fst
+SPL HawkEye.fst
+SPL IRON.fst
+SPL Mo-Verb Plus.fst
+SPL Passeq Single.fst
+SPL Passeq.fst
+SPL PQ.fst
+SPL Transient Designer Plus.fst
+SPL TwinTube.fst
+SPL Vitalizer MK2-T.fst
+Spring Reverb.fst
+Springs.fst
+SSL EV2 Channel Stereo.fst
+SSL Native Bus Compressor v6.fst
+SSL Native Channelstrip v6.fst
+SSL Native Drumstrip v6.fst
+SSL Native FlexVerb.fst
+SSL Native Vocalstrip 2.fst
+SSL Native X-Comp v6.fst
+SSL Native X-EQ 2.fst
+SSL Native X-Phase v6.fst
+SSL Native X-Saturator v6.fst
+SSL Native X-ValveComp v6.fst
+SSLChannel Stereo.fst
+SSLComp Stereo.fst
+SSLEQ Stereo.fst
+SSLGChannel Stereo.fst
+Stereo Imager D.fst
+STL ControlHub.fst
+STL Ignite - AmpHub.fst
+STL ToneHub.fst
+StudioVerse Audio Effects Mono-Stereo.fst
+StudioVerse Audio Effects Stereo.fst
+Sub Align Stereo.fst
+Sub Ninja.fst
+SubbassDoctor808.fst
+Submarine Stereo.fst
+Suhr PT100.fst
+Suhr SE100.fst
+Summit Audio EQF-100.fst
+Summit Audio Grand Channel.fst
+Summit Audio TLA-100A.fst
+Supermodal.fst
+SuperTap 2-Taps Mono-Stereo.fst
+SuperTap 2-Taps Stereo.fst
+SuperTap 6-Taps Mono-Stereo.fst
+SuperTap 6-Taps Stereo.fst
+Surge XT Effects.fst
+Swarm Reverb.fst
+SYS AlgoVerb.fst
+SYS Chorus.fst
+SYS Comp.fst
+SYS CompListenMic.fst
+SYS Delay.fst
+SYS Distortion.fst
+SYS EQ-Dynamic.fst
+SYS EQ.fst
+SYS Expander.fst
+SYS Flanger.fst
+SYS Gain.fst
+SYS Gate.fst
+SYS Meter.fst
+SYS MultiMod.fst
+SYS Notepad.fst
+SYS Pan.fst
+SYS Phaser.fst
+SYS PinkNoise.fst
+SYS Pitch.fst
+SYS Saturator.fst
+SYSTEM.fst
+Tape Pro.fst
+Tape.fst
+TapeMAI.fst
+TapeSAI.fst
+Tau Compressor Plus.fst
+TBTECH Kirchhoff-EQ.fst
+TB_Barricade_v4.fst
+TB_BitJuggler_v1.fst
+TB_Compressor_v4.fst
+TB_DualVCF_v1.fst
+TB_Enhancer_v1.fst
+TB_Equalizer_v4.fst
+TB_GonioMeter_v1.fst
+TB_MBC_v1.fst
+TB_Morphit_v1.fst
+TB_ReelBus_v4.fst
+TB_Reverb_v4.fst
+TB_Sibalance_v4.fst
+TB_Spectrogram_v1.fst
+TB_VoicePitcher_v4.fst
+TDR Nova.fst
+Texture.fst
+TH-U.fst
+The Bluesman.fst
+The Dom.fst
+The Driver.fst
+The Glue.fst
+The God Particle.fst
+The Orb.fst
+THE OVEN.fst
+The Overseer.fst
+The Shredder.fst
+ThickPreAI.fst
+Things Bubbles.fst
+Things Crusher.fst
+Things Flip EQ.fst
+Things Motor.fst
+Things Texture.fst
+THX Spatial Creator.fst
+TimeMachine.fst
+TITANIUM31B.fst
+TITANIUM33B.fst
+TITANIUM3BASSTARD.fst
+TITANIUM3EQ.fst
+TITANIUM3PRE.fst
+TITANIUM3STRIP.fst
+TOMO Audiolabs LISA.fst
+Tonal Balance Control 2.fst
+ToneLib-GFX.fst
+ToneLib-Metal.fst
+Tonelux Tilt Live.fst
+Tonelux Tilt.fst
+TONEX.fst
+Torque Stereo.fst
+Torque-Live Stereo.fst
+TR5 Black 76.fst
+TR5 Brickwall Limiter.fst
+TR5 British Channel.fst
+TR5 Bus Compressor.fst
+TR5 Classic Clipper.fst
+TR5 Classic Comp.fst
+TR5 Classic EQ.fst
+TR5 Classic Multi Band Limiter.fst
+TR5 Comprexxor.fst
+TR5 CSR Hall.fst
+TR5 CSR Inverse.fst
+TR5 CSR Plate.fst
+TR5 CSR Room.fst
+TR5 De Esser.fst
+TR5 Dyna-Mu.fst
+TR5 EQ-73.fst
+TR5 EQ-81.fst
+TR5 EQ-PA.fst
+TR5 EQ-PB.fst
+TR5 EQ-PG.fst
+TR5 EQP-1A.fst
+TR5 EQual.fst
+TR5 Fame Studio Reverb.fst
+TR5 Joe Chiccarelli Vocal Strip.fst
+TR5 Leslie.fst
+TR5 Linear Phase EQ.fst
+TR5 Master EQ-432.fst
+TR5 Master Match.fst
+TR5 Metering.fst
+TR5 Mic Room.fst
+TR5 One.fst
+TR5 Opto Comp.fst
+TR5 Precision Comp-Limiter.fst
+TR5 Quad Compressor.fst
+TR5 Quad Image.fst
+TR5 Quad Limiter.fst
+TR5 Saturator X.fst
+TR5 Space Delay.fst
+TR5 Stealth Limiter.fst
+TR5 Suite.fst
+TR5 Sunset Sound Studio Reverb.fst
+TR5 Tape Echo.fst
+TR5 Tape Machine 24.fst
+TR5 Tape Machine 440.fst
+TR5 Tape Machine 80.fst
+TR5 Tape Machine 99.fst
+TR5 TASCAM 388.fst
+TR5 TASCAM PORTA ONE.fst
+TR5 TEAC A-3340S.fst
+TR5 TEAC A-6100 MKII.fst
+TR5 The Farm Stone Room.fst
+TR5 VC-670.fst
+TR5 White 2A.fst
+TR5 White Channel.fst
+Track Symbiosis.fst
+TrackPlug 6.fst
+TRACT LinPhase Stereo.fst
+TRACT Stereo.fst
+tranQuilizr G2.fst
+tranQuilizr.fst
+Transient Shaper.fst
+Transmutator.fst
+TransX Multi Stereo.fst
+TransX Wide Stereo.fst
+TrapTune.fst
+TridA-Pre.fst
+Trident A-Range.fst
+Triple Fader.fst
+TrueVerb Mono-Stereo.fst
+TrueVerb Stereo.fst
+TS-1 Transient Shaper.fst
+TSAR-1 Reverb.fst
+TSAR-1R Reverb.fst
+Tube Delay.fst
+Tube KC-1.fst
+Tube Modulator.fst
+Tube-Tech CL 1B mk II.fst
+Tube-Tech CL 1B.fst
+Tube-Tech Classic Channel mk II.fst
+Tube-Tech Classic Channel.fst
+Tube-Tech Equalizers mk II.fst
+Tube-Tech ME 1B.fst
+Tube-Tech PE 1C.fst
+Tuned Reverb.fst
+Type A.fst
+Type B.fst
+U73b Compressor.fst
+U78 Saturator.fst
+UltraPitch 3 Voices Mono-Stereo.fst
+UltraPitch 6 Voices Mono-Stereo.fst
+UltraPitch Shift Mono-Stereo.fst
+UM225 Stereo-5.0.fst
+UM226 Stereo-5.1.fst
+Unfiltered Audio Bass Mint.fst
+Unfiltered Audio Byome.fst
+Unfiltered Audio Dent 2.fst
+Unfiltered Audio Fault.fst
+Unfiltered Audio G8.fst
+Unfiltered Audio Indent 2.fst
+Unfiltered Audio Instant Delay.fst
+Unfiltered Audio lo-fi-af.fst
+Unfiltered Audio Needlepoint.fst
+Unfiltered Audio Sandman Pro.fst
+Unfiltered Audio Sandman.fst
+Unfiltered Audio Silo.fst
+Unfiltered Audio SpecOps.fst
+Unfiltered Audio Tails.fst
+Unfiltered Audio Triad.fst
+Unfiltered Audio Zip.fst
+UniChannel.fst
+UrbanPuncher.fst
+USRackAI.fst
+ValhallaDelay.fst
+ValhallaFreqEcho.fst
+ValhallaPlate.fst
+ValhallaRoom.fst
+ValhallaShimmer.fst
+ValhallaSpaceModulator.fst
+ValhallaSupermassive.fst
+ValhallaUberMod.fst
+ValhallaVintageVerb.fst
+Valley People Dyna-mite Gate.fst
+Valley People Dyna-mite Slam.fst
+Valley People Dyna-mite.fst
+Valves.fst
+Vari Comp.fst
+VC 160.fst
+VC 2A.fst
+VC 76.fst
+VComp Stereo.fst
+VEQ3 Stereo.fst
+VEQ4 Stereo.fst
+Verbum.fst
+Vertigo VSC-2.fst
+Vertigo VSM-3.fst
+Vintage Amp Room.fst
+Vinyl Strip.fst
+Vitamin Stereo.fst
+Vocal Bender Stereo.fst
+Vocal Chain.fst
+Vocal Rider Live Stereo.fst
+Vocal Rider Stereo.fst
+Vocal Tune.fst
+VocAlign 6 Pro VST.fst
+Voltage Amps Bass Mono-Stereo.fst
+Voltage Amps Bass Stereo.fst
+Voltage Amps Guitar Mono-Stereo.fst
+Voltage Amps Guitar Stereo.fst
+VoxDucker.fst
+Voxessor.fst
+VU Meter Stereo.fst
+W43 Stereo.fst
+Wave Box.fst
+Wave Shredder.fst
+Waves Gemstones Mono-Stereo.fst
+Waves Gemstones Stereo.fst
+Waves Harmony Mono-Stereo.fst
+Waves Harmony Stereo.fst
+Waves Stream Receive Stereo.fst
+Waves Stream Send Stereo.fst
+Waves Tune LT Stereo.fst
+Waves Tune Real-Time Stereo.fst
+Waves Tune Stereo.fst
+Weiss Compressor Limiter.fst
+Weiss Deess.fst
+Weiss DS1-MK3.fst
+Weiss EQ MP.fst
+Weiss EQ1.fst
+Weiss MM-1 Mastering Maximizer.fst
+Wider.fst
+Wires.fst
+WLM Meter 5.0.fst
+WLM Meter 5.1.fst
+WLM Meter Stereo.fst
+WLM Plus 5.0.fst
+WLM Plus 5.1.fst
+WLM Plus Stereo.fst
+WNS Stereo.fst
+X-Click Stereo.fst
+X-Crackle Stereo.fst
+X-FDBK Stereo.fst
+X-Hum Stereo.fst
+X-Noise Stereo.fst
+XenoVerb.fst
+Xrider.fst
+Xvox Comp.fst
+Xvox DS.fst
+Xvox Pro.fst
+Xvox SFX.fst
+Xvox Space.fst
+Xvox Tone.fst
+Yak Delay.fst
+Z-Noise Stereo.fst
+Control Surface.fst
+Distructor.fst
+Edison.fst
+Effector.fst
+EQUO.fst
+Frequency Shifter.fst
+Frequency Splitter.fst
+Fruity 7 Band EQ.fst
+Fruity Balance.fst
+Fruity Bass Boost.fst
+Fruity Big Clock.fst
+Fruity Blood Overdrive.fst
+Fruity Center.fst
+Fruity Chorus.fst
+Fruity Compressor.fst
+Fruity Convolver.fst
+Fruity dB Meter.fst
+Fruity Delay 2.fst
+Fruity Delay 3.fst
+Fruity Delay Bank.fst
+Fruity Delay.fst
+Fruity Fast Dist.fst
+Fruity Fast LP.fst
+Fruity Filter.fst
+Fruity Flanger.fst
+Fruity Flangus.fst
+Fruity Formula Controller.fst
+Fruity Free Filter.fst
+Fruity HTML NoteBook.fst
+Fruity Limiter.fst
+Fruity Love Philter.fst
+Fruity LSD.fst
+Fruity Multiband Compressor.fst
+Fruity Mute 2.fst
+Fruity NoteBook 2.fst
+Fruity NoteBook.fst
+Fruity PanOMatic.fst
+Fruity Parametric EQ 2.fst
+Fruity Parametric EQ.fst
+Fruity Peak Controller.fst
+Fruity Phase Inverter.fst
+Fruity Phaser.fst
+Fruity Reeverb 2.fst
+Fruity Reeverb.fst
+Fruity Scratcher.fst
+Fruity Send.fst
+Fruity Soft Clipper.fst
+Fruity Spectroman.fst
+Fruity Squeeze.fst
+Fruity Stereo Enhancer.fst
+Fruity Stereo Shaper.fst
+Fruity Vocoder.fst
+Fruity WaveShaper.fst
+Fruity Wrapper.fst
+Fruity X-Y Controller.fst
+Fruity X-Y-Z Controller.fst
+Gross Beat.fst
+Hardcore.fst
+Hyper Chorus.fst
+Luxeverb.fst
+Maximus.fst
+Multiband Delay.fst
+Newtime.fst
+Newtone.fst
+Patcher.fst
+Pitch Shifter.fst
+Pitcher.fst
+Razer Chroma.fst
+Soundgoodizer.fst
+Transient Processor.fst
+Tuner.fst
+VFX Color Mapper.fst
+VFX Envelope.fst
+VFX Key Mapper.fst
+VFX Keyboard Splitter.fst
+VFX Level Scaler.fst
+VFX Sequencer.fst
+Vintage Chorus.fst
+Vintage Phaser.fst
+Vocodex.fst
+Wave Candy.fst
+ZGameEditor Visualizer.fst
+Cobra Fuzz.fst
+BOD.fst
+CamelCrusher.fst
+Crystallizer.fst
+Decapitator.fst
+Devil-Loc Deluxe.fst
+Devil-Loc.fst
+EchoBoy.fst
+EffectRack.fst
+FabFilter Micro.fst
+FabFilter Pro-C 2.fst
+FabFilter Pro-DS.fst
+FabFilter Pro-G.fst
+FabFilter Pro-L 2.fst
+FabFilter Pro-MB.fst
+FabFilter Pro-Q 3.fst
+FabFilter Pro-R.fst
+FabFilter Saturn 2.fst
+FabFilter Simplon.fst
+FabFilter Timeless 3.fst
+FabFilter Volcano 3.fst
+FilterFreak1.fst
+FilterFreak2.fst
+Little AlterBoy.fst
+Little MicroShift.fst
+Little PrimalTap.fst
+Little Radiator.fst
+MicroShift.fst
+PanMan.fst
+PhaseMistress.fst
+PrimalTap.fst
+Radiator.fst
+SGA1566.fst
+Transatlantic Plate Reverb.fst
+Tremolator.fst
+4U+ BlindTest.fst
+4U+ DynamicTiltEQ.fst
+4U+ ProjectTime.fst
+Abbey Road Chambers Mono-Stereo.fst
+Abbey Road Chambers Stereo.fst
+Abbey Road EMI TG12345 Channel Stereo.fst
+Abbey Road J37 Tape Stereo.fst
+Abbey Road Plates Mono-Stereo.fst
+Abbey Road Plates Stereo.fst
+Abbey Road REDD.17 Stereo.fst
+Abbey Road REDD.37.51 Stereo.fst
+Abbey Road Reel ADT Live Mono-Stereo.fst
+Abbey Road Reel ADT Live Stereo.fst
+Abbey Road Reel ADT Mono-Stereo.fst
+Abbey Road Reel ADT Stereo.fst
+Abbey Road Reel ADT2V Live Mono-Stereo.fst
+Abbey Road Reel ADT2V Live Stereo.fst
+Abbey Road Reel ADT2V Mono-Stereo.fst
+Abbey Road Reel ADT2V Stereo.fst
+Abbey Road RS124 Stereo.fst
+Abbey Road RS127 Box.fst
+Abbey Road RS127 Rack.fst
+Abbey Road RS135.fst
+Abbey Road RS56 Passive EQ Stereo.fst
+Abbey Road Saturator Stereo.fst
+Abbey Road Studio 3 5.1-Stereo.fst
+Abbey Road Studio 3 7.1-Stereo.fst
+Abbey Road Studio 3 Stereo.fst
+Abbey Road TG Mastering Live Stereo.fst
+Abbey Road TG Mastering Stereo.fst
+Abbey Road TG Meter Bridge Stereo.fst
+Abbey Road The King's Microphones Stereo.fst
+Abbey Road Vinyl Light Stereo.fst
+Abbey Road Vinyl Stereo.fst
+Acme Opticom XLA-3.fst
+Acoustic Feedback.fst
+Active Equalizer.fst
+ADA Flanger.fst
+ADA STD-1 Stereo Tapped Delay.fst
+ADPTR MetricAB.fst
+ADPTR Sculpt.fst
+ADPTR StreamLiner.fst
+AIR Soft Clipper.fst
+Alborosie Dub Station.fst
+AMEK EQ 200.fst
+AMEK EQ 250.fst
+AMEK Mastering Compressor.fst
+American Class A.fst
+Amp Room.fst
+Ampbox.fst
+Ampeg B15N.fst
+Ampeg SVT3Pro.fst
+Ampeg SVTVR Classic.fst
+Ampeg SVTVR.fst
+Ampeg V4B.fst
+Amplifikation 360.fst
+Amplifikation Caliburn.fst
+Amplifikation Clarent.fst
+Amplifikation Creme.fst
+Amplifikation Lancaster.fst
+Amplifikation Matchlock.fst
+Amplifikation Rectifor.fst
+Amplifikation Vermilion.fst
+Amplifikation VVV.fst
+AmpLion 2 Rock Essentials.fst
+Aphex Vintage Exciter Stereo.fst
+API-2500 Stereo.fst
+API-550A Stereo.fst
+API-550B Stereo.fst
+API-560 Stereo.fst
+Archetype Abasi.fst
+Archetype Cory Wong.fst
+Archetype Gojira.fst
+Archetype Nolly.fst
+Archetype Plini.fst
+ARP 2600 FX.fst
+ATONE.fst
+AudioTrack Stereo.fst
+Auto-Key 2.fst
+Auto-Tune Pro.fst
+Autoformer.fst
+B360 5.0-Quad.fst
+B360 5.1-Quad.fst
+B360 7.1-Quad.fst
+B360 AmbiX-FuMa Quad.fst
+B360 FuMa-AmbiX Quad.fst
+B360 Mono-Quad.fst
+B360 Stereo-Quad.fst
+Bass Amp Room.fst
+Bass Rider Live Stereo.fst
+Bass Rider Stereo.fst
+Bass Sculptor.fst
+Bass XXL.fst
+BassFocus.fst
+Basslane Pro.fst
+Bassment.fst
+BassmentCore.fst
+BassRift.fst
+Berzerk Distortion Stereo.fst
+Bettermaker Bus Compressor DSP.fst
+Bettermaker EQ232D.fst
+Big Goat.fst
+Bitpunk.fst
+Black Box Analog Design HG-2.fst
+Black Box Analog Design HG-2MS.fst
+Blue Cat's AcouFiend.fst
+Blue Cat's Axiom.fst
+Blue Cat's Connector.fst
+Blue Cat's Destructor.fst
+Blue Cat's DP Meter Pro 4 (Srnd).fst
+Blue Cat's DP Meter Pro 4 (Stereo).fst
+Blue Cat's Dynamics 4(Stereo).fst
+Blue Cat's FreqAnalyst 2 (Stereo).fst
+Blue Cat's FreqAnalyst Multi 2.fst
+Blue Cat's FreqAnalyst Pro 2 (Stereo).fst
+Blue Cat's Hot Tuna.fst
+Blue Cat's Late Replies.fst
+Blue Cat's Liny EQ 5 (Dual).fst
+Blue Cat's Liny EQ 5 (Stereo).fst
+Blue Cat's MB-5 Dynamix 2(Stereo).fst
+Blue Cat's MB-7 Mixer 2 (Dual).fst
+Blue Cat's MB-7 Mixer 2 (Stereo).fst
+Blue Cat's Oscilloscope Multi 2.fst
+Blue Cat's PatchWork.fst
+Blue Cat's Plug'n Script.fst
+Blue Cat's PolyVibe.fst
+Blue Cat's Protector 2.fst
+Blue Cat's Re-Guitar.fst
+Blue Cat's Re-Head.fst
+Blue Cat's Remote Control 3.fst
+Blue Cat's StereoScope Multi 2.fst
+Blue Cat's StereoScope Pro 2.fst
+Blue Face.fst
+Bratwurst Fuzz.fst
+Brauer Motion Mono-Stereo.fst
+Brauer Motion Stereo.fst
+Brit73AI.fst
+Butch Vig Vocals Stereo.fst
+bx_2098 EQ.fst
+bx_bassdude.fst
+bx_blackdist2.fst
+bx_bluechorus2.fst
+bx_boom.fst
+bx_cleansweep Pro.fst
+bx_cleansweep V2.fst
+bx_clipper.fst
+bx_console AMEK 200.fst
+bx_console AMEK 9099.fst
+bx_console Focusrite SC.fst
+bx_console N.fst
+bx_console SSL 4000 E.fst
+bx_console SSL 4000 G.fst
+bx_console SSL 9000 J.fst
+bx_control V2.fst
+bx_crispyscale.fst
+bx_crispytuner.fst
+bx_delay2500.fst
+bx_digital V3 mix.fst
+bx_digital V3.fst
+bx_distorange.fst
+bx_dynEQ V2.fst
+bx_glue.fst
+bx_greenscreamer.fst
+bx_hybrid V2 mix.fst
+bx_hybrid V2.fst
+bx_limiter True Peak.fst
+bx_limiter.fst
+bx_masterdesk Classic.fst
+bx_masterdesk Pro.fst
+bx_masterdesk True Peak.fst
+bx_masterdesk.fst
+bx_megadual.fst
+bx_megasingle.fst
+bx_metal2.fst
+bx_meter.fst
+bx_opto Pedal.fst
+bx_opto.fst
+bx_panEQ.fst
+bx_refinement.fst
+bx_rockergain100.fst
+bx_rockrack V3 Player.fst
+bx_rockrack V3.fst
+bx_rooMS.fst
+bx_saturator V2.fst
+bx_shredspread.fst
+bx_solo.fst
+bx_stereomaker.fst
+bx_subfilter.fst
+bx_subsynth.fst
+bx_townhouse Buss Compressor.fst
+bx_tuner.fst
+bx_XL V2.fst
+bx_XL V3.fst
+bx_yellowdrive.fst
+C1 comp Stereo.fst
+C1 comp-gate Stereo.fst
+C1 comp-sc Stereo.fst
+C1 gate Stereo.fst
+C360 5.0.fst
+C360 5.1.fst
+C4 Stereo.fst
+C6 Stereo.fst
+C6-SideChain Stereo.fst
+Camel Strip.fst
+CD-Burn.DDP.Master.fst
+Center Stereo.fst
+Cerberus Bass Amp.fst
+Chandler GAV19T.fst
+Chandler Limited Curve Bender.fst
+Chandler Limited Germanium Comp.fst
+Chandler Limited Zener Limiter.fst
+Chandler Limited Zener-Bender.fst
+Chorus Ensembler.fst
+CLA Bass Mono-Stereo.fst
+CLA Bass Stereo.fst
+CLA Drums Mono-Stereo.fst
+CLA Drums Stereo.fst
+CLA EchoSphere Mono-Stereo.fst
+CLA EchoSphere Stereo.fst
+CLA Effects Mono-Stereo.fst
+CLA Effects Stereo.fst
+CLA Epic Mono-Stereo.fst
+CLA Epic Stereo.fst
+CLA Guitars Mono-Stereo.fst
+CLA Guitars Stereo.fst
+CLA MixDown Stereo.fst
+CLA MixHub Lite Stereo.fst
+CLA MixHub Stereo.fst
+CLA Nx Stereo.fst
+CLA Unplugged Mono-Stereo.fst
+CLA Unplugged Stereo.fst
+CLA Vocals Mono-Stereo.fst
+CLA Vocals Stereo.fst
+CLA-2A Stereo.fst
+CLA-3A Stereo.fst
+CLA-76 Stereo.fst
+Clarity Vx - DeReverb Pro Stereo.fst
+Clarity Vx - DeReverb Stereo.fst
+Clarity Vx Pro Stereo.fst
+Clarity Vx Stereo.fst
+Cluster Delay.fst
+Cobra Fuzz.fst
+Comet.fst
+Console 1.fst
+Cry Boy.fst
+Cryostasis.fst
+Cyclic Panner.fst
+D2O.fst
+Dangerous BAX EQ Master.fst
+Dangerous BAX EQ Mix.fst
+Dark Memory.fst
+Darkglass Ultra.fst
+dbx-160 Stereo.fst
+dearVR music.fst
+dearVR pro.fst
+DeEsser Stereo.fst
+Deleight.fst
+DeSibilizer LL.fst
+DeSibilizer.fst
+Dials.fst
+Diezel Herbert.fst
+Diezel VH4.fst
+DIFIX.fst
+Dirty Dog Reverb.fst
+Distortion 1 mkII.fst
+Doppler Mono-Stereo.fst
+Doppler Stereo.fst
+Dorrough Stereo.fst
+Dorrough360 5.0.fst
+Dorrough360 5.1.fst
+Doubler2 Mono-Stereo.fst
+Doubler2 Stereo.fst
+Doubler4 Mono-Stereo.fst
+Doubler4 Stereo.fst
+DPR-402 Stereo.fst
+Dr Drive.fst
+Dr Phase.fst
+Dragon EQ.fst
+Drawmer 1973.fst
+Drawmer S73.fst
+DS Tantra 2.fst
+Dubstation 2.fst
+Duck.fst
+DW Drum Enhancer.fst
+Echoes T7E mkII.fst
+Eden WT800.fst
+Efektor Bass Cruncher.fst
+Efektor Bass Driver.fst
+Efektor Bass Smasher.fst
+Efektor CH3604.fst
+Efektor CP3603.fst
+Efektor DL3606.fst
+Efektor DS3603.fst
+Efektor FL3606.fst
+Efektor FZ3603.fst
+Efektor Gainia HB.fst
+Efektor Gainia TD.fst
+Efektor Gainia XT.fst
+Efektor GQ3607.fst
+Efektor Harmonitron.fst
+Efektor OD3603.fst
+Efektor PH3605.fst
+Efektor RV3604.fst
+Efektor TR3604.fst
+Efektor WF3607.fst
+Efektor Whammo.fst
+EK Edstortion Rack.fst
+EK Edstortion.fst
+EK Phazevibe Rack.fst
+EK Phazevibe.fst
+EKramer BA Stereo.fst
+EKramer DR Stereo.fst
+EKramer FX Mono-Stereo.fst
+EKramer FX Stereo.fst
+EKramer GT Mono-Stereo.fst
+EKramer GT Stereo.fst
+EKramer VC Mono-Stereo.fst
+EKramer VC Stereo.fst
+Electric Matter.fst
+Electrum.fst
+ElectrumCore.fst
+elysia alpha master.fst
+elysia alpha mix.fst
+elysia karacter master.fst
+elysia karacter mix.fst
+elysia mpressor.fst
+elysia museq master.fst
+elysia museq mix.fst
+elysia niveau filter.fst
+elysia nvelope.fst
+elysia phils cascade.fst
+EMO-D5 Stereo.fst
+EMO-F2 Stereo.fst
+EMO-Generator Stereo.fst
+EMO-Q4 Stereo.fst
+ENGL E646 VS.fst
+ENGL E765 RT.fst
+ENGL Savage 120.fst
+Enhanced EQ.fst
+Enigma Mono-Stereo.fst
+Enigma Stereo.fst
+Eos 2.fst
+Expanse3D.fst
+EZmix 3.fst
+F6 Stereo.fst
+F6-RTA Stereo.fst
+FA Echobandit Rack.fst
+FA Echobandit.fst
+FET Compressor.fst
+fiedler audio splat.fst
+fiedler audio stage.fst
+Filterverse.fst
+Filtron.fst
+FinalPlug 6.fst
+FireCharger.fst
+FireCobra.fst
+FireMaster.fst
+FireMaximizer.fst
+FirePresser.fst
+FIRETHEPUMP.fst
+Fix Doubler.fst
+Fix Flanger.fst
+Fix Phaser.fst
+Flamingo Verb.fst
+Flex Beat.fst
+Focusing Equalizer.fst
+Fog Convolver 2.fst
+Fortin Cali Suite.fst
+Fortin Nameless Suite.fst
+Fortin NTS Suite.fst
+Fox Echo Chorus.fst
+Friedman BE100.fst
+Friedman Buxom Betty.fst
+Friedman DS40.fst
+Frostbite 2.fst
+Fuchs Overdrive Supreme 50.fst
+Fuchs Train II.fst
+FuzzPlus3.fst
+Gallien Krueger 800RB.fst
+Gatekeeper.fst
+Gem Comp G.fst
+Gem Comp LA.fst
+Gem Comp670.fst
+Gem Comp76.fst
+Gem Dopamine.fst
+Gem ECHOSON.fst
+Gem EQ495.fst
+Gem EQ550.fst
+Gem EQ84.fst
+Gem EQP.fst
+Gem Mod.fst
+Gem Modula.fst
+Gem OTD-2.fst
+Gem Sculptube.fst
+Gem TAPEDESK.fst
+Gem Voice.fst
+GEQ Classic Stereo.fst
+GEQ Modern Stereo.fst
+GGD Studio Cabs Cali 1.5.fst
+GGD Studio Cabs Contenders Round 1.fst
+GGD Studio Cabs Goldstack 1.5.fst
+GGD Studio Cabs Zilla 1.5.fst
+GK Amplification 3 Pro.fst
+Gong Amp.fst
+Gorilla Drive.fst
+Gorilla.fst
+GrainSpace.fst
+Green Reaper.fst
+GreenADAI.fst
+GTR Amp Mono-Stereo.fst
+GTR Amp Stereo.fst
+GTR Solo Tool Rack Mono-Stereo.fst
+GTR Solo Tool Rack Stereo.fst
+GTR Stomp 2 Mono-Stereo.fst
+GTR Stomp 2 Stereo.fst
+GTR Stomp 4 Mono-Stereo.fst
+GTR Stomp 4 Stereo.fst
+GTR Stomp 6 Mono-Stereo.fst
+GTR Stomp 6 Stereo.fst
+GTR Tool Rack Mono-Stereo.fst
+GTR Tool Rack Stereo.fst
+GW MixCentric Stereo.fst
+GW PianoCentric Mono-Stereo.fst
+GW PianoCentric Stereo.fst
+GW ToneCentric Stereo.fst
+GW VoiceCentric Mono-Stereo.fst
+GW VoiceCentric Stereo.fst
+H-Comp Stereo.fst
+H-Delay Mono-Stereo.fst
+H-Delay Stereo.fst
+H-EQ Stereo.fst
+H-EQ-Light Stereo.fst
+H-Reverb 5.0.fst
+H-Reverb 5.1.fst
+H-Reverb long 5.0.fst
+H-Reverb long 5.1.fst
+H-Reverb long Mono-5.0.fst
+H-Reverb long Mono-5.1.fst
+H-Reverb long Mono-Stereo.fst
+H-Reverb long Stereo-5.0.fst
+H-Reverb long Stereo-5.1.fst
+H-Reverb long Stereo.fst
+H-Reverb Mono-5.0.fst
+H-Reverb Mono-5.1.fst
+H-Reverb Mono-Stereo.fst
+H-Reverb Stereo-5.0.fst
+H-Reverb Stereo-5.1.fst
+H-Reverb Stereo.fst
+Harmonic Maximizer.fst
+Harmonics Analog Saturation Processor.fst
+Harris Doyle Natalus DSCEQ.fst
+Heavy Pedal mkII.fst
+Hybrid Filter.fst
+Hyperspace.fst
+HyperTune.fst
+I Wish.fst
+IDR360 5.0.fst
+IDR360 5.1.fst
+Impact.fst
+IMPusher Stereo.fst
+Inf EQ.fst
+Infiltrator.fst
+InPhase Live Stereo.fst
+InPhase LT Live Stereo.fst
+InPhase LT Stereo.fst
+InPhase Stereo.fst
+Invisible Limiter G2.fst
+Invisible Limiter G3.fst
+Invisible Limiter.fst
+IQ-Analyser NetAux.fst
+IQ-Analyser.fst
+IQ-Comp.fst
+IQ-DeEsser.fst
+IQ-Eq.fst
+IQ-Limiter.fst
+IQ-Reverb.fst
+IR-L efficient Stereo.fst
+IR-L full Stereo.fst
+IR-L Mono-Stereo.fst
+IR1 efficient Stereo.fst
+IR1 full Stereo.fst
+IR1 Mono-Stereo.fst
+IR360 discrete Mono-5.0.fst
+IR360 eff discrete 5.0.fst
+IR360 eff discrete 5.1.fst
+IR360 eff discrete Stereo-5.0.fst
+IR360 eff s.field Stereo-5.0.fst
+IR360 sound field 5.0.fst
+IR360 sound field 5.1.fst
+IR360 sound field Mono-5.0.fst
+IR360 sound field Stereo-5.0.fst
+IRDX Core.fst
+IRLive Mono-Stereo.fst
+IRLive Stereo.fst
+JJP-Bass Mono-Stereo.fst
+JJP-Bass Stereo.fst
+JJP-Cymb-Perc Mono-Stereo.fst
+JJP-Cymb-Perc Stereo.fst
+JJP-Drums Mono-Stereo.fst
+JJP-Drums Stereo.fst
+JJP-Guitars Mono-Stereo.fst
+JJP-Guitars Stereo.fst
+JJP-Strings-Keys Mono-Stereo.fst
+JJP-Strings-Keys Stereo.fst
+JJP-Vocals Mono-Stereo.fst
+JJP-Vocals Stereo.fst
+Kaleidoscopes Mono-Stereo.fst
+Kaleidoscopes Stereo.fst
+Kerry King Signature.fst
+Key Detector Stereo.fst
+Kickstart 2.fst
+Kiive Tape Face.fst
+Kiive Xtressor.fst
+Klirrton Grindstein.fst
+Knif Audio Soma.fst
+Kombinat Tri.fst
+Kramer HLS Stereo.fst
+Kramer PIE Stereo.fst
+Kramer Tape Stereo.fst
+Krush.fst
+KSHMR Essentials Kick.fst
+Kujaku.fst
+L1 limiter Stereo.fst
+L1+ Ultramaximizer Stereo.fst
+L12X Solid State Amplifier.fst
+L2 Stereo.fst
+L3 MultiMaximizer Stereo.fst
+L3 UltraMaximizer Stereo.fst
+L3-LL Multi Stereo.fst
+L3-LL Ultra Stereo.fst
+L316 Stereo.fst
+L360 5.0.fst
+L360 5.1.fst
+LadyBug Reverb.fst
+LDC2 Compander.fst
+LFE360 5.1.fst
+Lindell 254E.fst
+Lindell 354E.fst
+Lindell 50 Buss.fst
+Lindell 50 Channel.fst
+Lindell 69 Buss.fst
+Lindell 69 Channel.fst
+Lindell 6X-500.fst
+Lindell 7X-500.fst
+Lindell 80 Bus.fst
+Lindell 80 Channel.fst
+Lindell 902 De-esser.fst
+Lindell ChannelX.fst
+Lindell MBC.fst
+Lindell PEX-500.fst
+Lindell SBC.fst
+Lindell TE-100.fst
+LinEQ Broadband Stereo.fst
+LinEQ Lowband Stereo.fst
+LinMB Stereo.fst
+Lion Master.fst
+LoAir 5.0-5.1.fst
+LoAir 5.1.fst
+LoAir Stereo.fst
+Lofi Space Mono-Stereo.fst
+Lofi Space Stereo.fst
+Looptrotter SA2RATE2.fst
+Low Filter.fst
+LTL Chop Shop EQ.fst
+LTL SILVER BULLET mk2.fst
+M360 Manager 5.0-5.1.fst
+M360 Manager 5.0.fst
+M360 Manager 5.1.fst
+M360 Mixdown 5.0.fst
+M360 Mixdown 5.1.fst
+M5133.fst
+Maag EQ2.fst
+Maag EQ4.fst
+Maag MAGNUM-K.fst
+Magma BB Tubes Stereo.fst
+Magma Channel Strip Stereo.fst
+Magma Lil Tube Stereo.fst
+Magma Springs Mono-Stereo.fst
+Magma Springs Stereo.fst
+Manipulator.fst
+MannyM Delay Mono-Stereo.fst
+MannyM Delay Stereo.fst
+MannyM Distortion Stereo.fst
+MannyM EQ Stereo.fst
+MannyM Reverb Mono-Stereo.fst
+MannyM Reverb Stereo.fst
+MannyM Tone Shaper Stereo.fst
+MannyM TripleD Stereo.fst
+Mantis.fst
+Mark Studio 2.fst
+Marshall Bluesbreaker 1962.fst
+Marshall JMP 2203.fst
+Marshall Plexi Super Lead 1959.fst
+Marshall Silver Jubilee 2555.fst
+Maserati ACG Mono-Stereo.fst
+Maserati ACG Stereo.fst
+Maserati B72 Mono-Stereo.fst
+Maserati B72 Stereo.fst
+Maserati DRM Stereo.fst
+Maserati GRP Stereo.fst
+Maserati GTi Mono-Stereo.fst
+Maserati GTi Stereo.fst
+Maserati HMX Mono-Stereo.fst
+Maserati HMX Stereo.fst
+Maserati VX1 Mono-Stereo.fst
+Maserati VX1 Stereo.fst
+Master Plan v1.5.fst
+MasterMind.fst
+MasterVerb 6.fst
+Material Comp.fst
+MaxxBass Stereo.fst
+MaxxVolume Stereo.fst
+MDMX Fuzz Stereo.fst
+MDMX OverDrive Stereo.fst
+MDMX Screamer Stereo.fst
+Megaphone.fst
+MetaFilter Mono-Stereo.fst
+MetaFilter Stereo.fst
+MetaFlanger Mono-Stereo.fst
+MetaFlanger Stereo.fst
+Metal Amp Room.fst
+Meter.fst
+Michelangelo.fst
+Millennia NSEQ-2.fst
+Millennia TCL-2.fst
+miniVerb.fst
+Mirror.fst
+MixChecker Pro.fst
+Mixland Vac Attack.fst
+Model 72 FX Synthesizer System.fst
+Model N Channel.fst
+Modular FX.fst
+MoMa.fst
+MondoMod Mono-Stereo.fst
+MondoMod Stereo.fst
+Morph EQ.fst
+Morphoder Mono-Stereo.fst
+Morphoder Stereo.fst
+MorphVerb.fst
+MT-A.fst
+Multiband X6.fst
+MultiDrive Pedal Pro.fst
+MultiDynamics 6.fst
+MultiDynamics 7.fst
+MultiMod Rack Mono-Stereo.fst
+MultiMod Rack Stereo.fst
+Mutronics Mutator.fst
+MV2 Stereo.fst
+MV360 5.0.fst
+MV360 5.1.fst
+NA 8180.fst
+NA Acoustic Voice.fst
+NA Analog Rack Bass Equalizer.fst
+NA Analog Rack Chorus.fst
+NA Analog Rack Cleaner.fst
+NA Analog Rack Compressor.fst
+NA Analog Rack Delay.fst
+NA Analog Rack Flanger.fst
+NA Analog Rack Fuzz.fst
+NA Analog Rack Guitar Equalizer.fst
+NA Analog Rack Noise Gate.fst
+NA Analog Rack Phaser.fst
+NA Analog Rack Reverb.fst
+NA Analog Rack Screamer.fst
+NA Analog Rack Tremolo.fst
+NA Bass Driver.fst
+NA Blackice Beta Gamma.fst
+NA Bst100 V2.fst
+NA Cali Dual.fst
+NA Cali Reverb.fst
+NA Crunck V2.fst
+NA Delay3000.fst
+NA Doubler.fst
+NA EN Hardball.fst
+NA Faceman.fst
+NA Hivolt 103.fst
+NA IR Loader.fst
+NA Jmp Pro.fst
+NA LoFi.fst
+NA Mp1 Pro.fst
+NA Mrh159.fst
+NA Mrh810 V2.fst
+NA Overdrive Special.fst
+NA Plugin Rig.fst
+NA PSA1000 Jr.fst
+NA PSA1000.fst
+NA Quinta.fst
+NA Sound Master.fst
+NA The Boss Rack.fst
+NA The Boss.fst
+NA Voice DC30.fst
+Nanopulse.fst
+Nectar 4 Auto-Level.fst
+Nectar 4 Backer.fst
+Nectar 4 Breath Control.fst
+Nectar 4 Compressor.fst
+Nectar 4 DeEsser.fst
+Nectar 4 Delay.fst
+Nectar 4 Dimension.fst
+Nectar 4 Equalizer.fst
+Nectar 4 Gate.fst
+Nectar 4 Pitch.fst
+Nectar 4 Reverb.fst
+Nectar 4 Saturation.fst
+Nectar 4 Voices.fst
+Nectar 4.fst
+Need 31102 Console EQ.fst
+Need 533 EQ.fst
+Need 73 Console EQ.fst
+Need 81 Console EQ.fst
+Need 84 Console EQ.fst
+Need Pre 31102.fst
+Need Pre Trilogy.fst
+NEOLD BIG AL.fst
+NEOLD U17.fst
+NEOLD U2A.fst
+NEOLD V76U73.fst
+NEOLD WARBLE.fst
+Neutron 4 Compressor.fst
+Neutron 4 Equalizer.fst
+Neutron 4 Exciter.fst
+Neutron 4 Gate.fst
+Neutron 4 Sculptor.fst
+Neutron 4 Transient Shaper.fst
+Neutron 4 Unmask.fst
+Neutron 4 Visual Mixer.fst
+Neutron 4.fst
+NLS Buss Stereo.fst
+NLS Channel Stereo.fst
+Noveltech Character.fst
+Noveltech Vocal Enhancer.fst
+NS1 Stereo.fst
+Nu Compressor.fst
+NUGEN Send.fst
+NUGEN Stereoizer3.fst
+NUGEN Visualizer2.fst
+NX 5.0-Stereo.fst
+NX 5.0.fst
+NX 5.1-Stereo.fst
+NX 5.1.fst
+NX 7.1-Stereo.fst
+NX 7.1.fst
+Nx Ambisonics Quad-Stereo.fst
+NX Ambisonics Quad.fst
+Nx Germano Studios 5.1-Stereo.fst
+Nx Germano Studios Stereo.fst
+NX Mono-Stereo.fst
+Nx Ocean Way Nashville Stereo.fst
+NX Stereo.fst
+OCS-45.fst
+Octaver 82.fst
+OMEGA Ampworks Granophyre.fst
+OneKnob Brighter Stereo.fst
+OneKnob Driver Stereo.fst
+OneKnob Filter Stereo.fst
+OneKnob Louder Stereo.fst
+OneKnob Phatter Stereo.fst
+OneKnob Pressure Stereo.fst
+OneKnob Pumper Stereo.fst
+OneKnob Wetter Mono-Stereo.fst
+OneKnob Wetter Stereo.fst
+Orbitron.fst
+Other Desert Cities.fst
+OTO Biscuit 8-bit Effects.fst
+Outer Space.fst
+OVox Mono-Stereo.fst
+OVox Stereo.fst
+Owl Control.fst
+Ozone 11 Clarity.fst
+Ozone 11 Dynamic EQ.fst
+Ozone 11 Dynamics.fst
+Ozone 11 Equalizer.fst
+Ozone 11 Exciter.fst
+Ozone 11 Imager.fst
+Ozone 11 Impact.fst
+Ozone 11 Low End Focus.fst
+Ozone 11 Master Rebalance.fst
+Ozone 11 Match EQ.fst
+Ozone 11 Maximizer.fst
+Ozone 11 Spectral Shaper.fst
+Ozone 11 Stabilizer.fst
+Ozone 11 Vintage Compressor.fst
+Ozone 11 Vintage EQ.fst
+Ozone 11 Vintage Limiter.fst
+Ozone 11 Vintage Tape.fst
+Ozone 11.fst
+Pancz.fst
+Panorama 6.fst
+Panorama 7.fst
+Parallax.fst
+Passive EQ.fst
+Passive Equalizer.fst
+PAZ- Analyzer Stereo.fst
+PAZ- Frequency Stereo.fst
+PAZ- Meters Stereo.fst
+PAZ- Position Stereo.fst
+Pillar Power Amp.fst
+PitchMonster.fst
+Plamen.fst
+Plasma.fst
+PlaylistRider Stereo.fst
+PlexiTape.fst
+Pluralis.fst
+Polaris.fst
+PolyComp.fst
+Pre X7.fst
+PreBOX.fst
+Pro Audio DSP DSM V3.fst
+PRS Archon Mono-Stereo.fst
+PRS Dallas Mono-Stereo.fst
+PRS V9 Mono-Stereo.fst
+PS22 Split Mono-Stereo.fst
+PS22 Split Stereo.fst
+PS22 Spread Mono-Stereo.fst
+PS22 Spread Stereo.fst
+PS22 Spread(10) Mono-Stereo.fst
+PS22 Spread(10) Stereo.fst
+PS22 XSplit Mono-Stereo.fst
+PS22 XSplit Stereo.fst
+PSE Stereo.fst
+PuigChild 670 Stereo.fst
+PuigTec EQP1A Stereo.fst
+PuigTec MEQ5 Stereo.fst
+Punish.fst
+Purple Audio MC 77.fst
+PutMeOnDrums.fst
+Pyros.fst
+Q-Clone Stereo.fst
+Q1 Stereo.fst
+Q10 Stereo.fst
+Q2 Stereo.fst
+Q3 Stereo.fst
+Q4 Stereo.fst
+Q6 Stereo.fst
+Q8 Stereo.fst
+QuatroMod.fst
+R360 5.0.fst
+R360 5.1.fst
+R360 Mono-5.0.fst
+R360 Mono-5.1.fst
+R360 Stereo-5.0.fst
+R360 Stereo-5.1.fst
+Rabbit Tape.fst
+RBass Stereo.fst
+RChannel Mono-Stereo.fst
+RChannel Stereo.fst
+RCompressor Stereo.fst
+RDeEsser Stereo.fst
+Reels.fst
+Renaissance Axx Stereo.fst
+RePitch VST.fst
+Replicant 2.fst
+REQ 2 Stereo.fst
+REQ 4 Stereo.fst
+REQ 6 Stereo.fst
+Retro Fi Mono-Stereo.fst
+Retro Fi Stereo.fst
+Retronaut.fst
+Revoice Pro Link (Legacy).fst
+Revoice Pro Link.fst
+Rhino Reverb.fst
+Rift.fst
+RootOne.fst
+RoughRider3.fst
+RoyalCompressor.fst
+RVerb Mono-Stereo.fst
+RVerb Stereo.fst
+RVox Stereo.fst
+RX950.fst
+RZ062a Equalizer.fst
+RZ062b Equalizer.fst
+S1 Imager Stereo.fst
+S1 MS Matrix Stereo.fst
+S1 Shuffler Stereo.fst
+S360 Imager 5.0.fst
+S360 Imager 5.1.fst
+S360 Imager Mono-5.0.fst
+S360 Imager Mono-5.1.fst
+S360 Imager Stereo-5.0.fst
+S360 Imager Stereo-5.1.fst
+S360 Panner Mono-5.0.fst
+S360 Panner Mono-5.1.fst
+S360 Panner Stereo-5.0.fst
+S360 Panner Stereo-5.1.fst
+SA76.fst
+Sakura Dither.fst
+Saphira Stereo.fst
+Saturation Knob.fst
+Scheps 73 Stereo.fst
+Scheps Omni Channel 2 Stereo.fst
+Scheps Parallel Particles Stereo.fst
+Schoeps Double MS.fst
+Schoeps Mono Upmix 1to2.fst
+Schoeps Mono Upmix 1to3.fst
+SerumFX.fst
+Shadow Hills Class A Mastering Comp.fst
+Shadow Hills Mastering Compressor.fst
+ShaperBox 3.fst
+Sibilance Stereo.fst
+Sibilance-Live Stereo.fst
+Side Filter.fst
+Silk Vocal Live Stereo.fst
+Silk Vocal Stereo.fst
+Smack Attack Stereo.fst
+smartEQ4.fst
+Smash And Grab v2.fst
+Solidus Randy 250.fst
+Solidus VS8100.fst
+SoundShifter Pitch Stereo.fst
+Space Rider Mono-Stereo.fst
+Space Rider Stereo.fst
+Space Station UM282.fst
+Space Strip.fst
+Spacer.fst
+Speakers.fst
+Spherix Compressor 7.1.2.fst
+Spherix Compressor 7.1.4.fst
+Spherix Limiter 7.1.2.fst
+Spherix Limiter 7.1.4.fst
+SPL Attacker Plus.fst
+SPL De-Esser Dual-Band.fst
+SPL De-Esser.fst
+SPL De-Verb Plus.fst
+SPL DrumXchanger.fst
+SPL EQ Ranger Plus.fst
+SPL Free Ranger.fst
+SPL HawkEye.fst
+SPL IRON.fst
+SPL Mo-Verb Plus.fst
+SPL Passeq Single.fst
+SPL Passeq.fst
+SPL PQ.fst
+SPL Transient Designer Plus.fst
+SPL TwinTube.fst
+SPL Vitalizer MK2-T.fst
+Spring Reverb.fst
+Springs.fst
+SSL EV2 Channel Stereo.fst
+SSL Native Bus Compressor v6.fst
+SSL Native Channelstrip v6.fst
+SSL Native Drumstrip v6.fst
+SSL Native FlexVerb.fst
+SSL Native Vocalstrip 2.fst
+SSL Native X-Comp v6.fst
+SSL Native X-EQ 2.fst
+SSL Native X-Phase v6.fst
+SSL Native X-Saturator v6.fst
+SSL Native X-ValveComp v6.fst
+SSLChannel Stereo.fst
+SSLComp Stereo.fst
+SSLEQ Stereo.fst
+SSLGChannel Stereo.fst
+Stereo Imager D.fst
+STL ControlHub.fst
+STL Ignite - AmpHub.fst
+STL ToneHub.fst
+StudioVerse Audio Effects Mono-Stereo.fst
+StudioVerse Audio Effects Stereo.fst
+Sub Align Stereo.fst
+Sub Ninja.fst
+SubbassDoctor808.fst
+Submarine Stereo.fst
+Suhr PT100.fst
+Suhr SE100.fst
+Summit Audio EQF-100.fst
+Summit Audio Grand Channel.fst
+Summit Audio TLA-100A.fst
+Supermodal.fst
+SuperTap 2-Taps Mono-Stereo.fst
+SuperTap 2-Taps Stereo.fst
+SuperTap 6-Taps Mono-Stereo.fst
+SuperTap 6-Taps Stereo.fst
+Surge XT Effects.fst
+Swarm Reverb.fst
+SYS AlgoVerb.fst
+SYS Chorus.fst
+SYS Comp.fst
+SYS CompListenMic.fst
+SYS Delay.fst
+SYS Distortion.fst
+SYS EQ-Dynamic.fst
+SYS EQ.fst
+SYS Expander.fst
+SYS Flanger.fst
+SYS Gain.fst
+SYS Gate.fst
+SYS Meter.fst
+SYS MultiMod.fst
+SYS Notepad.fst
+SYS Pan.fst
+SYS Phaser.fst
+SYS PinkNoise.fst
+SYS Pitch.fst
+SYS Saturator.fst
+SYSTEM.fst
+Tape Pro.fst
+Tape.fst
+TapeMAI.fst
+TapeSAI.fst
+Tau Compressor Plus.fst
+TBTECH Kirchhoff-EQ.fst
+TB_Barricade_v4.fst
+TB_BitJuggler_v1.fst
+TB_Compressor_v4.fst
+TB_DualVCF_v1.fst
+TB_Enhancer_v1.fst
+TB_Equalizer_v4.fst
+TB_GonioMeter_v1.fst
+TB_MBC_v1.fst
+TB_Morphit_v1.fst
+TB_ReelBus_v4.fst
+TB_Reverb_v4.fst
+TB_Sibalance_v4.fst
+TB_Spectrogram_v1.fst
+TB_VoicePitcher_v4.fst
+TDR Nova.fst
+Texture.fst
+TH-U.fst
+The Bluesman.fst
+The Dom.fst
+The Driver.fst
+The Glue.fst
+The God Particle.fst
+The Orb.fst
+THE OVEN.fst
+The Overseer.fst
+The Shredder.fst
+ThickPreAI.fst
+Things Bubbles.fst
+Things Crusher.fst
+Things Flip EQ.fst
+Things Motor.fst
+Things Texture.fst
+THX Spatial Creator.fst
+TimeMachine.fst
+TITANIUM31B.fst
+TITANIUM33B.fst
+TITANIUM3BASSTARD.fst
+TITANIUM3EQ.fst
+TITANIUM3PRE.fst
+TITANIUM3STRIP.fst
+TOMO Audiolabs LISA.fst
+Tonal Balance Control 2.fst
+ToneLib-GFX.fst
+ToneLib-Metal.fst
+Tonelux Tilt Live.fst
+Tonelux Tilt.fst
+TONEX.fst
+Torque Stereo.fst
+Torque-Live Stereo.fst
+TR5 Black 76.fst
+TR5 Brickwall Limiter.fst
+TR5 British Channel.fst
+TR5 Bus Compressor.fst
+TR5 Classic Clipper.fst
+TR5 Classic Comp.fst
+TR5 Classic EQ.fst
+TR5 Classic Multi Band Limiter.fst
+TR5 Comprexxor.fst
+TR5 CSR Hall.fst
+TR5 CSR Inverse.fst
+TR5 CSR Plate.fst
+TR5 CSR Room.fst
+TR5 De Esser.fst
+TR5 Dyna-Mu.fst
+TR5 EQ-73.fst
+TR5 EQ-81.fst
+TR5 EQ-PA.fst
+TR5 EQ-PB.fst
+TR5 EQ-PG.fst
+TR5 EQP-1A.fst
+TR5 EQual.fst
+TR5 Fame Studio Reverb.fst
+TR5 Joe Chiccarelli Vocal Strip.fst
+TR5 Leslie.fst
+TR5 Linear Phase EQ.fst
+TR5 Master EQ-432.fst
+TR5 Master Match.fst
+TR5 Metering.fst
+TR5 Mic Room.fst
+TR5 One.fst
+TR5 Opto Comp.fst
+TR5 Precision Comp-Limiter.fst
+TR5 Quad Compressor.fst
+TR5 Quad Image.fst
+TR5 Quad Limiter.fst
+TR5 Saturator X.fst
+TR5 Space Delay.fst
+TR5 Stealth Limiter.fst
+TR5 Suite.fst
+TR5 Sunset Sound Studio Reverb.fst
+TR5 Tape Echo.fst
+TR5 Tape Machine 24.fst
+TR5 Tape Machine 440.fst
+TR5 Tape Machine 80.fst
+TR5 Tape Machine 99.fst
+TR5 TASCAM 388.fst
+TR5 TASCAM PORTA ONE.fst
+TR5 TEAC A-3340S.fst
+TR5 TEAC A-6100 MKII.fst
+TR5 The Farm Stone Room.fst
+TR5 VC-670.fst
+TR5 White 2A.fst
+TR5 White Channel.fst
+Track Symbiosis.fst
+TrackPlug 6.fst
+TRACT LinPhase Stereo.fst
+TRACT Stereo.fst
+tranQuilizr G2.fst
+tranQuilizr.fst
+Transient Shaper.fst
+Transmutator.fst
+TransX Multi Stereo.fst
+TransX Wide Stereo.fst
+TrapTune.fst
+TridA-Pre.fst
+Trident A-Range.fst
+Triple Fader.fst
+TrueVerb Mono-Stereo.fst
+TrueVerb Stereo.fst
+TS-1 Transient Shaper.fst
+TSAR-1 Reverb.fst
+TSAR-1R Reverb.fst
+Tube Delay.fst
+Tube KC-1.fst
+Tube Modulator.fst
+Tube-Tech CL 1B mk II.fst
+Tube-Tech CL 1B.fst
+Tube-Tech Classic Channel mk II.fst
+Tube-Tech Classic Channel.fst
+Tube-Tech Equalizers mk II.fst
+Tube-Tech ME 1B.fst
+Tube-Tech PE 1C.fst
+Tuned Reverb.fst
+Type A.fst
+Type B.fst
+U73b Compressor.fst
+U78 Saturator.fst
+UltraPitch 3 Voices Mono-Stereo.fst
+UltraPitch 6 Voices Mono-Stereo.fst
+UltraPitch Shift Mono-Stereo.fst
+UM225 Stereo-5.0.fst
+UM226 Stereo-5.1.fst
+Unfiltered Audio Bass Mint.fst
+Unfiltered Audio Byome.fst
+Unfiltered Audio Dent 2.fst
+Unfiltered Audio Fault.fst
+Unfiltered Audio G8.fst
+Unfiltered Audio Indent 2.fst
+Unfiltered Audio Instant Delay.fst
+Unfiltered Audio lo-fi-af.fst
+Unfiltered Audio Needlepoint.fst
+Unfiltered Audio Sandman Pro.fst
+Unfiltered Audio Sandman.fst
+Unfiltered Audio Silo.fst
+Unfiltered Audio SpecOps.fst
+Unfiltered Audio Tails.fst
+Unfiltered Audio Triad.fst
+Unfiltered Audio Zip.fst
+UniChannel.fst
+UrbanPuncher.fst
+USRackAI.fst
+ValhallaDelay.fst
+ValhallaFreqEcho.fst
+ValhallaPlate.fst
+ValhallaRoom.fst
+ValhallaShimmer.fst
+ValhallaSpaceModulator.fst
+ValhallaSupermassive.fst
+ValhallaUberMod.fst
+ValhallaVintageVerb.fst
+Valley People Dyna-mite Gate.fst
+Valley People Dyna-mite Slam.fst
+Valley People Dyna-mite.fst
+Valves.fst
+Vari Comp.fst
+VC 160.fst
+VC 2A.fst
+VC 76.fst
+VComp Stereo.fst
+VEQ3 Stereo.fst
+VEQ4 Stereo.fst
+Verbum.fst
+Vertigo VSC-2.fst
+Vertigo VSM-3.fst
+Vintage Amp Room.fst
+Vinyl Strip.fst
+Vitamin Stereo.fst
+Vocal Bender Stereo.fst
+Vocal Chain.fst
+Vocal Rider Live Stereo.fst
+Vocal Rider Stereo.fst
+Vocal Tune.fst
+VocAlign 6 Pro VST.fst
+Voltage Amps Bass Mono-Stereo.fst
+Voltage Amps Bass Stereo.fst
+Voltage Amps Guitar Mono-Stereo.fst
+Voltage Amps Guitar Stereo.fst
+VoxDucker.fst
+Voxessor.fst
+VU Meter Stereo.fst
+W43 Stereo.fst
+Wave Box.fst
+Wave Shredder.fst
+Waves Gemstones Mono-Stereo.fst
+Waves Gemstones Stereo.fst
+Waves Harmony Mono-Stereo.fst
+Waves Harmony Stereo.fst
+Waves Stream Receive Stereo.fst
+Waves Stream Send Stereo.fst
+Waves Tune LT Stereo.fst
+Waves Tune Real-Time Stereo.fst
+Waves Tune Stereo.fst
+Weiss Compressor Limiter.fst
+Weiss Deess.fst
+Weiss DS1-MK3.fst
+Weiss EQ MP.fst
+Weiss EQ1.fst
+Weiss MM-1 Mastering Maximizer.fst
+Wider.fst
+Wires.fst
+WLM Meter 5.0.fst
+WLM Meter 5.1.fst
+WLM Meter Stereo.fst
+WLM Plus 5.0.fst
+WLM Plus 5.1.fst
+WLM Plus Stereo.fst
+WNS Stereo.fst
+X-Click Stereo.fst
+X-Crackle Stereo.fst
+X-FDBK Stereo.fst
+X-Hum Stereo.fst
+X-Noise Stereo.fst
+XenoVerb.fst
+Xrider.fst
+Xvox Comp.fst
+Xvox DS.fst
+Xvox Pro.fst
+Xvox SFX.fst
+Xvox Space.fst
+Xvox Tone.fst
+Yak Delay.fst
+Z-Noise Stereo.fst
+Control Surface.fst
+Distructor.fst
+Edison.fst
+Effector.fst
+EQUO.fst
+Frequency Shifter.fst
+Frequency Splitter.fst
+Fruity 7 Band EQ.fst
+Fruity Balance.fst
+Fruity Bass Boost.fst
+Fruity Big Clock.fst
+Fruity Blood Overdrive.fst
+Fruity Center.fst
+Fruity Chorus.fst
+Fruity Compressor.fst
+Fruity Convolver.fst
+Fruity dB Meter.fst
+Fruity Delay 2.fst
+Fruity Delay 3.fst
+Fruity Delay Bank.fst
+Fruity Delay.fst
+Fruity Fast Dist.fst
+Fruity Fast LP.fst
+Fruity Filter.fst
+Fruity Flanger.fst
+Fruity Flangus.fst
+Fruity Formula Controller.fst
+Fruity Free Filter.fst
+Fruity HTML NoteBook.fst
+Fruity Limiter.fst
+Fruity Love Philter.fst
+Fruity LSD.fst
+Fruity Multiband Compressor.fst
+Fruity Mute 2.fst
+Fruity NoteBook 2.fst
+Fruity NoteBook.fst
+Fruity PanOMatic.fst
+Fruity Parametric EQ 2.fst
+Fruity Parametric EQ.fst
+Fruity Peak Controller.fst
+Fruity Phase Inverter.fst
+Fruity Phaser.fst
+Fruity Reeverb 2.fst
+Fruity Reeverb.fst
+Fruity Scratcher.fst
+Fruity Send.fst
+Fruity Soft Clipper.fst
+Fruity Spectroman.fst
+Fruity Squeeze.fst
+Fruity Stereo Enhancer.fst
+Fruity Stereo Shaper.fst
+Fruity Vocoder.fst
+Fruity WaveShaper.fst
+Fruity Wrapper.fst
+Fruity X-Y Controller.fst
+Fruity X-Y-Z Controller.fst
+Gross Beat.fst
+Hardcore.fst
+Hyper Chorus.fst
+Luxeverb.fst
+Maximus.fst
+Multiband Delay.fst
+Newtime.fst
+Newtone.fst
+Patcher.fst
+Pitch Shifter.fst
+Pitcher.fst
+Razer Chroma.fst
+Soundgoodizer.fst
+Transient Processor.fst
+Tuner.fst
+VFX Color Mapper.fst
+VFX Envelope.fst
+VFX Key Mapper.fst
+VFX Keyboard Splitter.fst
+VFX Level Scaler.fst
+VFX Sequencer.fst
+Vintage Chorus.fst
+Vintage Phaser.fst
+Vocodex.fst
+Wave Candy.fst
+ZGameEditor Visualizer.fst
+Cobra Fuzz.fst
+BOD.fst
+CamelCrusher.fst
+Crystallizer.fst
+Decapitator.fst
+Devil-Loc Deluxe.fst
+Devil-Loc.fst
+EchoBoy.fst
+EffectRack.fst
+FabFilter Micro.fst
+FabFilter Pro-C 2.fst
+FabFilter Pro-DS.fst
+FabFilter Pro-G.fst
+FabFilter Pro-L 2.fst
+FabFilter Pro-MB.fst
+FabFilter Pro-Q 3.fst
+FabFilter Pro-R.fst
+FabFilter Saturn 2.fst
+FabFilter Simplon.fst
+FabFilter Timeless 3.fst
+FabFilter Volcano 3.fst
+FilterFreak1.fst
+FilterFreak2.fst
+Little AlterBoy.fst
+Little MicroShift.fst
+Little PrimalTap.fst
+Little Radiator.fst
+MicroShift.fst
+PanMan.fst
+PhaseMistress.fst
+PrimalTap.fst
+Radiator.fst
+SGA1566.fst
+Transatlantic Plate Reverb.fst
+Tremolator.fst
+4U+ BlindTest.fst
+4U+ DynamicTiltEQ.fst
+4U+ ProjectTime.fst
+Abbey Road Chambers Mono-Stereo.fst
+Abbey Road Chambers Stereo.fst
+Abbey Road EMI TG12345 Channel Stereo.fst
+Abbey Road J37 Tape Stereo.fst
+Abbey Road Plates Mono-Stereo.fst
+Abbey Road Plates Stereo.fst
+Abbey Road REDD.17 Stereo.fst
+Abbey Road REDD.37.51 Stereo.fst
+Abbey Road Reel ADT Live Mono-Stereo.fst
+Abbey Road Reel ADT Live Stereo.fst
+Abbey Road Reel ADT Mono-Stereo.fst
+Abbey Road Reel ADT Stereo.fst
+Abbey Road Reel ADT2V Live Mono-Stereo.fst
+Abbey Road Reel ADT2V Live Stereo.fst
+Abbey Road Reel ADT2V Mono-Stereo.fst
+Abbey Road Reel ADT2V Stereo.fst
+Abbey Road RS124 Stereo.fst
+Abbey Road RS127 Box.fst
+Abbey Road RS127 Rack.fst
+Abbey Road RS135.fst
+Abbey Road RS56 Passive EQ Stereo.fst
+Abbey Road Saturator Stereo.fst
+Abbey Road Studio 3 5.1-Stereo.fst
+Abbey Road Studio 3 7.1-Stereo.fst
+Abbey Road Studio 3 Stereo.fst
+Abbey Road TG Mastering Live Stereo.fst
+Abbey Road TG Mastering Stereo.fst
+Abbey Road TG Meter Bridge Stereo.fst
+Abbey Road The King's Microphones Stereo.fst
+Abbey Road Vinyl Light Stereo.fst
+Abbey Road Vinyl Stereo.fst
+Acme Opticom XLA-3.fst
+Acoustic Feedback.fst
+Active Equalizer.fst
+ADA Flanger.fst
+ADA STD-1 Stereo Tapped Delay.fst
+ADPTR MetricAB.fst
+ADPTR Sculpt.fst
+ADPTR StreamLiner.fst
+AIR Soft Clipper.fst
+Alborosie Dub Station.fst
+AMEK EQ 200.fst
+AMEK EQ 250.fst
+AMEK Mastering Compressor.fst
+American Class A.fst
+Amp Room.fst
+Ampbox.fst
+Ampeg B15N.fst
+Ampeg SVT3Pro.fst
+Ampeg SVTVR Classic.fst
+Ampeg SVTVR.fst
+Ampeg V4B.fst
+Amplifikation 360.fst
+Amplifikation Caliburn.fst
+Amplifikation Clarent.fst
+Amplifikation Creme.fst
+Amplifikation Lancaster.fst
+Amplifikation Matchlock.fst
+Amplifikation Rectifor.fst
+Amplifikation Vermilion.fst
+Amplifikation VVV.fst
+AmpLion 2 Rock Essentials.fst
+Aphex Vintage Exciter Stereo.fst
+API-2500 Stereo.fst
+API-550A Stereo.fst
+API-550B Stereo.fst
+API-560 Stereo.fst
+Archetype Abasi.fst
+Archetype Cory Wong.fst
+Archetype Gojira.fst
+Archetype Nolly.fst
+Archetype Plini.fst
+ARP 2600 FX.fst
+ATONE.fst
+AudioTrack Stereo.fst
+Auto-Key 2.fst
+Auto-Tune Pro.fst
+Autoformer.fst
+B360 5.0-Quad.fst
+B360 5.1-Quad.fst
+B360 7.1-Quad.fst
+B360 AmbiX-FuMa Quad.fst
+B360 FuMa-AmbiX Quad.fst
+B360 Mono-Quad.fst
+B360 Stereo-Quad.fst
+Bass Amp Room.fst
+Bass Rider Live Stereo.fst
+Bass Rider Stereo.fst
+Bass Sculptor.fst
+Bass XXL.fst
+BassFocus.fst
+Basslane Pro.fst
+Bassment.fst
+BassmentCore.fst
+BassRift.fst
+Berzerk Distortion Stereo.fst
+Bettermaker Bus Compressor DSP.fst
+Bettermaker EQ232D.fst
+Big Goat.fst
+Bitpunk.fst
+Black Box Analog Design HG-2.fst
+Black Box Analog Design HG-2MS.fst
+Blue Cat's AcouFiend.fst
+Blue Cat's Axiom.fst
+Blue Cat's Connector.fst
+Blue Cat's Destructor.fst
+Blue Cat's DP Meter Pro 4 (Srnd).fst
+Blue Cat's DP Meter Pro 4 (Stereo).fst
+Blue Cat's Dynamics 4(Stereo).fst
+Blue Cat's FreqAnalyst 2 (Stereo).fst
+Blue Cat's FreqAnalyst Multi 2.fst
+Blue Cat's FreqAnalyst Pro 2 (Stereo).fst
+Blue Cat's Hot Tuna.fst
+Blue Cat's Late Replies.fst
+Blue Cat's Liny EQ 5 (Dual).fst
+Blue Cat's Liny EQ 5 (Stereo).fst
+Blue Cat's MB-5 Dynamix 2(Stereo).fst
+Blue Cat's MB-7 Mixer 2 (Dual).fst
+Blue Cat's MB-7 Mixer 2 (Stereo).fst
+Blue Cat's Oscilloscope Multi 2.fst
+Blue Cat's PatchWork.fst
+Blue Cat's Plug'n Script.fst
+Blue Cat's PolyVibe.fst
+Blue Cat's Protector 2.fst
+Blue Cat's Re-Guitar.fst
+Blue Cat's Re-Head.fst
+Blue Cat's Remote Control 3.fst
+Blue Cat's StereoScope Multi 2.fst
+Blue Cat's StereoScope Pro 2.fst
+Blue Face.fst
+Bratwurst Fuzz.fst
+Brauer Motion Mono-Stereo.fst
+Brauer Motion Stereo.fst
+Brit73AI.fst
+Butch Vig Vocals Stereo.fst
+bx_2098 EQ.fst
+bx_bassdude.fst
+bx_blackdist2.fst
+bx_bluechorus2.fst
+bx_boom.fst
+bx_cleansweep Pro.fst
+bx_cleansweep V2.fst
+bx_clipper.fst
+bx_console AMEK 200.fst
+bx_console AMEK 9099.fst
+bx_console Focusrite SC.fst
+bx_console N.fst
+bx_console SSL 4000 E.fst
+bx_console SSL 4000 G.fst
+bx_console SSL 9000 J.fst
+bx_control V2.fst
+bx_crispyscale.fst
+bx_crispytuner.fst
+bx_delay2500.fst
+bx_digital V3 mix.fst
+bx_digital V3.fst
+bx_distorange.fst
+bx_dynEQ V2.fst
+bx_glue.fst
+bx_greenscreamer.fst
+bx_hybrid V2 mix.fst
+bx_hybrid V2.fst
+bx_limiter True Peak.fst
+bx_limiter.fst
+bx_masterdesk Classic.fst
+bx_masterdesk Pro.fst
+bx_masterdesk True Peak.fst
+bx_masterdesk.fst
+bx_megadual.fst
+bx_megasingle.fst
+bx_metal2.fst
+bx_meter.fst
+bx_opto Pedal.fst
+bx_opto.fst
+bx_panEQ.fst
+bx_refinement.fst
+bx_rockergain100.fst
+bx_rockrack V3 Player.fst
+bx_rockrack V3.fst
+bx_rooMS.fst
+bx_saturator V2.fst
+bx_shredspread.fst
+bx_solo.fst
+bx_stereomaker.fst
+bx_subfilter.fst
+bx_subsynth.fst
+bx_townhouse Buss Compressor.fst
+bx_tuner.fst
+bx_XL V2.fst
+bx_XL V3.fst
+bx_yellowdrive.fst
+C1 comp Stereo.fst
+C1 comp-gate Stereo.fst
+C1 comp-sc Stereo.fst
+C1 gate Stereo.fst
+C360 5.0.fst
+C360 5.1.fst
+C4 Stereo.fst
+C6 Stereo.fst
+C6-SideChain Stereo.fst
+Camel Strip.fst
+CD-Burn.DDP.Master.fst
+Center Stereo.fst
+Cerberus Bass Amp.fst
+Chandler GAV19T.fst
+Chandler Limited Curve Bender.fst
+Chandler Limited Germanium Comp.fst
+Chandler Limited Zener Limiter.fst
+Chandler Limited Zener-Bender.fst
+Chorus Ensembler.fst
+CLA Bass Mono-Stereo.fst
+CLA Bass Stereo.fst
+CLA Drums Mono-Stereo.fst
+CLA Drums Stereo.fst
+CLA EchoSphere Mono-Stereo.fst
+CLA EchoSphere Stereo.fst
+CLA Effects Mono-Stereo.fst
+CLA Effects Stereo.fst
+CLA Epic Mono-Stereo.fst
+CLA Epic Stereo.fst
+CLA Guitars Mono-Stereo.fst
+CLA Guitars Stereo.fst
+CLA MixDown Stereo.fst
+CLA MixHub Lite Stereo.fst
+CLA MixHub Stereo.fst
+CLA Nx Stereo.fst
+CLA Unplugged Mono-Stereo.fst
+CLA Unplugged Stereo.fst
+CLA Vocals Mono-Stereo.fst
+CLA Vocals Stereo.fst
+CLA-2A Stereo.fst
+CLA-3A Stereo.fst
+CLA-76 Stereo.fst
+Clarity Vx - DeReverb Pro Stereo.fst
+Clarity Vx - DeReverb Stereo.fst
+Clarity Vx Pro Stereo.fst
+Clarity Vx Stereo.fst
+Cluster Delay.fst
+Cobra Fuzz.fst
+Comet.fst
+Console 1.fst
+Cry Boy.fst
+Cryostasis.fst
+Cyclic Panner.fst
+D2O.fst
+Dangerous BAX EQ Master.fst
+Dangerous BAX EQ Mix.fst
+Dark Memory.fst
+Darkglass Ultra.fst
+dbx-160 Stereo.fst
+dearVR music.fst
+dearVR pro.fst
+DeEsser Stereo.fst
+Deleight.fst
+DeSibilizer LL.fst
+DeSibilizer.fst
+Dials.fst
+Diezel Herbert.fst
+Diezel VH4.fst
+DIFIX.fst
+Dirty Dog Reverb.fst
+Distortion 1 mkII.fst
+Doppler Mono-Stereo.fst
+Doppler Stereo.fst
+Dorrough Stereo.fst
+Dorrough360 5.0.fst
+Dorrough360 5.1.fst
+Doubler2 Mono-Stereo.fst
+Doubler2 Stereo.fst
+Doubler4 Mono-Stereo.fst
+Doubler4 Stereo.fst
+DPR-402 Stereo.fst
+Dr Drive.fst
+Dr Phase.fst
+Dragon EQ.fst
+Drawmer 1973.fst
+Drawmer S73.fst
+DS Tantra 2.fst
+Dubstation 2.fst
+Duck.fst
+DW Drum Enhancer.fst
+Echoes T7E mkII.fst
+Eden WT800.fst
+Efektor Bass Cruncher.fst
+Efektor Bass Driver.fst
+Efektor Bass Smasher.fst
+Efektor CH3604.fst
+Efektor CP3603.fst
+Efektor DL3606.fst
+Efektor DS3603.fst
+Efektor FL3606.fst
+Efektor FZ3603.fst
+Efektor Gainia HB.fst
+Efektor Gainia TD.fst
+Efektor Gainia XT.fst
+Efektor GQ3607.fst
+Efektor Harmonitron.fst
+Efektor OD3603.fst
+Efektor PH3605.fst
+Efektor RV3604.fst
+Efektor TR3604.fst
+Efektor WF3607.fst
+Efektor Whammo.fst
+EK Edstortion Rack.fst
+EK Edstortion.fst
+EK Phazevibe Rack.fst
+EK Phazevibe.fst
+EKramer BA Stereo.fst
+EKramer DR Stereo.fst
+EKramer FX Mono-Stereo.fst
+EKramer FX Stereo.fst
+EKramer GT Mono-Stereo.fst
+EKramer GT Stereo.fst
+EKramer VC Mono-Stereo.fst
+EKramer VC Stereo.fst
+Electric Matter.fst
+Electrum.fst
+ElectrumCore.fst
+elysia alpha master.fst
+elysia alpha mix.fst
+elysia karacter master.fst
+elysia karacter mix.fst
+elysia mpressor.fst
+elysia museq master.fst
+elysia museq mix.fst
+elysia niveau filter.fst
+elysia nvelope.fst
+elysia phils cascade.fst
+EMO-D5 Stereo.fst
+EMO-F2 Stereo.fst
+EMO-Generator Stereo.fst
+EMO-Q4 Stereo.fst
+ENGL E646 VS.fst
+ENGL E765 RT.fst
+ENGL Savage 120.fst
+Enhanced EQ.fst
+Enigma Mono-Stereo.fst
+Enigma Stereo.fst
+Eos 2.fst
+Expanse3D.fst
+EZmix 3.fst
+F6 Stereo.fst
+F6-RTA Stereo.fst
+FA Echobandit Rack.fst
+FA Echobandit.fst
+FET Compressor.fst
+fiedler audio splat.fst
+fiedler audio stage.fst
+Filterverse.fst
+Filtron.fst
+FinalPlug 6.fst
+FireCharger.fst
+FireCobra.fst
+FireMaster.fst
+FireMaximizer.fst
+FirePresser.fst
+FIRETHEPUMP.fst
+Fix Doubler.fst
+Fix Flanger.fst
+Fix Phaser.fst
+Flamingo Verb.fst
+Flex Beat.fst
+Focusing Equalizer.fst
+Fog Convolver 2.fst
+Fortin Cali Suite.fst
+Fortin Nameless Suite.fst
+Fortin NTS Suite.fst
+Fox Echo Chorus.fst
+Friedman BE100.fst
+Friedman Buxom Betty.fst
+Friedman DS40.fst
+Frostbite 2.fst
+Fuchs Overdrive Supreme 50.fst
+Fuchs Train II.fst
+FuzzPlus3.fst
+Gallien Krueger 800RB.fst
+Gatekeeper.fst
+Gem Comp G.fst
+Gem Comp LA.fst
+Gem Comp670.fst
+Gem Comp76.fst
+Gem Dopamine.fst
+Gem ECHOSON.fst
+Gem EQ495.fst
+Gem EQ550.fst
+Gem EQ84.fst
+Gem EQP.fst
+Gem Mod.fst
+Gem Modula.fst
+Gem OTD-2.fst
+Gem Sculptube.fst
+Gem TAPEDESK.fst
+Gem Voice.fst
+GEQ Classic Stereo.fst
+GEQ Modern Stereo.fst
+GGD Studio Cabs Cali 1.5.fst
+GGD Studio Cabs Contenders Round 1.fst
+GGD Studio Cabs Goldstack 1.5.fst
+GGD Studio Cabs Zilla 1.5.fst
+GK Amplification 3 Pro.fst
+Gong Amp.fst
+Gorilla Drive.fst
+Gorilla.fst
+GrainSpace.fst
+Green Reaper.fst
+GreenADAI.fst
+GTR Amp Mono-Stereo.fst
+GTR Amp Stereo.fst
+GTR Solo Tool Rack Mono-Stereo.fst
+GTR Solo Tool Rack Stereo.fst
+GTR Stomp 2 Mono-Stereo.fst
+GTR Stomp 2 Stereo.fst
+GTR Stomp 4 Mono-Stereo.fst
+GTR Stomp 4 Stereo.fst
+GTR Stomp 6 Mono-Stereo.fst
+GTR Stomp 6 Stereo.fst
+GTR Tool Rack Mono-Stereo.fst
+GTR Tool Rack Stereo.fst
+GW MixCentric Stereo.fst
+GW PianoCentric Mono-Stereo.fst
+GW PianoCentric Stereo.fst
+GW ToneCentric Stereo.fst
+GW VoiceCentric Mono-Stereo.fst
+GW VoiceCentric Stereo.fst
+H-Comp Stereo.fst
+H-Delay Mono-Stereo.fst
+H-Delay Stereo.fst
+H-EQ Stereo.fst
+H-EQ-Light Stereo.fst
+H-Reverb 5.0.fst
+H-Reverb 5.1.fst
+H-Reverb long 5.0.fst
+H-Reverb long 5.1.fst
+H-Reverb long Mono-5.0.fst
+H-Reverb long Mono-5.1.fst
+H-Reverb long Mono-Stereo.fst
+H-Reverb long Stereo-5.0.fst
+H-Reverb long Stereo-5.1.fst
+H-Reverb long Stereo.fst
+H-Reverb Mono-5.0.fst
+H-Reverb Mono-5.1.fst
+H-Reverb Mono-Stereo.fst
+H-Reverb Stereo-5.0.fst
+H-Reverb Stereo-5.1.fst
+H-Reverb Stereo.fst
+Harmonic Maximizer.fst
+Harmonics Analog Saturation Processor.fst
+Harris Doyle Natalus DSCEQ.fst
+Heavy Pedal mkII.fst
+Hybrid Filter.fst
+Hyperspace.fst
+HyperTune.fst
+I Wish.fst
+IDR360 5.0.fst
+IDR360 5.1.fst
+Impact.fst
+IMPusher Stereo.fst
+Inf EQ.fst
+Infiltrator.fst
+InPhase Live Stereo.fst
+InPhase LT Live Stereo.fst
+InPhase LT Stereo.fst
+InPhase Stereo.fst
+Invisible Limiter G2.fst
+Invisible Limiter G3.fst
+Invisible Limiter.fst
+IQ-Analyser NetAux.fst
+IQ-Analyser.fst
+IQ-Comp.fst
+IQ-DeEsser.fst
+IQ-Eq.fst
+IQ-Limiter.fst
+IQ-Reverb.fst
+IR-L efficient Stereo.fst
+IR-L full Stereo.fst
+IR-L Mono-Stereo.fst
+IR1 efficient Stereo.fst
+IR1 full Stereo.fst
+IR1 Mono-Stereo.fst
+IR360 discrete Mono-5.0.fst
+IR360 eff discrete 5.0.fst
+IR360 eff discrete 5.1.fst
+IR360 eff discrete Stereo-5.0.fst
+IR360 eff s.field Stereo-5.0.fst
+IR360 sound field 5.0.fst
+IR360 sound field 5.1.fst
+IR360 sound field Mono-5.0.fst
+IR360 sound field Stereo-5.0.fst
+IRDX Core.fst
+IRLive Mono-Stereo.fst
+IRLive Stereo.fst
+JJP-Bass Mono-Stereo.fst
+JJP-Bass Stereo.fst
+JJP-Cymb-Perc Mono-Stereo.fst
+JJP-Cymb-Perc Stereo.fst
+JJP-Drums Mono-Stereo.fst
+JJP-Drums Stereo.fst
+JJP-Guitars Mono-Stereo.fst
+JJP-Guitars Stereo.fst
+JJP-Strings-Keys Mono-Stereo.fst
+JJP-Strings-Keys Stereo.fst
+JJP-Vocals Mono-Stereo.fst
+JJP-Vocals Stereo.fst
+Kaleidoscopes Mono-Stereo.fst
+Kaleidoscopes Stereo.fst
+Kerry King Signature.fst
+Key Detector Stereo.fst
+Kickstart 2.fst
+Kiive Tape Face.fst
+Kiive Xtressor.fst
+Klirrton Grindstein.fst
+Knif Audio Soma.fst
+Kombinat Tri.fst
+Kramer HLS Stereo.fst
+Kramer PIE Stereo.fst
+Kramer Tape Stereo.fst
+Krush.fst
+KSHMR Essentials Kick.fst
+Kujaku.fst
+L1 limiter Stereo.fst
+L1+ Ultramaximizer Stereo.fst
+L12X Solid State Amplifier.fst
+L2 Stereo.fst
+L3 MultiMaximizer Stereo.fst
+L3 UltraMaximizer Stereo.fst
+L3-LL Multi Stereo.fst
+L3-LL Ultra Stereo.fst
+L316 Stereo.fst
+L360 5.0.fst
+L360 5.1.fst
+LadyBug Reverb.fst
+LDC2 Compander.fst
+LFE360 5.1.fst
+Lindell 254E.fst
+Lindell 354E.fst
+Lindell 50 Buss.fst
+Lindell 50 Channel.fst
+Lindell 69 Buss.fst
+Lindell 69 Channel.fst
+Lindell 6X-500.fst
+Lindell 7X-500.fst
+Lindell 80 Bus.fst
+Lindell 80 Channel.fst
+Lindell 902 De-esser.fst
+Lindell ChannelX.fst
+Lindell MBC.fst
+Lindell PEX-500.fst
+Lindell SBC.fst
+Lindell TE-100.fst
+LinEQ Broadband Stereo.fst
+LinEQ Lowband Stereo.fst
+LinMB Stereo.fst
+Lion Master.fst
+LoAir 5.0-5.1.fst
+LoAir 5.1.fst
+LoAir Stereo.fst
+Lofi Space Mono-Stereo.fst
+Lofi Space Stereo.fst
+Looptrotter SA2RATE2.fst
+Low Filter.fst
+LTL Chop Shop EQ.fst
+LTL SILVER BULLET mk2.fst
+M360 Manager 5.0-5.1.fst
+M360 Manager 5.0.fst
+M360 Manager 5.1.fst
+M360 Mixdown 5.0.fst
+M360 Mixdown 5.1.fst
+M5133.fst
+Maag EQ2.fst
+Maag EQ4.fst
+Maag MAGNUM-K.fst
+Magma BB Tubes Stereo.fst
+Magma Channel Strip Stereo.fst
+Magma Lil Tube Stereo.fst
+Magma Springs Mono-Stereo.fst
+Magma Springs Stereo.fst
+Manipulator.fst
+MannyM Delay Mono-Stereo.fst
+MannyM Delay Stereo.fst
+MannyM Distortion Stereo.fst
+MannyM EQ Stereo.fst
+MannyM Reverb Mono-Stereo.fst
+MannyM Reverb Stereo.fst
+MannyM Tone Shaper Stereo.fst
+MannyM TripleD Stereo.fst
+Mantis.fst
+Mark Studio 2.fst
+Marshall Bluesbreaker 1962.fst
+Marshall JMP 2203.fst
+Marshall Plexi Super Lead 1959.fst
+Marshall Silver Jubilee 2555.fst
+Maserati ACG Mono-Stereo.fst
+Maserati ACG Stereo.fst
+Maserati B72 Mono-Stereo.fst
+Maserati B72 Stereo.fst
+Maserati DRM Stereo.fst
+Maserati GRP Stereo.fst
+Maserati GTi Mono-Stereo.fst
+Maserati GTi Stereo.fst
+Maserati HMX Mono-Stereo.fst
+Maserati HMX Stereo.fst
+Maserati VX1 Mono-Stereo.fst
+Maserati VX1 Stereo.fst
+Master Plan v1.5.fst
+MasterMind.fst
+MasterVerb 6.fst
+Material Comp.fst
+MaxxBass Stereo.fst
+MaxxVolume Stereo.fst
+MDMX Fuzz Stereo.fst
+MDMX OverDrive Stereo.fst
+MDMX Screamer Stereo.fst
+Megaphone.fst
+MetaFilter Mono-Stereo.fst
+MetaFilter Stereo.fst
+MetaFlanger Mono-Stereo.fst
+MetaFlanger Stereo.fst
+Metal Amp Room.fst
+Meter.fst
+Michelangelo.fst
+Millennia NSEQ-2.fst
+Millennia TCL-2.fst
+miniVerb.fst
+Mirror.fst
+MixChecker Pro.fst
+Mixland Vac Attack.fst
+Model 72 FX Synthesizer System.fst
+Model N Channel.fst
+Modular FX.fst
+MoMa.fst
+MondoMod Mono-Stereo.fst
+MondoMod Stereo.fst
+Morph EQ.fst
+Morphoder Mono-Stereo.fst
+Morphoder Stereo.fst
+MorphVerb.fst
+MT-A.fst
+Multiband X6.fst
+MultiDrive Pedal Pro.fst
+MultiDynamics 6.fst
+MultiDynamics 7.fst
+MultiMod Rack Mono-Stereo.fst
+MultiMod Rack Stereo.fst
+Mutronics Mutator.fst
+MV2 Stereo.fst
+MV360 5.0.fst
+MV360 5.1.fst
+NA 8180.fst
+NA Acoustic Voice.fst
+NA Analog Rack Bass Equalizer.fst
+NA Analog Rack Chorus.fst
+NA Analog Rack Cleaner.fst
+NA Analog Rack Compressor.fst
+NA Analog Rack Delay.fst
+NA Analog Rack Flanger.fst
+NA Analog Rack Fuzz.fst
+NA Analog Rack Guitar Equalizer.fst
+NA Analog Rack Noise Gate.fst
+NA Analog Rack Phaser.fst
+NA Analog Rack Reverb.fst
+NA Analog Rack Screamer.fst
+NA Analog Rack Tremolo.fst
+NA Bass Driver.fst
+NA Blackice Beta Gamma.fst
+NA Bst100 V2.fst
+NA Cali Dual.fst
+NA Cali Reverb.fst
+NA Crunck V2.fst
+NA Delay3000.fst
+NA Doubler.fst
+NA EN Hardball.fst
+NA Faceman.fst
+NA Hivolt 103.fst
+NA IR Loader.fst
+NA Jmp Pro.fst
+NA LoFi.fst
+NA Mp1 Pro.fst
+NA Mrh159.fst
+NA Mrh810 V2.fst
+NA Overdrive Special.fst
+NA Plugin Rig.fst
+NA PSA1000 Jr.fst
+NA PSA1000.fst
+NA Quinta.fst
+NA Sound Master.fst
+NA The Boss Rack.fst
+NA The Boss.fst
+NA Voice DC30.fst
+Nanopulse.fst
+Nectar 4 Auto-Level.fst
+Nectar 4 Backer.fst
+Nectar 4 Breath Control.fst
+Nectar 4 Compressor.fst
+Nectar 4 DeEsser.fst
+Nectar 4 Delay.fst
+Nectar 4 Dimension.fst
+Nectar 4 Equalizer.fst
+Nectar 4 Gate.fst
+Nectar 4 Pitch.fst
+Nectar 4 Reverb.fst
+Nectar 4 Saturation.fst
+Nectar 4 Voices.fst
+Nectar 4.fst
+Need 31102 Console EQ.fst
+Need 533 EQ.fst
+Need 73 Console EQ.fst
+Need 81 Console EQ.fst
+Need 84 Console EQ.fst
+Need Pre 31102.fst
+Need Pre Trilogy.fst
+NEOLD BIG AL.fst
+NEOLD U17.fst
+NEOLD U2A.fst
+NEOLD V76U73.fst
+NEOLD WARBLE.fst
+Neutron 4 Compressor.fst
+Neutron 4 Equalizer.fst
+Neutron 4 Exciter.fst
+Neutron 4 Gate.fst
+Neutron 4 Sculptor.fst
+Neutron 4 Transient Shaper.fst
+Neutron 4 Unmask.fst
+Neutron 4 Visual Mixer.fst
+Neutron 4.fst
+NLS Buss Stereo.fst
+NLS Channel Stereo.fst
+Noveltech Character.fst
+Noveltech Vocal Enhancer.fst
+NS1 Stereo.fst
+Nu Compressor.fst
+NUGEN Send.fst
+NUGEN Stereoizer3.fst
+NUGEN Visualizer2.fst
+NX 5.0-Stereo.fst
+NX 5.0.fst
+NX 5.1-Stereo.fst
+NX 5.1.fst
+NX 7.1-Stereo.fst
+NX 7.1.fst
+Nx Ambisonics Quad-Stereo.fst
+NX Ambisonics Quad.fst
+Nx Germano Studios 5.1-Stereo.fst
+Nx Germano Studios Stereo.fst
+NX Mono-Stereo.fst
+Nx Ocean Way Nashville Stereo.fst
+NX Stereo.fst
+OCS-45.fst
+Octaver 82.fst
+OMEGA Ampworks Granophyre.fst
+OneKnob Brighter Stereo.fst
+OneKnob Driver Stereo.fst
+OneKnob Filter Stereo.fst
+OneKnob Louder Stereo.fst
+OneKnob Phatter Stereo.fst
+OneKnob Pressure Stereo.fst
+OneKnob Pumper Stereo.fst
+OneKnob Wetter Mono-Stereo.fst
+OneKnob Wetter Stereo.fst
+Orbitron.fst
+Other Desert Cities.fst
+OTO Biscuit 8-bit Effects.fst
+Outer Space.fst
+OVox Mono-Stereo.fst
+OVox Stereo.fst
+Owl Control.fst
+Ozone 11 Clarity.fst
+Ozone 11 Dynamic EQ.fst
+Ozone 11 Dynamics.fst
+Ozone 11 Equalizer.fst
+Ozone 11 Exciter.fst
+Ozone 11 Imager.fst
+Ozone 11 Impact.fst
+Ozone 11 Low End Focus.fst
+Ozone 11 Master Rebalance.fst
+Ozone 11 Match EQ.fst
+Ozone 11 Maximizer.fst
+Ozone 11 Spectral Shaper.fst
+Ozone 11 Stabilizer.fst
+Ozone 11 Vintage Compressor.fst
+Ozone 11 Vintage EQ.fst
+Ozone 11 Vintage Limiter.fst
+Ozone 11 Vintage Tape.fst
+Ozone 11.fst
+Pancz.fst
+Panorama 6.fst
+Panorama 7.fst
+Parallax.fst
+Passive EQ.fst
+Passive Equalizer.fst
+PAZ- Analyzer Stereo.fst
+PAZ- Frequency Stereo.fst
+PAZ- Meters Stereo.fst
+PAZ- Position Stereo.fst
+Pillar Power Amp.fst
+PitchMonster.fst
+Plamen.fst
+Plasma.fst
+PlaylistRider Stereo.fst
+PlexiTape.fst
+Pluralis.fst
+Polaris.fst
+PolyComp.fst
+Pre X7.fst
+PreBOX.fst
+Pro Audio DSP DSM V3.fst
+PRS Archon Mono-Stereo.fst
+PRS Dallas Mono-Stereo.fst
+PRS V9 Mono-Stereo.fst
+PS22 Split Mono-Stereo.fst
+PS22 Split Stereo.fst
+PS22 Spread Mono-Stereo.fst
+PS22 Spread Stereo.fst
+PS22 Spread(10) Mono-Stereo.fst
+PS22 Spread(10) Stereo.fst
+PS22 XSplit Mono-Stereo.fst
+PS22 XSplit Stereo.fst
+PSE Stereo.fst
+PuigChild 670 Stereo.fst
+PuigTec EQP1A Stereo.fst
+PuigTec MEQ5 Stereo.fst
+Punish.fst
+Purple Audio MC 77.fst
+PutMeOnDrums.fst
+Pyros.fst
+Q-Clone Stereo.fst
+Q1 Stereo.fst
+Q10 Stereo.fst
+Q2 Stereo.fst
+Q3 Stereo.fst
+Q4 Stereo.fst
+Q6 Stereo.fst
+Q8 Stereo.fst
+QuatroMod.fst
+R360 5.0.fst
+R360 5.1.fst
+R360 Mono-5.0.fst
+R360 Mono-5.1.fst
+R360 Stereo-5.0.fst
+R360 Stereo-5.1.fst
+Rabbit Tape.fst
+RBass Stereo.fst
+RChannel Mono-Stereo.fst
+RChannel Stereo.fst
+RCompressor Stereo.fst
+RDeEsser Stereo.fst
+Reels.fst
+Renaissance Axx Stereo.fst
+RePitch VST.fst
+Replicant 2.fst
+REQ 2 Stereo.fst
+REQ 4 Stereo.fst
+REQ 6 Stereo.fst
+Retro Fi Mono-Stereo.fst
+Retro Fi Stereo.fst
+Retronaut.fst
+Revoice Pro Link (Legacy).fst
+Revoice Pro Link.fst
+Rhino Reverb.fst
+Rift.fst
+RootOne.fst
+RoughRider3.fst
+RoyalCompressor.fst
+RVerb Mono-Stereo.fst
+RVerb Stereo.fst
+RVox Stereo.fst
+RX950.fst
+RZ062a Equalizer.fst
+RZ062b Equalizer.fst
+S1 Imager Stereo.fst
+S1 MS Matrix Stereo.fst
+S1 Shuffler Stereo.fst
+S360 Imager 5.0.fst
+S360 Imager 5.1.fst
+S360 Imager Mono-5.0.fst
+S360 Imager Mono-5.1.fst
+S360 Imager Stereo-5.0.fst
+S360 Imager Stereo-5.1.fst
+S360 Panner Mono-5.0.fst
+S360 Panner Mono-5.1.fst
+S360 Panner Stereo-5.0.fst
+S360 Panner Stereo-5.1.fst
+SA76.fst
+Sakura Dither.fst
+Saphira Stereo.fst
+Saturation Knob.fst
+Scheps 73 Stereo.fst
+Scheps Omni Channel 2 Stereo.fst
+Scheps Parallel Particles Stereo.fst
+Schoeps Double MS.fst
+Schoeps Mono Upmix 1to2.fst
+Schoeps Mono Upmix 1to3.fst
+SerumFX.fst
+Shadow Hills Class A Mastering Comp.fst
+Shadow Hills Mastering Compressor.fst
+ShaperBox 3.fst
+Sibilance Stereo.fst
+Sibilance-Live Stereo.fst
+Side Filter.fst
+Silk Vocal Live Stereo.fst
+Silk Vocal Stereo.fst
+Smack Attack Stereo.fst
+smartEQ4.fst
+Smash And Grab v2.fst
+Solidus Randy 250.fst
+Solidus VS8100.fst
+SoundShifter Pitch Stereo.fst
+Space Rider Mono-Stereo.fst
+Space Rider Stereo.fst
+Space Station UM282.fst
+Space Strip.fst
+Spacer.fst
+Speakers.fst
+Spherix Compressor 7.1.2.fst
+Spherix Compressor 7.1.4.fst
+Spherix Limiter 7.1.2.fst
+Spherix Limiter 7.1.4.fst
+SPL Attacker Plus.fst
+SPL De-Esser Dual-Band.fst
+SPL De-Esser.fst
+SPL De-Verb Plus.fst
+SPL DrumXchanger.fst
+SPL EQ Ranger Plus.fst
+SPL Free Ranger.fst
+SPL HawkEye.fst
+SPL IRON.fst
+SPL Mo-Verb Plus.fst
+SPL Passeq Single.fst
+SPL Passeq.fst
+SPL PQ.fst
+SPL Transient Designer Plus.fst
+SPL TwinTube.fst
+SPL Vitalizer MK2-T.fst
+Spring Reverb.fst
+Springs.fst
+SSL EV2 Channel Stereo.fst
+SSL Native Bus Compressor v6.fst
+SSL Native Channelstrip v6.fst
+SSL Native Drumstrip v6.fst
+SSL Native FlexVerb.fst
+SSL Native Vocalstrip 2.fst
+SSL Native X-Comp v6.fst
+SSL Native X-EQ 2.fst
+SSL Native X-Phase v6.fst
+SSL Native X-Saturator v6.fst
+SSL Native X-ValveComp v6.fst
+SSLChannel Stereo.fst
+SSLComp Stereo.fst
+SSLEQ Stereo.fst
+SSLGChannel Stereo.fst
+Stereo Imager D.fst
+STL ControlHub.fst
+STL Ignite - AmpHub.fst
+STL ToneHub.fst
+StudioVerse Audio Effects Mono-Stereo.fst
+StudioVerse Audio Effects Stereo.fst
+Sub Align Stereo.fst
+Sub Ninja.fst
+SubbassDoctor808.fst
+Submarine Stereo.fst
+Suhr PT100.fst
+Suhr SE100.fst
+Summit Audio EQF-100.fst
+Summit Audio Grand Channel.fst
+Summit Audio TLA-100A.fst
+Supermodal.fst
+SuperTap 2-Taps Mono-Stereo.fst
+SuperTap 2-Taps Stereo.fst
+SuperTap 6-Taps Mono-Stereo.fst
+SuperTap 6-Taps Stereo.fst
+Surge XT Effects.fst
+Swarm Reverb.fst
+SYS AlgoVerb.fst
+SYS Chorus.fst
+SYS Comp.fst
+SYS CompListenMic.fst
+SYS Delay.fst
+SYS Distortion.fst
+SYS EQ-Dynamic.fst
+SYS EQ.fst
+SYS Expander.fst
+SYS Flanger.fst
+SYS Gain.fst
+SYS Gate.fst
+SYS Meter.fst
+SYS MultiMod.fst
+SYS Notepad.fst
+SYS Pan.fst
+SYS Phaser.fst
+SYS PinkNoise.fst
+SYS Pitch.fst
+SYS Saturator.fst
+SYSTEM.fst
+Tape Pro.fst
+Tape.fst
+TapeMAI.fst
+TapeSAI.fst
+Tau Compressor Plus.fst
+TBTECH Kirchhoff-EQ.fst
+TB_Barricade_v4.fst
+TB_BitJuggler_v1.fst
+TB_Compressor_v4.fst
+TB_DualVCF_v1.fst
+TB_Enhancer_v1.fst
+TB_Equalizer_v4.fst
+TB_GonioMeter_v1.fst
+TB_MBC_v1.fst
+TB_Morphit_v1.fst
+TB_ReelBus_v4.fst
+TB_Reverb_v4.fst
+TB_Sibalance_v4.fst
+TB_Spectrogram_v1.fst
+TB_VoicePitcher_v4.fst
+TDR Nova.fst
+Texture.fst
+TH-U.fst
+The Bluesman.fst
+The Dom.fst
+The Driver.fst
+The Glue.fst
+The God Particle.fst
+The Orb.fst
+THE OVEN.fst
+The Overseer.fst
+The Shredder.fst
+ThickPreAI.fst
+Things Bubbles.fst
+Things Crusher.fst
+Things Flip EQ.fst
+Things Motor.fst
+Things Texture.fst
+THX Spatial Creator.fst
+TimeMachine.fst
+TITANIUM31B.fst
+TITANIUM33B.fst
+TITANIUM3BASSTARD.fst
+TITANIUM3EQ.fst
+TITANIUM3PRE.fst
+TITANIUM3STRIP.fst
+TOMO Audiolabs LISA.fst
+Tonal Balance Control 2.fst
+ToneLib-GFX.fst
+ToneLib-Metal.fst
+Tonelux Tilt Live.fst
+Tonelux Tilt.fst
+TONEX.fst
+Torque Stereo.fst
+Torque-Live Stereo.fst
+TR5 Black 76.fst
+TR5 Brickwall Limiter.fst
+TR5 British Channel.fst
+TR5 Bus Compressor.fst
+TR5 Classic Clipper.fst
+TR5 Classic Comp.fst
+TR5 Classic EQ.fst
+TR5 Classic Multi Band Limiter.fst
+TR5 Comprexxor.fst
+TR5 CSR Hall.fst
+TR5 CSR Inverse.fst
+TR5 CSR Plate.fst
+TR5 CSR Room.fst
+TR5 De Esser.fst
+TR5 Dyna-Mu.fst
+TR5 EQ-73.fst
+TR5 EQ-81.fst
+TR5 EQ-PA.fst
+TR5 EQ-PB.fst
+TR5 EQ-PG.fst
+TR5 EQP-1A.fst
+TR5 EQual.fst
+TR5 Fame Studio Reverb.fst
+TR5 Joe Chiccarelli Vocal Strip.fst
+TR5 Leslie.fst
+TR5 Linear Phase EQ.fst
+TR5 Master EQ-432.fst
+TR5 Master Match.fst
+TR5 Metering.fst
+TR5 Mic Room.fst
+TR5 One.fst
+TR5 Opto Comp.fst
+TR5 Precision Comp-Limiter.fst
+TR5 Quad Compressor.fst
+TR5 Quad Image.fst
+TR5 Quad Limiter.fst
+TR5 Saturator X.fst
+TR5 Space Delay.fst
+TR5 Stealth Limiter.fst
+TR5 Suite.fst
+TR5 Sunset Sound Studio Reverb.fst
+TR5 Tape Echo.fst
+TR5 Tape Machine 24.fst
+TR5 Tape Machine 440.fst
+TR5 Tape Machine 80.fst
+TR5 Tape Machine 99.fst
+TR5 TASCAM 388.fst
+TR5 TASCAM PORTA ONE.fst
+TR5 TEAC A-3340S.fst
+TR5 TEAC A-6100 MKII.fst
+TR5 The Farm Stone Room.fst
+TR5 VC-670.fst
+TR5 White 2A.fst
+TR5 White Channel.fst
+Track Symbiosis.fst
+TrackPlug 6.fst
+TRACT LinPhase Stereo.fst
+TRACT Stereo.fst
+tranQuilizr G2.fst
+tranQuilizr.fst
+Transient Shaper.fst
+Transmutator.fst
+TransX Multi Stereo.fst
+TransX Wide Stereo.fst
+TrapTune.fst
+TridA-Pre.fst
+Trident A-Range.fst
+Triple Fader.fst
+TrueVerb Mono-Stereo.fst
+TrueVerb Stereo.fst
+TS-1 Transient Shaper.fst
+TSAR-1 Reverb.fst
+TSAR-1R Reverb.fst
+Tube Delay.fst
+Tube KC-1.fst
+Tube Modulator.fst
+Tube-Tech CL 1B mk II.fst
+Tube-Tech CL 1B.fst
+Tube-Tech Classic Channel mk II.fst
+Tube-Tech Classic Channel.fst
+Tube-Tech Equalizers mk II.fst
+Tube-Tech ME 1B.fst
+Tube-Tech PE 1C.fst
+Tuned Reverb.fst
+Type A.fst
+Type B.fst
+U73b Compressor.fst
+U78 Saturator.fst
+UltraPitch 3 Voices Mono-Stereo.fst
+UltraPitch 6 Voices Mono-Stereo.fst
+UltraPitch Shift Mono-Stereo.fst
+UM225 Stereo-5.0.fst
+UM226 Stereo-5.1.fst
+Unfiltered Audio Bass Mint.fst
+Unfiltered Audio Byome.fst
+Unfiltered Audio Dent 2.fst
+Unfiltered Audio Fault.fst
+Unfiltered Audio G8.fst
+Unfiltered Audio Indent 2.fst
+Unfiltered Audio Instant Delay.fst
+Unfiltered Audio lo-fi-af.fst
+Unfiltered Audio Needlepoint.fst
+Unfiltered Audio Sandman Pro.fst
+Unfiltered Audio Sandman.fst
+Unfiltered Audio Silo.fst
+Unfiltered Audio SpecOps.fst
+Unfiltered Audio Tails.fst
+Unfiltered Audio Triad.fst
+Unfiltered Audio Zip.fst
+UniChannel.fst
+UrbanPuncher.fst
+USRackAI.fst
+ValhallaDelay.fst
+ValhallaFreqEcho.fst
+ValhallaPlate.fst
+ValhallaRoom.fst
+ValhallaShimmer.fst
+ValhallaSpaceModulator.fst
+ValhallaSupermassive.fst
+ValhallaUberMod.fst
+ValhallaVintageVerb.fst
+Valley People Dyna-mite Gate.fst
+Valley People Dyna-mite Slam.fst
+Valley People Dyna-mite.fst
+Valves.fst
+Vari Comp.fst
+VC 160.fst
+VC 2A.fst
+VC 76.fst
+VComp Stereo.fst
+VEQ3 Stereo.fst
+VEQ4 Stereo.fst
+Verbum.fst
+Vertigo VSC-2.fst
+Vertigo VSM-3.fst
+Vintage Amp Room.fst
+Vinyl Strip.fst
+Vitamin Stereo.fst
+Vocal Bender Stereo.fst
+Vocal Chain.fst
+Vocal Rider Live Stereo.fst
+Vocal Rider Stereo.fst
+Vocal Tune.fst
+VocAlign 6 Pro VST.fst
+Voltage Amps Bass Mono-Stereo.fst
+Voltage Amps Bass Stereo.fst
+Voltage Amps Guitar Mono-Stereo.fst
+Voltage Amps Guitar Stereo.fst
+VoxDucker.fst
+Voxessor.fst
+VU Meter Stereo.fst
+W43 Stereo.fst
+Wave Box.fst
+Wave Shredder.fst
+Waves Gemstones Mono-Stereo.fst
+Waves Gemstones Stereo.fst
+Waves Harmony Mono-Stereo.fst
+Waves Harmony Stereo.fst
+Waves Stream Receive Stereo.fst
+Waves Stream Send Stereo.fst
+Waves Tune LT Stereo.fst
+Waves Tune Real-Time Stereo.fst
+Waves Tune Stereo.fst
+Weiss Compressor Limiter.fst
+Weiss Deess.fst
+Weiss DS1-MK3.fst
+Weiss EQ MP.fst
+Weiss EQ1.fst
+Weiss MM-1 Mastering Maximizer.fst
+Wider.fst
+Wires.fst
+WLM Meter 5.0.fst
+WLM Meter 5.1.fst
+WLM Meter Stereo.fst
+WLM Plus 5.0.fst
+WLM Plus 5.1.fst
+WLM Plus Stereo.fst
+WNS Stereo.fst
+X-Click Stereo.fst
+X-Crackle Stereo.fst
+X-FDBK Stereo.fst
+X-Hum Stereo.fst
+X-Noise Stereo.fst
+XenoVerb.fst
+Xrider.fst
+Xvox Comp.fst
+Xvox DS.fst
+Xvox Pro.fst
+Xvox SFX.fst
+Xvox Space.fst
+Xvox Tone.fst
+Yak Delay.fst
+Z-Noise Stereo.fst
+Control Surface.fst
+Distructor.fst
+Edison.fst
+Effector.fst
+EQUO.fst
+Frequency Shifter.fst
+Frequency Splitter.fst
+Fruity 7 Band EQ.fst
+Fruity Balance.fst
+Fruity Bass Boost.fst
+Fruity Big Clock.fst
+Fruity Blood Overdrive.fst
+Fruity Center.fst
+Fruity Chorus.fst
+Fruity Compressor.fst
+Fruity Convolver.fst
+Fruity dB Meter.fst
+Fruity Delay 2.fst
+Fruity Delay 3.fst
+Fruity Delay Bank.fst
+Fruity Delay.fst
+Fruity Fast Dist.fst
+Fruity Fast LP.fst
+Fruity Filter.fst
+Fruity Flanger.fst
+Fruity Flangus.fst
+Fruity Formula Controller.fst
+Fruity Free Filter.fst
+Fruity HTML NoteBook.fst
+Fruity Limiter.fst
+Fruity Love Philter.fst
+Fruity LSD.fst
+Fruity Multiband Compressor.fst
+Fruity Mute 2.fst
+Fruity NoteBook 2.fst
+Fruity NoteBook.fst
+Fruity PanOMatic.fst
+Fruity Parametric EQ 2.fst
+Fruity Parametric EQ.fst
+Fruity Peak Controller.fst
+Fruity Phase Inverter.fst
+Fruity Phaser.fst
+Fruity Reeverb 2.fst
+Fruity Reeverb.fst
+Fruity Scratcher.fst
+Fruity Send.fst
+Fruity Soft Clipper.fst
+Fruity Spectroman.fst
+Fruity Squeeze.fst
+Fruity Stereo Enhancer.fst
+Fruity Stereo Shaper.fst
+Fruity Vocoder.fst
+Fruity WaveShaper.fst
+Fruity Wrapper.fst
+Fruity X-Y Controller.fst
+Fruity X-Y-Z Controller.fst
+Gross Beat.fst
+Hardcore.fst
+Hyper Chorus.fst
+Luxeverb.fst
+Maximus.fst
+Multiband Delay.fst
+Newtime.fst
+Newtone.fst
+Patcher.fst
+Pitch Shifter.fst
+Pitcher.fst
+Razer Chroma.fst
+Soundgoodizer.fst
+Transient Processor.fst
+Tuner.fst
+VFX Color Mapper.fst
+VFX Envelope.fst
+VFX Key Mapper.fst
+VFX Keyboard Splitter.fst
+VFX Level Scaler.fst
+VFX Sequencer.fst
+Vintage Chorus.fst
+Vintage Phaser.fst
+Vocodex.fst
+Wave Candy.fst
+ZGameEditor Visualizer.fst
+Cobra Fuzz.fst
+BOD.fst
+CamelCrusher.fst
+Crystallizer.fst
+Decapitator.fst
+Devil-Loc Deluxe.fst
+Devil-Loc.fst
+EchoBoy.fst
+EffectRack.fst
+FabFilter Micro.fst
+FabFilter Pro-C 2.fst
+FabFilter Pro-DS.fst
+FabFilter Pro-G.fst
+FabFilter Pro-L 2.fst
+FabFilter Pro-MB.fst
+FabFilter Pro-Q 3.fst
+FabFilter Pro-R.fst
+FabFilter Saturn 2.fst
+FabFilter Simplon.fst
+FabFilter Timeless 3.fst
+FabFilter Volcano 3.fst
+FilterFreak1.fst
+FilterFreak2.fst
+Little AlterBoy.fst
+Little MicroShift.fst
+Little PrimalTap.fst
+Little Radiator.fst
+MicroShift.fst
+PanMan.fst
+PhaseMistress.fst
+PrimalTap.fst
+Radiator.fst
+SGA1566.fst
+Transatlantic Plate Reverb.fst
+Tremolator.fst
+4U+ BlindTest.fst
+4U+ DynamicTiltEQ.fst
+4U+ ProjectTime.fst
+Abbey Road Chambers Mono-Stereo.fst
+Abbey Road Chambers Stereo.fst
+Abbey Road EMI TG12345 Channel Stereo.fst
+Abbey Road J37 Tape Stereo.fst
+Abbey Road Plates Mono-Stereo.fst
+Abbey Road Plates Stereo.fst
+Abbey Road REDD.17 Stereo.fst
+Abbey Road REDD.37.51 Stereo.fst
+Abbey Road Reel ADT Live Mono-Stereo.fst
+Abbey Road Reel ADT Live Stereo.fst
+Abbey Road Reel ADT Mono-Stereo.fst
+Abbey Road Reel ADT Stereo.fst
+Abbey Road Reel ADT2V Live Mono-Stereo.fst
+Abbey Road Reel ADT2V Live Stereo.fst
+Abbey Road Reel ADT2V Mono-Stereo.fst
+Abbey Road Reel ADT2V Stereo.fst
+Abbey Road RS124 Stereo.fst
+Abbey Road RS127 Box.fst
+Abbey Road RS127 Rack.fst
+Abbey Road RS135.fst
+Abbey Road RS56 Passive EQ Stereo.fst
+Abbey Road Saturator Stereo.fst
+Abbey Road Studio 3 5.1-Stereo.fst
+Abbey Road Studio 3 7.1-Stereo.fst
+Abbey Road Studio 3 Stereo.fst
+Abbey Road TG Mastering Live Stereo.fst
+Abbey Road TG Mastering Stereo.fst
+Abbey Road TG Meter Bridge Stereo.fst
+Abbey Road The King's Microphones Stereo.fst
+Abbey Road Vinyl Light Stereo.fst
+Abbey Road Vinyl Stereo.fst
+Acme Opticom XLA-3.fst
+Acoustic Feedback.fst
+Active Equalizer.fst
+ADA Flanger.fst
+ADA STD-1 Stereo Tapped Delay.fst
+ADPTR MetricAB.fst
+ADPTR Sculpt.fst
+ADPTR StreamLiner.fst
+AIR Soft Clipper.fst
+Alborosie Dub Station.fst
+AMEK EQ 200.fst
+AMEK EQ 250.fst
+AMEK Mastering Compressor.fst
+American Class A.fst
+Amp Room.fst
+Ampbox.fst
+Ampeg B15N.fst
+Ampeg SVT3Pro.fst
+Ampeg SVTVR Classic.fst
+Ampeg SVTVR.fst
+Ampeg V4B.fst
+Amplifikation 360.fst
+Amplifikation Caliburn.fst
+Amplifikation Clarent.fst
+Amplifikation Creme.fst
+Amplifikation Lancaster.fst
+Amplifikation Matchlock.fst
+Amplifikation Rectifor.fst
+Amplifikation Vermilion.fst
+Amplifikation VVV.fst
+AmpLion 2 Rock Essentials.fst
+Aphex Vintage Exciter Stereo.fst
+API-2500 Stereo.fst
+API-550A Stereo.fst
+API-550B Stereo.fst
+API-560 Stereo.fst
+Archetype Abasi.fst
+Archetype Cory Wong.fst
+Archetype Gojira.fst
+Archetype Nolly.fst
+Archetype Plini.fst
+ARP 2600 FX.fst
+ATONE.fst
+AudioTrack Stereo.fst
+Auto-Key 2.fst
+Auto-Tune Pro.fst
+Autoformer.fst
+B360 5.0-Quad.fst
+B360 5.1-Quad.fst
+B360 7.1-Quad.fst
+B360 AmbiX-FuMa Quad.fst
+B360 FuMa-AmbiX Quad.fst
+B360 Mono-Quad.fst
+B360 Stereo-Quad.fst
+Bass Amp Room.fst
+Bass Rider Live Stereo.fst
+Bass Rider Stereo.fst
+Bass Sculptor.fst
+Bass XXL.fst
+BassFocus.fst
+Basslane Pro.fst
+Bassment.fst
+BassmentCore.fst
+BassRift.fst
+Berzerk Distortion Stereo.fst
+Bettermaker Bus Compressor DSP.fst
+Bettermaker EQ232D.fst
+Big Goat.fst
+Bitpunk.fst
+Black Box Analog Design HG-2.fst
+Black Box Analog Design HG-2MS.fst
+Blue Cat's AcouFiend.fst
+Blue Cat's Axiom.fst
+Blue Cat's Connector.fst
+Blue Cat's Destructor.fst
+Blue Cat's DP Meter Pro 4 (Srnd).fst
+Blue Cat's DP Meter Pro 4 (Stereo).fst
+Blue Cat's Dynamics 4(Stereo).fst
+Blue Cat's FreqAnalyst 2 (Stereo).fst
+Blue Cat's FreqAnalyst Multi 2.fst
+Blue Cat's FreqAnalyst Pro 2 (Stereo).fst
+Blue Cat's Hot Tuna.fst
+Blue Cat's Late Replies.fst
+Blue Cat's Liny EQ 5 (Dual).fst
+Blue Cat's Liny EQ 5 (Stereo).fst
+Blue Cat's MB-5 Dynamix 2(Stereo).fst
+Blue Cat's MB-7 Mixer 2 (Dual).fst
+Blue Cat's MB-7 Mixer 2 (Stereo).fst
+Blue Cat's Oscilloscope Multi 2.fst
+Blue Cat's PatchWork.fst
+Blue Cat's Plug'n Script.fst
+Blue Cat's PolyVibe.fst
+Blue Cat's Protector 2.fst
+Blue Cat's Re-Guitar.fst
+Blue Cat's Re-Head.fst
+Blue Cat's Remote Control 3.fst
+Blue Cat's StereoScope Multi 2.fst
+Blue Cat's StereoScope Pro 2.fst
+Blue Face.fst
+Bratwurst Fuzz.fst
+Brauer Motion Mono-Stereo.fst
+Brauer Motion Stereo.fst
+Brit73AI.fst
+Butch Vig Vocals Stereo.fst
+bx_2098 EQ.fst
+bx_bassdude.fst
+bx_blackdist2.fst
+bx_bluechorus2.fst
+bx_boom.fst
+bx_cleansweep Pro.fst
+bx_cleansweep V2.fst
+bx_clipper.fst
+bx_console AMEK 200.fst
+bx_console AMEK 9099.fst
+bx_console Focusrite SC.fst
+bx_console N.fst
+bx_console SSL 4000 E.fst
+bx_console SSL 4000 G.fst
+bx_console SSL 9000 J.fst
+bx_control V2.fst
+bx_crispyscale.fst
+bx_crispytuner.fst
+bx_delay2500.fst
+bx_digital V3 mix.fst
+bx_digital V3.fst
+bx_distorange.fst
+bx_dynEQ V2.fst
+bx_glue.fst
+bx_greenscreamer.fst
+bx_hybrid V2 mix.fst
+bx_hybrid V2.fst
+bx_limiter True Peak.fst
+bx_limiter.fst
+bx_masterdesk Classic.fst
+bx_masterdesk Pro.fst
+bx_masterdesk True Peak.fst
+bx_masterdesk.fst
+bx_megadual.fst
+bx_megasingle.fst
+bx_metal2.fst
+bx_meter.fst
+bx_opto Pedal.fst
+bx_opto.fst
+bx_panEQ.fst
+bx_refinement.fst
+bx_rockergain100.fst
+bx_rockrack V3 Player.fst
+bx_rockrack V3.fst
+bx_rooMS.fst
+bx_saturator V2.fst
+bx_shredspread.fst
+bx_solo.fst
+bx_stereomaker.fst
+bx_subfilter.fst
+bx_subsynth.fst
+bx_townhouse Buss Compressor.fst
+bx_tuner.fst
+bx_XL V2.fst
+bx_XL V3.fst
+bx_yellowdrive.fst
+C1 comp Stereo.fst
+C1 comp-gate Stereo.fst
+C1 comp-sc Stereo.fst
+C1 gate Stereo.fst
+C360 5.0.fst
+C360 5.1.fst
+C4 Stereo.fst
+C6 Stereo.fst
+C6-SideChain Stereo.fst
+Camel Strip.fst
+CD-Burn.DDP.Master.fst
+Center Stereo.fst
+Cerberus Bass Amp.fst
+Chandler GAV19T.fst
+Chandler Limited Curve Bender.fst
+Chandler Limited Germanium Comp.fst
+Chandler Limited Zener Limiter.fst
+Chandler Limited Zener-Bender.fst
+Chorus Ensembler.fst
+CLA Bass Mono-Stereo.fst
+CLA Bass Stereo.fst
+CLA Drums Mono-Stereo.fst
+CLA Drums Stereo.fst
+CLA EchoSphere Mono-Stereo.fst
+CLA EchoSphere Stereo.fst
+CLA Effects Mono-Stereo.fst
+CLA Effects Stereo.fst
+CLA Epic Mono-Stereo.fst
+CLA Epic Stereo.fst
+CLA Guitars Mono-Stereo.fst
+CLA Guitars Stereo.fst
+CLA MixDown Stereo.fst
+CLA MixHub Lite Stereo.fst
+CLA MixHub Stereo.fst
+CLA Nx Stereo.fst
+CLA Unplugged Mono-Stereo.fst
+CLA Unplugged Stereo.fst
+CLA Vocals Mono-Stereo.fst
+CLA Vocals Stereo.fst
+CLA-2A Stereo.fst
+CLA-3A Stereo.fst
+CLA-76 Stereo.fst
+Clarity Vx - DeReverb Pro Stereo.fst
+Clarity Vx - DeReverb Stereo.fst
+Clarity Vx Pro Stereo.fst
+Clarity Vx Stereo.fst
+Cluster Delay.fst
+Cobra Fuzz.fst
+Comet.fst
+Console 1.fst
+Cry Boy.fst
+Cryostasis.fst
+Cyclic Panner.fst
+D2O.fst
+Dangerous BAX EQ Master.fst
+Dangerous BAX EQ Mix.fst
+Dark Memory.fst
+Darkglass Ultra.fst
+dbx-160 Stereo.fst
+dearVR music.fst
+dearVR pro.fst
+DeEsser Stereo.fst
+Deleight.fst
+DeSibilizer LL.fst
+DeSibilizer.fst
+Dials.fst
+Diezel Herbert.fst
+Diezel VH4.fst
+DIFIX.fst
+Dirty Dog Reverb.fst
+Distortion 1 mkII.fst
+Doppler Mono-Stereo.fst
+Doppler Stereo.fst
+Dorrough Stereo.fst
+Dorrough360 5.0.fst
+Dorrough360 5.1.fst
+Doubler2 Mono-Stereo.fst
+Doubler2 Stereo.fst
+Doubler4 Mono-Stereo.fst
+Doubler4 Stereo.fst
+DPR-402 Stereo.fst
+Dr Drive.fst
+Dr Phase.fst
+Dragon EQ.fst
+Drawmer 1973.fst
+Drawmer S73.fst
+DS Tantra 2.fst
+Dubstation 2.fst
+Duck.fst
+DW Drum Enhancer.fst
+Echoes T7E mkII.fst
+Eden WT800.fst
+Efektor Bass Cruncher.fst
+Efektor Bass Driver.fst
+Efektor Bass Smasher.fst
+Efektor CH3604.fst
+Efektor CP3603.fst
+Efektor DL3606.fst
+Efektor DS3603.fst
+Efektor FL3606.fst
+Efektor FZ3603.fst
+Efektor Gainia HB.fst
+Efektor Gainia TD.fst
+Efektor Gainia XT.fst
+Efektor GQ3607.fst
+Efektor Harmonitron.fst
+Efektor OD3603.fst
+Efektor PH3605.fst
+Efektor RV3604.fst
+Efektor TR3604.fst
+Efektor WF3607.fst
+Efektor Whammo.fst
+EK Edstortion Rack.fst
+EK Edstortion.fst
+EK Phazevibe Rack.fst
+EK Phazevibe.fst
+EKramer BA Stereo.fst
+EKramer DR Stereo.fst
+EKramer FX Mono-Stereo.fst
+EKramer FX Stereo.fst
+EKramer GT Mono-Stereo.fst
+EKramer GT Stereo.fst
+EKramer VC Mono-Stereo.fst
+EKramer VC Stereo.fst
+Electric Matter.fst
+Electrum.fst
+ElectrumCore.fst
+elysia alpha master.fst
+elysia alpha mix.fst
+elysia karacter master.fst
+elysia karacter mix.fst
+elysia mpressor.fst
+elysia museq master.fst
+elysia museq mix.fst
+elysia niveau filter.fst
+elysia nvelope.fst
+elysia phils cascade.fst
+EMO-D5 Stereo.fst
+EMO-F2 Stereo.fst
+EMO-Generator Stereo.fst
+EMO-Q4 Stereo.fst
+ENGL E646 VS.fst
+ENGL E765 RT.fst
+ENGL Savage 120.fst
+Enhanced EQ.fst
+Enigma Mono-Stereo.fst
+Enigma Stereo.fst
+Eos 2.fst
+Expanse3D.fst
+EZmix 3.fst
+F6 Stereo.fst
+F6-RTA Stereo.fst
+FA Echobandit Rack.fst
+FA Echobandit.fst
+FET Compressor.fst
+fiedler audio splat.fst
+fiedler audio stage.fst
+Filterverse.fst
+Filtron.fst
+FinalPlug 6.fst
+FireCharger.fst
+FireCobra.fst
+FireMaster.fst
+FireMaximizer.fst
+FirePresser.fst
+FIRETHEPUMP.fst
+Fix Doubler.fst
+Fix Flanger.fst
+Fix Phaser.fst
+Flamingo Verb.fst
+Flex Beat.fst
+Focusing Equalizer.fst
+Fog Convolver 2.fst
+Fortin Cali Suite.fst
+Fortin Nameless Suite.fst
+Fortin NTS Suite.fst
+Fox Echo Chorus.fst
+Friedman BE100.fst
+Friedman Buxom Betty.fst
+Friedman DS40.fst
+Frostbite 2.fst
+Fuchs Overdrive Supreme 50.fst
+Fuchs Train II.fst
+FuzzPlus3.fst
+Gallien Krueger 800RB.fst
+Gatekeeper.fst
+Gem Comp G.fst
+Gem Comp LA.fst
+Gem Comp670.fst
+Gem Comp76.fst
+Gem Dopamine.fst
+Gem ECHOSON.fst
+Gem EQ495.fst
+Gem EQ550.fst
+Gem EQ84.fst
+Gem EQP.fst
+Gem Mod.fst
+Gem Modula.fst
+Gem OTD-2.fst
+Gem Sculptube.fst
+Gem TAPEDESK.fst
+Gem Voice.fst
+GEQ Classic Stereo.fst
+GEQ Modern Stereo.fst
+GGD Studio Cabs Cali 1.5.fst
+GGD Studio Cabs Contenders Round 1.fst
+GGD Studio Cabs Goldstack 1.5.fst
+GGD Studio Cabs Zilla 1.5.fst
+GK Amplification 3 Pro.fst
+Gong Amp.fst
+Gorilla Drive.fst
+Gorilla.fst
+GrainSpace.fst
+Green Reaper.fst
+GreenADAI.fst
+GTR Amp Mono-Stereo.fst
+GTR Amp Stereo.fst
+GTR Solo Tool Rack Mono-Stereo.fst
+GTR Solo Tool Rack Stereo.fst
+GTR Stomp 2 Mono-Stereo.fst
+GTR Stomp 2 Stereo.fst
+GTR Stomp 4 Mono-Stereo.fst
+GTR Stomp 4 Stereo.fst
+GTR Stomp 6 Mono-Stereo.fst
+GTR Stomp 6 Stereo.fst
+GTR Tool Rack Mono-Stereo.fst
+GTR Tool Rack Stereo.fst
+GW MixCentric Stereo.fst
+GW PianoCentric Mono-Stereo.fst
+GW PianoCentric Stereo.fst
+GW ToneCentric Stereo.fst
+GW VoiceCentric Mono-Stereo.fst
+GW VoiceCentric Stereo.fst
+H-Comp Stereo.fst
+H-Delay Mono-Stereo.fst
+H-Delay Stereo.fst
+H-EQ Stereo.fst
+H-EQ-Light Stereo.fst
+H-Reverb 5.0.fst
+H-Reverb 5.1.fst
+H-Reverb long 5.0.fst
+H-Reverb long 5.1.fst
+H-Reverb long Mono-5.0.fst
+H-Reverb long Mono-5.1.fst
+H-Reverb long Mono-Stereo.fst
+H-Reverb long Stereo-5.0.fst
+H-Reverb long Stereo-5.1.fst
+H-Reverb long Stereo.fst
+H-Reverb Mono-5.0.fst
+H-Reverb Mono-5.1.fst
+H-Reverb Mono-Stereo.fst
+H-Reverb Stereo-5.0.fst
+H-Reverb Stereo-5.1.fst
+H-Reverb Stereo.fst
+Harmonic Maximizer.fst
+Harmonics Analog Saturation Processor.fst
+Harris Doyle Natalus DSCEQ.fst
+Heavy Pedal mkII.fst
+Hybrid Filter.fst
+Hyperspace.fst
+HyperTune.fst
+I Wish.fst
+IDR360 5.0.fst
+IDR360 5.1.fst
+Impact.fst
+IMPusher Stereo.fst
+Inf EQ.fst
+Infiltrator.fst
+InPhase Live Stereo.fst
+InPhase LT Live Stereo.fst
+InPhase LT Stereo.fst
+InPhase Stereo.fst
+Invisible Limiter G2.fst
+Invisible Limiter G3.fst
+Invisible Limiter.fst
+IQ-Analyser NetAux.fst
+IQ-Analyser.fst
+IQ-Comp.fst
+IQ-DeEsser.fst
+IQ-Eq.fst
+IQ-Limiter.fst
+IQ-Reverb.fst
+IR-L efficient Stereo.fst
+IR-L full Stereo.fst
+IR-L Mono-Stereo.fst
+IR1 efficient Stereo.fst
+IR1 full Stereo.fst
+IR1 Mono-Stereo.fst
+IR360 discrete Mono-5.0.fst
+IR360 eff discrete 5.0.fst
+IR360 eff discrete 5.1.fst
+IR360 eff discrete Stereo-5.0.fst
+IR360 eff s.field Stereo-5.0.fst
+IR360 sound field 5.0.fst
+IR360 sound field 5.1.fst
+IR360 sound field Mono-5.0.fst
+IR360 sound field Stereo-5.0.fst
+IRDX Core.fst
+IRLive Mono-Stereo.fst
+IRLive Stereo.fst
+JJP-Bass Mono-Stereo.fst
+JJP-Bass Stereo.fst
+JJP-Cymb-Perc Mono-Stereo.fst
+JJP-Cymb-Perc Stereo.fst
+JJP-Drums Mono-Stereo.fst
+JJP-Drums Stereo.fst
+JJP-Guitars Mono-Stereo.fst
+JJP-Guitars Stereo.fst
+JJP-Strings-Keys Mono-Stereo.fst
+JJP-Strings-Keys Stereo.fst
+JJP-Vocals Mono-Stereo.fst
+JJP-Vocals Stereo.fst
+Kaleidoscopes Mono-Stereo.fst
+Kaleidoscopes Stereo.fst
+Kerry King Signature.fst
+Key Detector Stereo.fst
+Kickstart 2.fst
+Kiive Tape Face.fst
+Kiive Xtressor.fst
+Klirrton Grindstein.fst
+Knif Audio Soma.fst
+Kombinat Tri.fst
+Kramer HLS Stereo.fst
+Kramer PIE Stereo.fst
+Kramer Tape Stereo.fst
+Krush.fst
+KSHMR Essentials Kick.fst
+Kujaku.fst
+L1 limiter Stereo.fst
+L1+ Ultramaximizer Stereo.fst
+L12X Solid State Amplifier.fst
+L2 Stereo.fst
+L3 MultiMaximizer Stereo.fst
+L3 UltraMaximizer Stereo.fst
+L3-LL Multi Stereo.fst
+L3-LL Ultra Stereo.fst
+L316 Stereo.fst
+L360 5.0.fst
+L360 5.1.fst
+LadyBug Reverb.fst
+LDC2 Compander.fst
+LFE360 5.1.fst
+Lindell 254E.fst
+Lindell 354E.fst
+Lindell 50 Buss.fst
+Lindell 50 Channel.fst
+Lindell 69 Buss.fst
+Lindell 69 Channel.fst
+Lindell 6X-500.fst
+Lindell 7X-500.fst
+Lindell 80 Bus.fst
+Lindell 80 Channel.fst
+Lindell 902 De-esser.fst
+Lindell ChannelX.fst
+Lindell MBC.fst
+Lindell PEX-500.fst
+Lindell SBC.fst
+Lindell TE-100.fst
+LinEQ Broadband Stereo.fst
+LinEQ Lowband Stereo.fst
+LinMB Stereo.fst
+Lion Master.fst
+LoAir 5.0-5.1.fst
+LoAir 5.1.fst
+LoAir Stereo.fst
+Lofi Space Mono-Stereo.fst
+Lofi Space Stereo.fst
+Looptrotter SA2RATE2.fst
+Low Filter.fst
+LTL Chop Shop EQ.fst
+LTL SILVER BULLET mk2.fst
+M360 Manager 5.0-5.1.fst
+M360 Manager 5.0.fst
+M360 Manager 5.1.fst
+M360 Mixdown 5.0.fst
+M360 Mixdown 5.1.fst
+M5133.fst
+Maag EQ2.fst
+Maag EQ4.fst
+Maag MAGNUM-K.fst
+Magma BB Tubes Stereo.fst
+Magma Channel Strip Stereo.fst
+Magma Lil Tube Stereo.fst
+Magma Springs Mono-Stereo.fst
+Magma Springs Stereo.fst
+Manipulator.fst
+MannyM Delay Mono-Stereo.fst
+MannyM Delay Stereo.fst
+MannyM Distortion Stereo.fst
+MannyM EQ Stereo.fst
+MannyM Reverb Mono-Stereo.fst
+MannyM Reverb Stereo.fst
+MannyM Tone Shaper Stereo.fst
+MannyM TripleD Stereo.fst
+Mantis.fst
+Mark Studio 2.fst
+Marshall Bluesbreaker 1962.fst
+Marshall JMP 2203.fst
+Marshall Plexi Super Lead 1959.fst
+Marshall Silver Jubilee 2555.fst
+Maserati ACG Mono-Stereo.fst
+Maserati ACG Stereo.fst
+Maserati B72 Mono-Stereo.fst
+Maserati B72 Stereo.fst
+Maserati DRM Stereo.fst
+Maserati GRP Stereo.fst
+Maserati GTi Mono-Stereo.fst
+Maserati GTi Stereo.fst
+Maserati HMX Mono-Stereo.fst
+Maserati HMX Stereo.fst
+Maserati VX1 Mono-Stereo.fst
+Maserati VX1 Stereo.fst
+Master Plan v1.5.fst
+MasterMind.fst
+MasterVerb 6.fst
+Material Comp.fst
+MaxxBass Stereo.fst
+MaxxVolume Stereo.fst
+MDMX Fuzz Stereo.fst
+MDMX OverDrive Stereo.fst
+MDMX Screamer Stereo.fst
+Megaphone.fst
+MetaFilter Mono-Stereo.fst
+MetaFilter Stereo.fst
+MetaFlanger Mono-Stereo.fst
+MetaFlanger Stereo.fst
+Metal Amp Room.fst
+Meter.fst
+Michelangelo.fst
+Millennia NSEQ-2.fst
+Millennia TCL-2.fst
+miniVerb.fst
+Mirror.fst
+MixChecker Pro.fst
+Mixland Vac Attack.fst
+Model 72 FX Synthesizer System.fst
+Model N Channel.fst
+Modular FX.fst
+MoMa.fst
+MondoMod Mono-Stereo.fst
+MondoMod Stereo.fst
+Morph EQ.fst
+Morphoder Mono-Stereo.fst
+Morphoder Stereo.fst
+MorphVerb.fst
+MT-A.fst
+Multiband X6.fst
+MultiDrive Pedal Pro.fst
+MultiDynamics 6.fst
+MultiDynamics 7.fst
+MultiMod Rack Mono-Stereo.fst
+MultiMod Rack Stereo.fst
+Mutronics Mutator.fst
+MV2 Stereo.fst
+MV360 5.0.fst
+MV360 5.1.fst
+NA 8180.fst
+NA Acoustic Voice.fst
+NA Analog Rack Bass Equalizer.fst
+NA Analog Rack Chorus.fst
+NA Analog Rack Cleaner.fst
+NA Analog Rack Compressor.fst
+NA Analog Rack Delay.fst
+NA Analog Rack Flanger.fst
+NA Analog Rack Fuzz.fst
+NA Analog Rack Guitar Equalizer.fst
+NA Analog Rack Noise Gate.fst
+NA Analog Rack Phaser.fst
+NA Analog Rack Reverb.fst
+NA Analog Rack Screamer.fst
+NA Analog Rack Tremolo.fst
+NA Bass Driver.fst
+NA Blackice Beta Gamma.fst
+NA Bst100 V2.fst
+NA Cali Dual.fst
+NA Cali Reverb.fst
+NA Crunck V2.fst
+NA Delay3000.fst
+NA Doubler.fst
+NA EN Hardball.fst
+NA Faceman.fst
+NA Hivolt 103.fst
+NA IR Loader.fst
+NA Jmp Pro.fst
+NA LoFi.fst
+NA Mp1 Pro.fst
+NA Mrh159.fst
+NA Mrh810 V2.fst
+NA Overdrive Special.fst
+NA Plugin Rig.fst
+NA PSA1000 Jr.fst
+NA PSA1000.fst
+NA Quinta.fst
+NA Sound Master.fst
+NA The Boss Rack.fst
+NA The Boss.fst
+NA Voice DC30.fst
+Nanopulse.fst
+Nectar 4 Auto-Level.fst
+Nectar 4 Backer.fst
+Nectar 4 Breath Control.fst
+Nectar 4 Compressor.fst
+Nectar 4 DeEsser.fst
+Nectar 4 Delay.fst
+Nectar 4 Dimension.fst
+Nectar 4 Equalizer.fst
+Nectar 4 Gate.fst
+Nectar 4 Pitch.fst
+Nectar 4 Reverb.fst
+Nectar 4 Saturation.fst
+Nectar 4 Voices.fst
+Nectar 4.fst
+Need 31102 Console EQ.fst
+Need 533 EQ.fst
+Need 73 Console EQ.fst
+Need 81 Console EQ.fst
+Need 84 Console EQ.fst
+Need Pre 31102.fst
+Need Pre Trilogy.fst
+NEOLD BIG AL.fst
+NEOLD U17.fst
+NEOLD U2A.fst
+NEOLD V76U73.fst
+NEOLD WARBLE.fst
+Neutron 4 Compressor.fst
+Neutron 4 Equalizer.fst
+Neutron 4 Exciter.fst
+Neutron 4 Gate.fst
+Neutron 4 Sculptor.fst
+Neutron 4 Transient Shaper.fst
+Neutron 4 Unmask.fst
+Neutron 4 Visual Mixer.fst
+Neutron 4.fst
+NLS Buss Stereo.fst
+NLS Channel Stereo.fst
+Noveltech Character.fst
+Noveltech Vocal Enhancer.fst
+NS1 Stereo.fst
+Nu Compressor.fst
+NUGEN Send.fst
+NUGEN Stereoizer3.fst
+NUGEN Visualizer2.fst
+NX 5.0-Stereo.fst
+NX 5.0.fst
+NX 5.1-Stereo.fst
+NX 5.1.fst
+NX 7.1-Stereo.fst
+NX 7.1.fst
+Nx Ambisonics Quad-Stereo.fst
+NX Ambisonics Quad.fst
+Nx Germano Studios 5.1-Stereo.fst
+Nx Germano Studios Stereo.fst
+NX Mono-Stereo.fst
+Nx Ocean Way Nashville Stereo.fst
+NX Stereo.fst
+OCS-45.fst
+Octaver 82.fst
+OMEGA Ampworks Granophyre.fst
+OneKnob Brighter Stereo.fst
+OneKnob Driver Stereo.fst
+OneKnob Filter Stereo.fst
+OneKnob Louder Stereo.fst
+OneKnob Phatter Stereo.fst
+OneKnob Pressure Stereo.fst
+OneKnob Pumper Stereo.fst
+OneKnob Wetter Mono-Stereo.fst
+OneKnob Wetter Stereo.fst
+Orbitron.fst
+Other Desert Cities.fst
+OTO Biscuit 8-bit Effects.fst
+Outer Space.fst
+OVox Mono-Stereo.fst
+OVox Stereo.fst
+Owl Control.fst
+Ozone 11 Clarity.fst
+Ozone 11 Dynamic EQ.fst
+Ozone 11 Dynamics.fst
+Ozone 11 Equalizer.fst
+Ozone 11 Exciter.fst
+Ozone 11 Imager.fst
+Ozone 11 Impact.fst
+Ozone 11 Low End Focus.fst
+Ozone 11 Master Rebalance.fst
+Ozone 11 Match EQ.fst
+Ozone 11 Maximizer.fst
+Ozone 11 Spectral Shaper.fst
+Ozone 11 Stabilizer.fst
+Ozone 11 Vintage Compressor.fst
+Ozone 11 Vintage EQ.fst
+Ozone 11 Vintage Limiter.fst
+Ozone 11 Vintage Tape.fst
+Ozone 11.fst
+Pancz.fst
+Panorama 6.fst
+Panorama 7.fst
+Parallax.fst
+Passive EQ.fst
+Passive Equalizer.fst
+PAZ- Analyzer Stereo.fst
+PAZ- Frequency Stereo.fst
+PAZ- Meters Stereo.fst
+PAZ- Position Stereo.fst
+Pillar Power Amp.fst
+PitchMonster.fst
+Plamen.fst
+Plasma.fst
+PlaylistRider Stereo.fst
+PlexiTape.fst
+Pluralis.fst
+Polaris.fst
+PolyComp.fst
+Pre X7.fst
+PreBOX.fst
+Pro Audio DSP DSM V3.fst
+PRS Archon Mono-Stereo.fst
+PRS Dallas Mono-Stereo.fst
+PRS V9 Mono-Stereo.fst
+PS22 Split Mono-Stereo.fst
+PS22 Split Stereo.fst
+PS22 Spread Mono-Stereo.fst
+PS22 Spread Stereo.fst
+PS22 Spread(10) Mono-Stereo.fst
+PS22 Spread(10) Stereo.fst
+PS22 XSplit Mono-Stereo.fst
+PS22 XSplit Stereo.fst
+PSE Stereo.fst
+PuigChild 670 Stereo.fst
+PuigTec EQP1A Stereo.fst
+PuigTec MEQ5 Stereo.fst
+Punish.fst
+Purple Audio MC 77.fst
+PutMeOnDrums.fst
+Pyros.fst
+Q-Clone Stereo.fst
+Q1 Stereo.fst
+Q10 Stereo.fst
+Q2 Stereo.fst
+Q3 Stereo.fst
+Q4 Stereo.fst
+Q6 Stereo.fst
+Q8 Stereo.fst
+QuatroMod.fst
+R360 5.0.fst
+R360 5.1.fst
+R360 Mono-5.0.fst
+R360 Mono-5.1.fst
+R360 Stereo-5.0.fst
+R360 Stereo-5.1.fst
+Rabbit Tape.fst
+RBass Stereo.fst
+RChannel Mono-Stereo.fst
+RChannel Stereo.fst
+RCompressor Stereo.fst
+RDeEsser Stereo.fst
+Reels.fst
+Renaissance Axx Stereo.fst
+RePitch VST.fst
+Replicant 2.fst
+REQ 2 Stereo.fst
+REQ 4 Stereo.fst
+REQ 6 Stereo.fst
+Retro Fi Mono-Stereo.fst
+Retro Fi Stereo.fst
+Retronaut.fst
+Revoice Pro Link (Legacy).fst
+Revoice Pro Link.fst
+Rhino Reverb.fst
+Rift.fst
+RootOne.fst
+RoughRider3.fst
+RoyalCompressor.fst
+RVerb Mono-Stereo.fst
+RVerb Stereo.fst
+RVox Stereo.fst
+RX950.fst
+RZ062a Equalizer.fst
+RZ062b Equalizer.fst
+S1 Imager Stereo.fst
+S1 MS Matrix Stereo.fst
+S1 Shuffler Stereo.fst
+S360 Imager 5.0.fst
+S360 Imager 5.1.fst
+S360 Imager Mono-5.0.fst
+S360 Imager Mono-5.1.fst
+S360 Imager Stereo-5.0.fst
+S360 Imager Stereo-5.1.fst
+S360 Panner Mono-5.0.fst
+S360 Panner Mono-5.1.fst
+S360 Panner Stereo-5.0.fst
+S360 Panner Stereo-5.1.fst
+SA76.fst
+Sakura Dither.fst
+Saphira Stereo.fst
+Saturation Knob.fst
+Scheps 73 Stereo.fst
+Scheps Omni Channel 2 Stereo.fst
+Scheps Parallel Particles Stereo.fst
+Schoeps Double MS.fst
+Schoeps Mono Upmix 1to2.fst
+Schoeps Mono Upmix 1to3.fst
+SerumFX.fst
+Shadow Hills Class A Mastering Comp.fst
+Shadow Hills Mastering Compressor.fst
+ShaperBox 3.fst
+Sibilance Stereo.fst
+Sibilance-Live Stereo.fst
+Side Filter.fst
+Silk Vocal Live Stereo.fst
+Silk Vocal Stereo.fst
+Smack Attack Stereo.fst
+smartEQ4.fst
+Smash And Grab v2.fst
+Solidus Randy 250.fst
+Solidus VS8100.fst
+SoundShifter Pitch Stereo.fst
+Space Rider Mono-Stereo.fst
+Space Rider Stereo.fst
+Space Station UM282.fst
+Space Strip.fst
+Spacer.fst
+Speakers.fst
+Spherix Compressor 7.1.2.fst
+Spherix Compressor 7.1.4.fst
+Spherix Limiter 7.1.2.fst
+Spherix Limiter 7.1.4.fst
+SPL Attacker Plus.fst
+SPL De-Esser Dual-Band.fst
+SPL De-Esser.fst
+SPL De-Verb Plus.fst
+SPL DrumXchanger.fst
+SPL EQ Ranger Plus.fst
+SPL Free Ranger.fst
+SPL HawkEye.fst
+SPL IRON.fst
+SPL Mo-Verb Plus.fst
+SPL Passeq Single.fst
+SPL Passeq.fst
+SPL PQ.fst
+SPL Transient Designer Plus.fst
+SPL TwinTube.fst
+SPL Vitalizer MK2-T.fst
+Spring Reverb.fst
+Springs.fst
+SSL EV2 Channel Stereo.fst
+SSL Native Bus Compressor v6.fst
+SSL Native Channelstrip v6.fst
+SSL Native Drumstrip v6.fst
+SSL Native FlexVerb.fst
+SSL Native Vocalstrip 2.fst
+SSL Native X-Comp v6.fst
+SSL Native X-EQ 2.fst
+SSL Native X-Phase v6.fst
+SSL Native X-Saturator v6.fst
+SSL Native X-ValveComp v6.fst
+SSLChannel Stereo.fst
+SSLComp Stereo.fst
+SSLEQ Stereo.fst
+SSLGChannel Stereo.fst
+Stereo Imager D.fst
+STL ControlHub.fst
+STL Ignite - AmpHub.fst
+STL ToneHub.fst
+StudioVerse Audio Effects Mono-Stereo.fst
+StudioVerse Audio Effects Stereo.fst
+Sub Align Stereo.fst
+Sub Ninja.fst
+SubbassDoctor808.fst
+Submarine Stereo.fst
+Suhr PT100.fst
+Suhr SE100.fst
+Summit Audio EQF-100.fst
+Summit Audio Grand Channel.fst
+Summit Audio TLA-100A.fst
+Supermodal.fst
+SuperTap 2-Taps Mono-Stereo.fst
+SuperTap 2-Taps Stereo.fst
+SuperTap 6-Taps Mono-Stereo.fst
+SuperTap 6-Taps Stereo.fst
+Surge XT Effects.fst
+Swarm Reverb.fst
+SYS AlgoVerb.fst
+SYS Chorus.fst
+SYS Comp.fst
+SYS CompListenMic.fst
+SYS Delay.fst
+SYS Distortion.fst
+SYS EQ-Dynamic.fst
+SYS EQ.fst
+SYS Expander.fst
+SYS Flanger.fst
+SYS Gain.fst
+SYS Gate.fst
+SYS Meter.fst
+SYS MultiMod.fst
+SYS Notepad.fst
+SYS Pan.fst
+SYS Phaser.fst
+SYS PinkNoise.fst
+SYS Pitch.fst
+SYS Saturator.fst
+SYSTEM.fst
+Tape Pro.fst
+Tape.fst
+TapeMAI.fst
+TapeSAI.fst
+Tau Compressor Plus.fst
+TBTECH Kirchhoff-EQ.fst
+TB_Barricade_v4.fst
+TB_BitJuggler_v1.fst
+TB_Compressor_v4.fst
+TB_DualVCF_v1.fst
+TB_Enhancer_v1.fst
+TB_Equalizer_v4.fst
+TB_GonioMeter_v1.fst
+TB_MBC_v1.fst
+TB_Morphit_v1.fst
+TB_ReelBus_v4.fst
+TB_Reverb_v4.fst
+TB_Sibalance_v4.fst
+TB_Spectrogram_v1.fst
+TB_VoicePitcher_v4.fst
+TDR Nova.fst
+Texture.fst
+TH-U.fst
+The Bluesman.fst
+The Dom.fst
+The Driver.fst
+The Glue.fst
+The God Particle.fst
+The Orb.fst
+THE OVEN.fst
+The Overseer.fst
+The Shredder.fst
+ThickPreAI.fst
+Things Bubbles.fst
+Things Crusher.fst
+Things Flip EQ.fst
+Things Motor.fst
+Things Texture.fst
+THX Spatial Creator.fst
+TimeMachine.fst
+TITANIUM31B.fst
+TITANIUM33B.fst
+TITANIUM3BASSTARD.fst
+TITANIUM3EQ.fst
+TITANIUM3PRE.fst
+TITANIUM3STRIP.fst
+TOMO Audiolabs LISA.fst
+Tonal Balance Control 2.fst
+ToneLib-GFX.fst
+ToneLib-Metal.fst
+Tonelux Tilt Live.fst
+Tonelux Tilt.fst
+TONEX.fst
+Torque Stereo.fst
+Torque-Live Stereo.fst
+TR5 Black 76.fst
+TR5 Brickwall Limiter.fst
+TR5 British Channel.fst
+TR5 Bus Compressor.fst
+TR5 Classic Clipper.fst
+TR5 Classic Comp.fst
+TR5 Classic EQ.fst
+TR5 Classic Multi Band Limiter.fst
+TR5 Comprexxor.fst
+TR5 CSR Hall.fst
+TR5 CSR Inverse.fst
+TR5 CSR Plate.fst
+TR5 CSR Room.fst
+TR5 De Esser.fst
+TR5 Dyna-Mu.fst
+TR5 EQ-73.fst
+TR5 EQ-81.fst
+TR5 EQ-PA.fst
+TR5 EQ-PB.fst
+TR5 EQ-PG.fst
+TR5 EQP-1A.fst
+TR5 EQual.fst
+TR5 Fame Studio Reverb.fst
+TR5 Joe Chiccarelli Vocal Strip.fst
+TR5 Leslie.fst
+TR5 Linear Phase EQ.fst
+TR5 Master EQ-432.fst
+TR5 Master Match.fst
+TR5 Metering.fst
+TR5 Mic Room.fst
+TR5 One.fst
+TR5 Opto Comp.fst
+TR5 Precision Comp-Limiter.fst
+TR5 Quad Compressor.fst
+TR5 Quad Image.fst
+TR5 Quad Limiter.fst
+TR5 Saturator X.fst
+TR5 Space Delay.fst
+TR5 Stealth Limiter.fst
+TR5 Suite.fst
+TR5 Sunset Sound Studio Reverb.fst
+TR5 Tape Echo.fst
+TR5 Tape Machine 24.fst
+TR5 Tape Machine 440.fst
+TR5 Tape Machine 80.fst
+TR5 Tape Machine 99.fst
+TR5 TASCAM 388.fst
+TR5 TASCAM PORTA ONE.fst
+TR5 TEAC A-3340S.fst
+TR5 TEAC A-6100 MKII.fst
+TR5 The Farm Stone Room.fst
+TR5 VC-670.fst
+TR5 White 2A.fst
+TR5 White Channel.fst
+Track Symbiosis.fst
+TrackPlug 6.fst
+TRACT LinPhase Stereo.fst
+TRACT Stereo.fst
+tranQuilizr G2.fst
+tranQuilizr.fst
+Transient Shaper.fst
+Transmutator.fst
+TransX Multi Stereo.fst
+TransX Wide Stereo.fst
+TrapTune.fst
+TridA-Pre.fst
+Trident A-Range.fst
+Triple Fader.fst
+TrueVerb Mono-Stereo.fst
+TrueVerb Stereo.fst
+TS-1 Transient Shaper.fst
+TSAR-1 Reverb.fst
+TSAR-1R Reverb.fst
+Tube Delay.fst
+Tube KC-1.fst
+Tube Modulator.fst
+Tube-Tech CL 1B mk II.fst
+Tube-Tech CL 1B.fst
+Tube-Tech Classic Channel mk II.fst
+Tube-Tech Classic Channel.fst
+Tube-Tech Equalizers mk II.fst
+Tube-Tech ME 1B.fst
+Tube-Tech PE 1C.fst
+Tuned Reverb.fst
+Type A.fst
+Type B.fst
+U73b Compressor.fst
+U78 Saturator.fst
+UltraPitch 3 Voices Mono-Stereo.fst
+UltraPitch 6 Voices Mono-Stereo.fst
+UltraPitch Shift Mono-Stereo.fst
+UM225 Stereo-5.0.fst
+UM226 Stereo-5.1.fst
+Unfiltered Audio Bass Mint.fst
+Unfiltered Audio Byome.fst
+Unfiltered Audio Dent 2.fst
+Unfiltered Audio Fault.fst
+Unfiltered Audio G8.fst
+Unfiltered Audio Indent 2.fst
+Unfiltered Audio Instant Delay.fst
+Unfiltered Audio lo-fi-af.fst
+Unfiltered Audio Needlepoint.fst
+Unfiltered Audio Sandman Pro.fst
+Unfiltered Audio Sandman.fst
+Unfiltered Audio Silo.fst
+Unfiltered Audio SpecOps.fst
+Unfiltered Audio Tails.fst
+Unfiltered Audio Triad.fst
+Unfiltered Audio Zip.fst
+UniChannel.fst
+UrbanPuncher.fst
+USRackAI.fst
+ValhallaDelay.fst
+ValhallaFreqEcho.fst
+ValhallaPlate.fst
+ValhallaRoom.fst
+ValhallaShimmer.fst
+ValhallaSpaceModulator.fst
+ValhallaSupermassive.fst
+ValhallaUberMod.fst
+ValhallaVintageVerb.fst
+Valley People Dyna-mite Gate.fst
+Valley People Dyna-mite Slam.fst
+Valley People Dyna-mite.fst
+Valves.fst
+Vari Comp.fst
+VC 160.fst
+VC 2A.fst
+VC 76.fst
+VComp Stereo.fst
+VEQ3 Stereo.fst
+VEQ4 Stereo.fst
+Verbum.fst
+Vertigo VSC-2.fst
+Vertigo VSM-3.fst
+Vintage Amp Room.fst
+Vinyl Strip.fst
+Vitamin Stereo.fst
+Vocal Bender Stereo.fst
+Vocal Chain.fst
+Vocal Rider Live Stereo.fst
+Vocal Rider Stereo.fst
+Vocal Tune.fst
+VocAlign 6 Pro VST.fst
+Voltage Amps Bass Mono-Stereo.fst
+Voltage Amps Bass Stereo.fst
+Voltage Amps Guitar Mono-Stereo.fst
+Voltage Amps Guitar Stereo.fst
+VoxDucker.fst
+Voxessor.fst
+VU Meter Stereo.fst
+W43 Stereo.fst
+Wave Box.fst
+Wave Shredder.fst
+Waves Gemstones Mono-Stereo.fst
+Waves Gemstones Stereo.fst
+Waves Harmony Mono-Stereo.fst
+Waves Harmony Stereo.fst
+Waves Stream Receive Stereo.fst
+Waves Stream Send Stereo.fst
+Waves Tune LT Stereo.fst
+Waves Tune Real-Time Stereo.fst
+Waves Tune Stereo.fst
+Weiss Compressor Limiter.fst
+Weiss Deess.fst
+Weiss DS1-MK3.fst
+Weiss EQ MP.fst
+Weiss EQ1.fst
+Weiss MM-1 Mastering Maximizer.fst
+Wider.fst
+Wires.fst
+WLM Meter 5.0.fst
+WLM Meter 5.1.fst
+WLM Meter Stereo.fst
+WLM Plus 5.0.fst
+WLM Plus 5.1.fst
+WLM Plus Stereo.fst
+WNS Stereo.fst
+X-Click Stereo.fst
+X-Crackle Stereo.fst
+X-FDBK Stereo.fst
+X-Hum Stereo.fst
+X-Noise Stereo.fst
+XenoVerb.fst
+Xrider.fst
+Xvox Comp.fst
+Xvox DS.fst
+Xvox Pro.fst
+Xvox SFX.fst
+Xvox Space.fst
+Xvox Tone.fst
+Yak Delay.fst
+Z-Noise Stereo.fst
+Control Surface.fst
+Distructor.fst
+Edison.fst
+Effector.fst
+EQUO.fst
+Frequency Shifter.fst
+Frequency Splitter.fst
+Fruity 7 Band EQ.fst
+Fruity Balance.fst
+Fruity Bass Boost.fst
+Fruity Big Clock.fst
+Fruity Blood Overdrive.fst
+Fruity Center.fst
+Fruity Chorus.fst
+Fruity Compressor.fst
+Fruity Convolver.fst
+Fruity dB Meter.fst
+Fruity Delay 2.fst
+Fruity Delay 3.fst
+Fruity Delay Bank.fst
+Fruity Delay.fst
+Fruity Fast Dist.fst
+Fruity Fast LP.fst
+Fruity Filter.fst
+Fruity Flanger.fst
+Fruity Flangus.fst
+Fruity Formula Controller.fst
+Fruity Free Filter.fst
+Fruity HTML NoteBook.fst
+Fruity Limiter.fst
+Fruity Love Philter.fst
+Fruity LSD.fst
+Fruity Multiband Compressor.fst
+Fruity Mute 2.fst
+Fruity NoteBook 2.fst
+Fruity NoteBook.fst
+Fruity PanOMatic.fst
+Fruity Parametric EQ 2.fst
+Fruity Parametric EQ.fst
+Fruity Peak Controller.fst
+Fruity Phase Inverter.fst
+Fruity Phaser.fst
+Fruity Reeverb 2.fst
+Fruity Reeverb.fst
+Fruity Scratcher.fst
+Fruity Send.fst
+Fruity Soft Clipper.fst
+Fruity Spectroman.fst
+Fruity Squeeze.fst
+Fruity Stereo Enhancer.fst
+Fruity Stereo Shaper.fst
+Fruity Vocoder.fst
+Fruity WaveShaper.fst
+Fruity Wrapper.fst
+Fruity X-Y Controller.fst
+Fruity X-Y-Z Controller.fst
+Gross Beat.fst
+Hardcore.fst
+Hyper Chorus.fst
+Luxeverb.fst
+Maximus.fst
+Multiband Delay.fst
+Newtime.fst
+Newtone.fst
+Patcher.fst
+Pitch Shifter.fst
+Pitcher.fst
+Razer Chroma.fst
+Soundgoodizer.fst
+Transient Processor.fst
+Tuner.fst
+VFX Color Mapper.fst
+VFX Envelope.fst
+VFX Key Mapper.fst
+VFX Keyboard Splitter.fst
+VFX Level Scaler.fst
+VFX Sequencer.fst
+Vintage Chorus.fst
+Vintage Phaser.fst
+Vocodex.fst
+Wave Candy.fst
+ZGameEditor Visualizer.fst
+Cobra Fuzz.fst
+BOD.fst
+CamelCrusher.fst
+Crystallizer.fst
+Decapitator.fst
+Devil-Loc Deluxe.fst
+Devil-Loc.fst
+EchoBoy.fst
+EffectRack.fst
+FabFilter Micro.fst
+FabFilter Pro-C 2.fst
+FabFilter Pro-DS.fst
+FabFilter Pro-G.fst
+FabFilter Pro-L 2.fst
+FabFilter Pro-MB.fst
+FabFilter Pro-Q 3.fst
+FabFilter Pro-R.fst
+FabFilter Saturn 2.fst
+FabFilter Simplon.fst
+FabFilter Timeless 3.fst
+FabFilter Volcano 3.fst
+FilterFreak1.fst
+FilterFreak2.fst
+Little AlterBoy.fst
+Little MicroShift.fst
+Little PrimalTap.fst
+Little Radiator.fst
+MicroShift.fst
+PanMan.fst
+PhaseMistress.fst
+PrimalTap.fst
+Radiator.fst
+SGA1566.fst
+Transatlantic Plate Reverb.fst
+Tremolator.fst
+4U+ BlindTest.fst
+4U+ DynamicTiltEQ.fst
+4U+ ProjectTime.fst
+Abbey Road Chambers Mono-Stereo.fst
+Abbey Road Chambers Stereo.fst
+Abbey Road EMI TG12345 Channel Stereo.fst
+Abbey Road J37 Tape Stereo.fst
+Abbey Road Plates Mono-Stereo.fst
+Abbey Road Plates Stereo.fst
+Abbey Road REDD.17 Stereo.fst
+Abbey Road REDD.37.51 Stereo.fst
+Abbey Road Reel ADT Live Mono-Stereo.fst
+Abbey Road Reel ADT Live Stereo.fst
+Abbey Road Reel ADT Mono-Stereo.fst
+Abbey Road Reel ADT Stereo.fst
+Abbey Road Reel ADT2V Live Mono-Stereo.fst
+Abbey Road Reel ADT2V Live Stereo.fst
+Abbey Road Reel ADT2V Mono-Stereo.fst
+Abbey Road Reel ADT2V Stereo.fst
+Abbey Road RS124 Stereo.fst
+Abbey Road RS127 Box.fst
+Abbey Road RS127 Rack.fst
+Abbey Road RS135.fst
+Abbey Road RS56 Passive EQ Stereo.fst
+Abbey Road Saturator Stereo.fst
+Abbey Road Studio 3 5.1-Stereo.fst
+Abbey Road Studio 3 7.1-Stereo.fst
+Abbey Road Studio 3 Stereo.fst
+Abbey Road TG Mastering Live Stereo.fst
+Abbey Road TG Mastering Stereo.fst
+Abbey Road TG Meter Bridge Stereo.fst
+Abbey Road The King's Microphones Stereo.fst
+Abbey Road Vinyl Light Stereo.fst
+Abbey Road Vinyl Stereo.fst
+Acme Opticom XLA-3.fst
+Acoustic Feedback.fst
+Active Equalizer.fst
+ADA Flanger.fst
+ADA STD-1 Stereo Tapped Delay.fst
+ADPTR MetricAB.fst
+ADPTR Sculpt.fst
+ADPTR StreamLiner.fst
+AIR Soft Clipper.fst
+Alborosie Dub Station.fst
+AMEK EQ 200.fst
+AMEK EQ 250.fst
+AMEK Mastering Compressor.fst
+American Class A.fst
+Amp Room.fst
+Ampbox.fst
+Ampeg B15N.fst
+Ampeg SVT3Pro.fst
+Ampeg SVTVR Classic.fst
+Ampeg SVTVR.fst
+Ampeg V4B.fst
+Amplifikation 360.fst
+Amplifikation Caliburn.fst
+Amplifikation Clarent.fst
+Amplifikation Creme.fst
+Amplifikation Lancaster.fst
+Amplifikation Matchlock.fst
+Amplifikation Rectifor.fst
+Amplifikation Vermilion.fst
+Amplifikation VVV.fst
+AmpLion 2 Rock Essentials.fst
+Aphex Vintage Exciter Stereo.fst
+API-2500 Stereo.fst
+API-550A Stereo.fst
+API-550B Stereo.fst
+API-560 Stereo.fst
+Archetype Abasi.fst
+Archetype Cory Wong.fst
+Archetype Gojira.fst
+Archetype Nolly.fst
+Archetype Plini.fst
+ARP 2600 FX.fst
+ATONE.fst
+AudioTrack Stereo.fst
+Auto-Key 2.fst
+Auto-Tune Pro.fst
+Autoformer.fst
+B360 5.0-Quad.fst
+B360 5.1-Quad.fst
+B360 7.1-Quad.fst
+B360 AmbiX-FuMa Quad.fst
+B360 FuMa-AmbiX Quad.fst
+B360 Mono-Quad.fst
+B360 Stereo-Quad.fst
+Bass Amp Room.fst
+Bass Rider Live Stereo.fst
+Bass Rider Stereo.fst
+Bass Sculptor.fst
+Bass XXL.fst
+BassFocus.fst
+Basslane Pro.fst
+Bassment.fst
+BassmentCore.fst
+BassRift.fst
+Berzerk Distortion Stereo.fst
+Bettermaker Bus Compressor DSP.fst
+Bettermaker EQ232D.fst
+Big Goat.fst
+Bitpunk.fst
+Black Box Analog Design HG-2.fst
+Black Box Analog Design HG-2MS.fst
+Blue Cat's AcouFiend.fst
+Blue Cat's Axiom.fst
+Blue Cat's Connector.fst
+Blue Cat's Destructor.fst
+Blue Cat's DP Meter Pro 4 (Srnd).fst
+Blue Cat's DP Meter Pro 4 (Stereo).fst
+Blue Cat's Dynamics 4(Stereo).fst
+Blue Cat's FreqAnalyst 2 (Stereo).fst
+Blue Cat's FreqAnalyst Multi 2.fst
+Blue Cat's FreqAnalyst Pro 2 (Stereo).fst
+Blue Cat's Hot Tuna.fst
+Blue Cat's Late Replies.fst
+Blue Cat's Liny EQ 5 (Dual).fst
+Blue Cat's Liny EQ 5 (Stereo).fst
+Blue Cat's MB-5 Dynamix 2(Stereo).fst
+Blue Cat's MB-7 Mixer 2 (Dual).fst
+Blue Cat's MB-7 Mixer 2 (Stereo).fst
+Blue Cat's Oscilloscope Multi 2.fst
+Blue Cat's PatchWork.fst
+Blue Cat's Plug'n Script.fst
+Blue Cat's PolyVibe.fst
+Blue Cat's Protector 2.fst
+Blue Cat's Re-Guitar.fst
+Blue Cat's Re-Head.fst
+Blue Cat's Remote Control 3.fst
+Blue Cat's StereoScope Multi 2.fst
+Blue Cat's StereoScope Pro 2.fst
+Blue Face.fst
+Bratwurst Fuzz.fst
+Brauer Motion Mono-Stereo.fst
+Brauer Motion Stereo.fst
+Brit73AI.fst
+Butch Vig Vocals Stereo.fst
+bx_2098 EQ.fst
+bx_bassdude.fst
+bx_blackdist2.fst
+bx_bluechorus2.fst
+bx_boom.fst
+bx_cleansweep Pro.fst
+bx_cleansweep V2.fst
+bx_clipper.fst
+bx_console AMEK 200.fst
+bx_console AMEK 9099.fst
+bx_console Focusrite SC.fst
+bx_console N.fst
+bx_console SSL 4000 E.fst
+bx_console SSL 4000 G.fst
+bx_console SSL 9000 J.fst
+bx_control V2.fst
+bx_crispyscale.fst
+bx_crispytuner.fst
+bx_delay2500.fst
+bx_digital V3 mix.fst
+bx_digital V3.fst
+bx_distorange.fst
+bx_dynEQ V2.fst
+bx_glue.fst
+bx_greenscreamer.fst
+bx_hybrid V2 mix.fst
+bx_hybrid V2.fst
+bx_limiter True Peak.fst
+bx_limiter.fst
+bx_masterdesk Classic.fst
+bx_masterdesk Pro.fst
+bx_masterdesk True Peak.fst
+bx_masterdesk.fst
+bx_megadual.fst
+bx_megasingle.fst
+bx_metal2.fst
+bx_meter.fst
+bx_opto Pedal.fst
+bx_opto.fst
+bx_panEQ.fst
+bx_refinement.fst
+bx_rockergain100.fst
+bx_rockrack V3 Player.fst
+bx_rockrack V3.fst
+bx_rooMS.fst
+bx_saturator V2.fst
+bx_shredspread.fst
+bx_solo.fst
+bx_stereomaker.fst
+bx_subfilter.fst
+bx_subsynth.fst
+bx_townhouse Buss Compressor.fst
+bx_tuner.fst
+bx_XL V2.fst
+bx_XL V3.fst
+bx_yellowdrive.fst
+C1 comp Stereo.fst
+C1 comp-gate Stereo.fst
+C1 comp-sc Stereo.fst
+C1 gate Stereo.fst
+C360 5.0.fst
+C360 5.1.fst
+C4 Stereo.fst
+C6 Stereo.fst
+C6-SideChain Stereo.fst
+Camel Strip.fst
+CD-Burn.DDP.Master.fst
+Center Stereo.fst
+Cerberus Bass Amp.fst
+Chandler GAV19T.fst
+Chandler Limited Curve Bender.fst
+Chandler Limited Germanium Comp.fst
+Chandler Limited Zener Limiter.fst
+Chandler Limited Zener-Bender.fst
+Chorus Ensembler.fst
+CLA Bass Mono-Stereo.fst
+CLA Bass Stereo.fst
+CLA Drums Mono-Stereo.fst
+CLA Drums Stereo.fst
+CLA EchoSphere Mono-Stereo.fst
+CLA EchoSphere Stereo.fst
+CLA Effects Mono-Stereo.fst
+CLA Effects Stereo.fst
+CLA Epic Mono-Stereo.fst
+CLA Epic Stereo.fst
+CLA Guitars Mono-Stereo.fst
+CLA Guitars Stereo.fst
+CLA MixDown Stereo.fst
+CLA MixHub Lite Stereo.fst
+CLA MixHub Stereo.fst
+CLA Nx Stereo.fst
+CLA Unplugged Mono-Stereo.fst
+CLA Unplugged Stereo.fst
+CLA Vocals Mono-Stereo.fst
+CLA Vocals Stereo.fst
+CLA-2A Stereo.fst
+CLA-3A Stereo.fst
+CLA-76 Stereo.fst
+Clarity Vx - DeReverb Pro Stereo.fst
+Clarity Vx - DeReverb Stereo.fst
+Clarity Vx Pro Stereo.fst
+Clarity Vx Stereo.fst
+Cluster Delay.fst
+Cobra Fuzz.fst
+Comet.fst
+Console 1.fst
+Cry Boy.fst
+Cryostasis.fst
+Cyclic Panner.fst
+D2O.fst
+Dangerous BAX EQ Master.fst
+Dangerous BAX EQ Mix.fst
+Dark Memory.fst
+Darkglass Ultra.fst
+dbx-160 Stereo.fst
+dearVR music.fst
+dearVR pro.fst
+DeEsser Stereo.fst
+Deleight.fst
+DeSibilizer LL.fst
+DeSibilizer.fst
+Dials.fst
+Diezel Herbert.fst
+Diezel VH4.fst
+DIFIX.fst
+Dirty Dog Reverb.fst
+Distortion 1 mkII.fst
+Doppler Mono-Stereo.fst
+Doppler Stereo.fst
+Dorrough Stereo.fst
+Dorrough360 5.0.fst
+Dorrough360 5.1.fst
+Doubler2 Mono-Stereo.fst
+Doubler2 Stereo.fst
+Doubler4 Mono-Stereo.fst
+Doubler4 Stereo.fst
+DPR-402 Stereo.fst
+Dr Drive.fst
+Dr Phase.fst
+Dragon EQ.fst
+Drawmer 1973.fst
+Drawmer S73.fst
+DS Tantra 2.fst
+Dubstation 2.fst
+Duck.fst
+DW Drum Enhancer.fst
+Echoes T7E mkII.fst
+Eden WT800.fst
+Efektor Bass Cruncher.fst
+Efektor Bass Driver.fst
+Efektor Bass Smasher.fst
+Efektor CH3604.fst
+Efektor CP3603.fst
+Efektor DL3606.fst
+Efektor DS3603.fst
+Efektor FL3606.fst
+Efektor FZ3603.fst
+Efektor Gainia HB.fst
+Efektor Gainia TD.fst
+Efektor Gainia XT.fst
+Efektor GQ3607.fst
+Efektor Harmonitron.fst
+Efektor OD3603.fst
+Efektor PH3605.fst
+Efektor RV3604.fst
+Efektor TR3604.fst
+Efektor WF3607.fst
+Efektor Whammo.fst
+EK Edstortion Rack.fst
+EK Edstortion.fst
+EK Phazevibe Rack.fst
+EK Phazevibe.fst
+EKramer BA Stereo.fst
+EKramer DR Stereo.fst
+EKramer FX Mono-Stereo.fst
+EKramer FX Stereo.fst
+EKramer GT Mono-Stereo.fst
+EKramer GT Stereo.fst
+EKramer VC Mono-Stereo.fst
+EKramer VC Stereo.fst
+Electric Matter.fst
+Electrum.fst
+ElectrumCore.fst
+elysia alpha master.fst
+elysia alpha mix.fst
+elysia karacter master.fst
+elysia karacter mix.fst
+elysia mpressor.fst
+elysia museq master.fst
+elysia museq mix.fst
+elysia niveau filter.fst
+elysia nvelope.fst
+elysia phils cascade.fst
+EMO-D5 Stereo.fst
+EMO-F2 Stereo.fst
+EMO-Generator Stereo.fst
+EMO-Q4 Stereo.fst
+ENGL E646 VS.fst
+ENGL E765 RT.fst
+ENGL Savage 120.fst
+Enhanced EQ.fst
+Enigma Mono-Stereo.fst
+Enigma Stereo.fst
+Eos 2.fst
+Expanse3D.fst
+EZmix 3.fst
+F6 Stereo.fst
+F6-RTA Stereo.fst
+FA Echobandit Rack.fst
+FA Echobandit.fst
+FET Compressor.fst
+fiedler audio splat.fst
+fiedler audio stage.fst
+Filterverse.fst
+Filtron.fst
+FinalPlug 6.fst
+FireCharger.fst
+FireCobra.fst
+FireMaster.fst
+FireMaximizer.fst
+FirePresser.fst
+FIRETHEPUMP.fst
+Fix Doubler.fst
+Fix Flanger.fst
+Fix Phaser.fst
+Flamingo Verb.fst
+Flex Beat.fst
+Focusing Equalizer.fst
+Fog Convolver 2.fst
+Fortin Cali Suite.fst
+Fortin Nameless Suite.fst
+Fortin NTS Suite.fst
+Fox Echo Chorus.fst
+Friedman BE100.fst
+Friedman Buxom Betty.fst
+Friedman DS40.fst
+Frostbite 2.fst
+Fuchs Overdrive Supreme 50.fst
+Fuchs Train II.fst
+FuzzPlus3.fst
+Gallien Krueger 800RB.fst
+Gatekeeper.fst
+Gem Comp G.fst
+Gem Comp LA.fst
+Gem Comp670.fst
+Gem Comp76.fst
+Gem Dopamine.fst
+Gem ECHOSON.fst
+Gem EQ495.fst
+Gem EQ550.fst
+Gem EQ84.fst
+Gem EQP.fst
+Gem Mod.fst
+Gem Modula.fst
+Gem OTD-2.fst
+Gem Sculptube.fst
+Gem TAPEDESK.fst
+Gem Voice.fst
+GEQ Classic Stereo.fst
+GEQ Modern Stereo.fst
+GGD Studio Cabs Cali 1.5.fst
+GGD Studio Cabs Contenders Round 1.fst
+GGD Studio Cabs Goldstack 1.5.fst
+GGD Studio Cabs Zilla 1.5.fst
+GK Amplification 3 Pro.fst
+Gong Amp.fst
+Gorilla Drive.fst
+Gorilla.fst
+GrainSpace.fst
+Green Reaper.fst
+GreenADAI.fst
+GTR Amp Mono-Stereo.fst
+GTR Amp Stereo.fst
+GTR Solo Tool Rack Mono-Stereo.fst
+GTR Solo Tool Rack Stereo.fst
+GTR Stomp 2 Mono-Stereo.fst
+GTR Stomp 2 Stereo.fst
+GTR Stomp 4 Mono-Stereo.fst
+GTR Stomp 4 Stereo.fst
+GTR Stomp 6 Mono-Stereo.fst
+GTR Stomp 6 Stereo.fst
+GTR Tool Rack Mono-Stereo.fst
+GTR Tool Rack Stereo.fst
+GW MixCentric Stereo.fst
+GW PianoCentric Mono-Stereo.fst
+GW PianoCentric Stereo.fst
+GW ToneCentric Stereo.fst
+GW VoiceCentric Mono-Stereo.fst
+GW VoiceCentric Stereo.fst
+H-Comp Stereo.fst
+H-Delay Mono-Stereo.fst
+H-Delay Stereo.fst
+H-EQ Stereo.fst
+H-EQ-Light Stereo.fst
+H-Reverb 5.0.fst
+H-Reverb 5.1.fst
+H-Reverb long 5.0.fst
+H-Reverb long 5.1.fst
+H-Reverb long Mono-5.0.fst
+H-Reverb long Mono-5.1.fst
+H-Reverb long Mono-Stereo.fst
+H-Reverb long Stereo-5.0.fst
+H-Reverb long Stereo-5.1.fst
+H-Reverb long Stereo.fst
+H-Reverb Mono-5.0.fst
+H-Reverb Mono-5.1.fst
+H-Reverb Mono-Stereo.fst
+H-Reverb Stereo-5.0.fst
+H-Reverb Stereo-5.1.fst
+H-Reverb Stereo.fst
+Harmonic Maximizer.fst
+Harmonics Analog Saturation Processor.fst
+Harris Doyle Natalus DSCEQ.fst
+Heavy Pedal mkII.fst
+Hybrid Filter.fst
+Hyperspace.fst
+HyperTune.fst
+I Wish.fst
+IDR360 5.0.fst
+IDR360 5.1.fst
+Impact.fst
+IMPusher Stereo.fst
+Inf EQ.fst
+Infiltrator.fst
+InPhase Live Stereo.fst
+InPhase LT Live Stereo.fst
+InPhase LT Stereo.fst
+InPhase Stereo.fst
+Invisible Limiter G2.fst
+Invisible Limiter G3.fst
+Invisible Limiter.fst
+IQ-Analyser NetAux.fst
+IQ-Analyser.fst
+IQ-Comp.fst
+IQ-DeEsser.fst
+IQ-Eq.fst
+IQ-Limiter.fst
+IQ-Reverb.fst
+IR-L efficient Stereo.fst
+IR-L full Stereo.fst
+IR-L Mono-Stereo.fst
+IR1 efficient Stereo.fst
+IR1 full Stereo.fst
+IR1 Mono-Stereo.fst
+IR360 discrete Mono-5.0.fst
+IR360 eff discrete 5.0.fst
+IR360 eff discrete 5.1.fst
+IR360 eff discrete Stereo-5.0.fst
+IR360 eff s.field Stereo-5.0.fst
+IR360 sound field 5.0.fst
+IR360 sound field 5.1.fst
+IR360 sound field Mono-5.0.fst
+IR360 sound field Stereo-5.0.fst
+IRDX Core.fst
+IRLive Mono-Stereo.fst
+IRLive Stereo.fst
+JJP-Bass Mono-Stereo.fst
+JJP-Bass Stereo.fst
+JJP-Cymb-Perc Mono-Stereo.fst
+JJP-Cymb-Perc Stereo.fst
+JJP-Drums Mono-Stereo.fst
+JJP-Drums Stereo.fst
+JJP-Guitars Mono-Stereo.fst
+JJP-Guitars Stereo.fst
+JJP-Strings-Keys Mono-Stereo.fst
+JJP-Strings-Keys Stereo.fst
+JJP-Vocals Mono-Stereo.fst
+JJP-Vocals Stereo.fst
+Kaleidoscopes Mono-Stereo.fst
+Kaleidoscopes Stereo.fst
+Kerry King Signature.fst
+Key Detector Stereo.fst
+Kickstart 2.fst
+Kiive Tape Face.fst
+Kiive Xtressor.fst
+Klirrton Grindstein.fst
+Knif Audio Soma.fst
+Kombinat Tri.fst
+Kramer HLS Stereo.fst
+Kramer PIE Stereo.fst
+Kramer Tape Stereo.fst
+Krush.fst
+KSHMR Essentials Kick.fst
+Kujaku.fst
+L1 limiter Stereo.fst
+L1+ Ultramaximizer Stereo.fst
+L12X Solid State Amplifier.fst
+L2 Stereo.fst
+L3 MultiMaximizer Stereo.fst
+L3 UltraMaximizer Stereo.fst
+L3-LL Multi Stereo.fst
+L3-LL Ultra Stereo.fst
+L316 Stereo.fst
+L360 5.0.fst
+L360 5.1.fst
+LadyBug Reverb.fst
+LDC2 Compander.fst
+LFE360 5.1.fst
+Lindell 254E.fst
+Lindell 354E.fst
+Lindell 50 Buss.fst
+Lindell 50 Channel.fst
+Lindell 69 Buss.fst
+Lindell 69 Channel.fst
+Lindell 6X-500.fst
+Lindell 7X-500.fst
+Lindell 80 Bus.fst
+Lindell 80 Channel.fst
+Lindell 902 De-esser.fst
+Lindell ChannelX.fst
+Lindell MBC.fst
+Lindell PEX-500.fst
+Lindell SBC.fst
+Lindell TE-100.fst
+LinEQ Broadband Stereo.fst
+LinEQ Lowband Stereo.fst
+LinMB Stereo.fst
+Lion Master.fst
+LoAir 5.0-5.1.fst
+LoAir 5.1.fst
+LoAir Stereo.fst
+Lofi Space Mono-Stereo.fst
+Lofi Space Stereo.fst
+Looptrotter SA2RATE2.fst
+Low Filter.fst
+LTL Chop Shop EQ.fst
+LTL SILVER BULLET mk2.fst
+M360 Manager 5.0-5.1.fst
+M360 Manager 5.0.fst
+M360 Manager 5.1.fst
+M360 Mixdown 5.0.fst
+M360 Mixdown 5.1.fst
+M5133.fst
+Maag EQ2.fst
+Maag EQ4.fst
+Maag MAGNUM-K.fst
+Magma BB Tubes Stereo.fst
+Magma Channel Strip Stereo.fst
+Magma Lil Tube Stereo.fst
+Magma Springs Mono-Stereo.fst
+Magma Springs Stereo.fst
+Manipulator.fst
+MannyM Delay Mono-Stereo.fst
+MannyM Delay Stereo.fst
+MannyM Distortion Stereo.fst
+MannyM EQ Stereo.fst
+MannyM Reverb Mono-Stereo.fst
+MannyM Reverb Stereo.fst
+MannyM Tone Shaper Stereo.fst
+MannyM TripleD Stereo.fst
+Mantis.fst
+Mark Studio 2.fst
+Marshall Bluesbreaker 1962.fst
+Marshall JMP 2203.fst
+Marshall Plexi Super Lead 1959.fst
+Marshall Silver Jubilee 2555.fst
+Maserati ACG Mono-Stereo.fst
+Maserati ACG Stereo.fst
+Maserati B72 Mono-Stereo.fst
+Maserati B72 Stereo.fst
+Maserati DRM Stereo.fst
+Maserati GRP Stereo.fst
+Maserati GTi Mono-Stereo.fst
+Maserati GTi Stereo.fst
+Maserati HMX Mono-Stereo.fst
+Maserati HMX Stereo.fst
+Maserati VX1 Mono-Stereo.fst
+Maserati VX1 Stereo.fst
+Master Plan v1.5.fst
+MasterMind.fst
+MasterVerb 6.fst
+Material Comp.fst
+MaxxBass Stereo.fst
+MaxxVolume Stereo.fst
+MDMX Fuzz Stereo.fst
+MDMX OverDrive Stereo.fst
+MDMX Screamer Stereo.fst
+Megaphone.fst
+MetaFilter Mono-Stereo.fst
+MetaFilter Stereo.fst
+MetaFlanger Mono-Stereo.fst
+MetaFlanger Stereo.fst
+Metal Amp Room.fst
+Meter.fst
+Michelangelo.fst
+Millennia NSEQ-2.fst
+Millennia TCL-2.fst
+miniVerb.fst
+Mirror.fst
+MixChecker Pro.fst
+Mixland Vac Attack.fst
+Model 72 FX Synthesizer System.fst
+Model N Channel.fst
+Modular FX.fst
+MoMa.fst
+MondoMod Mono-Stereo.fst
+MondoMod Stereo.fst
+Morph EQ.fst
+Morphoder Mono-Stereo.fst
+Morphoder Stereo.fst
+MorphVerb.fst
+MT-A.fst
+Multiband X6.fst
+MultiDrive Pedal Pro.fst
+MultiDynamics 6.fst
+MultiDynamics 7.fst
+MultiMod Rack Mono-Stereo.fst
+MultiMod Rack Stereo.fst
+Mutronics Mutator.fst
+MV2 Stereo.fst
+MV360 5.0.fst
+MV360 5.1.fst
+NA 8180.fst
+NA Acoustic Voice.fst
+NA Analog Rack Bass Equalizer.fst
+NA Analog Rack Chorus.fst
+NA Analog Rack Cleaner.fst
+NA Analog Rack Compressor.fst
+NA Analog Rack Delay.fst
+NA Analog Rack Flanger.fst
+NA Analog Rack Fuzz.fst
+NA Analog Rack Guitar Equalizer.fst
+NA Analog Rack Noise Gate.fst
+NA Analog Rack Phaser.fst
+NA Analog Rack Reverb.fst
+NA Analog Rack Screamer.fst
+NA Analog Rack Tremolo.fst
+NA Bass Driver.fst
+NA Blackice Beta Gamma.fst
+NA Bst100 V2.fst
+NA Cali Dual.fst
+NA Cali Reverb.fst
+NA Crunck V2.fst
+NA Delay3000.fst
+NA Doubler.fst
+NA EN Hardball.fst
+NA Faceman.fst
+NA Hivolt 103.fst
+NA IR Loader.fst
+NA Jmp Pro.fst
+NA LoFi.fst
+NA Mp1 Pro.fst
+NA Mrh159.fst
+NA Mrh810 V2.fst
+NA Overdrive Special.fst
+NA Plugin Rig.fst
+NA PSA1000 Jr.fst
+NA PSA1000.fst
+NA Quinta.fst
+NA Sound Master.fst
+NA The Boss Rack.fst
+NA The Boss.fst
+NA Voice DC30.fst
+Nanopulse.fst
+Nectar 4 Auto-Level.fst
+Nectar 4 Backer.fst
+Nectar 4 Breath Control.fst
+Nectar 4 Compressor.fst
+Nectar 4 DeEsser.fst
+Nectar 4 Delay.fst
+Nectar 4 Dimension.fst
+Nectar 4 Equalizer.fst
+Nectar 4 Gate.fst
+Nectar 4 Pitch.fst
+Nectar 4 Reverb.fst
+Nectar 4 Saturation.fst
+Nectar 4 Voices.fst
+Nectar 4.fst
+Need 31102 Console EQ.fst
+Need 533 EQ.fst
+Need 73 Console EQ.fst
+Need 81 Console EQ.fst
+Need 84 Console EQ.fst
+Need Pre 31102.fst
+Need Pre Trilogy.fst
+NEOLD BIG AL.fst
+NEOLD U17.fst
+NEOLD U2A.fst
+NEOLD V76U73.fst
+NEOLD WARBLE.fst
+Neutron 4 Compressor.fst
+Neutron 4 Equalizer.fst
+Neutron 4 Exciter.fst
+Neutron 4 Gate.fst
+Neutron 4 Sculptor.fst
+Neutron 4 Transient Shaper.fst
+Neutron 4 Unmask.fst
+Neutron 4 Visual Mixer.fst
+Neutron 4.fst
+NLS Buss Stereo.fst
+NLS Channel Stereo.fst
+Noveltech Character.fst
+Noveltech Vocal Enhancer.fst
+NS1 Stereo.fst
+Nu Compressor.fst
+NUGEN Send.fst
+NUGEN Stereoizer3.fst
+NUGEN Visualizer2.fst
+NX 5.0-Stereo.fst
+NX 5.0.fst
+NX 5.1-Stereo.fst
+NX 5.1.fst
+NX 7.1-Stereo.fst
+NX 7.1.fst
+Nx Ambisonics Quad-Stereo.fst
+NX Ambisonics Quad.fst
+Nx Germano Studios 5.1-Stereo.fst
+Nx Germano Studios Stereo.fst
+NX Mono-Stereo.fst
+Nx Ocean Way Nashville Stereo.fst
+NX Stereo.fst
+OCS-45.fst
+Octaver 82.fst
+OMEGA Ampworks Granophyre.fst
+OneKnob Brighter Stereo.fst
+OneKnob Driver Stereo.fst
+OneKnob Filter Stereo.fst
+OneKnob Louder Stereo.fst
+OneKnob Phatter Stereo.fst
+OneKnob Pressure Stereo.fst
+OneKnob Pumper Stereo.fst
+OneKnob Wetter Mono-Stereo.fst
+OneKnob Wetter Stereo.fst
+Orbitron.fst
+Other Desert Cities.fst
+OTO Biscuit 8-bit Effects.fst
+Outer Space.fst
+OVox Mono-Stereo.fst
+OVox Stereo.fst
+Owl Control.fst
+Ozone 11 Clarity.fst
+Ozone 11 Dynamic EQ.fst
+Ozone 11 Dynamics.fst
+Ozone 11 Equalizer.fst
+Ozone 11 Exciter.fst
+Ozone 11 Imager.fst
+Ozone 11 Impact.fst
+Ozone 11 Low End Focus.fst
+Ozone 11 Master Rebalance.fst
+Ozone 11 Match EQ.fst
+Ozone 11 Maximizer.fst
+Ozone 11 Spectral Shaper.fst
+Ozone 11 Stabilizer.fst
+Ozone 11 Vintage Compressor.fst
+Ozone 11 Vintage EQ.fst
+Ozone 11 Vintage Limiter.fst
+Ozone 11 Vintage Tape.fst
+Ozone 11.fst
+Pancz.fst
+Panorama 6.fst
+Panorama 7.fst
+Parallax.fst
+Passive EQ.fst
+Passive Equalizer.fst
+PAZ- Analyzer Stereo.fst
+PAZ- Frequency Stereo.fst
+PAZ- Meters Stereo.fst
+PAZ- Position Stereo.fst
+Pillar Power Amp.fst
+PitchMonster.fst
+Plamen.fst
+Plasma.fst
+PlaylistRider Stereo.fst
+PlexiTape.fst
+Pluralis.fst
+Polaris.fst
+PolyComp.fst
+Pre X7.fst
+PreBOX.fst
+Pro Audio DSP DSM V3.fst
+PRS Archon Mono-Stereo.fst
+PRS Dallas Mono-Stereo.fst
+PRS V9 Mono-Stereo.fst
+PS22 Split Mono-Stereo.fst
+PS22 Split Stereo.fst
+PS22 Spread Mono-Stereo.fst
+PS22 Spread Stereo.fst
+PS22 Spread(10) Mono-Stereo.fst
+PS22 Spread(10) Stereo.fst
+PS22 XSplit Mono-Stereo.fst
+PS22 XSplit Stereo.fst
+PSE Stereo.fst
+PuigChild 670 Stereo.fst
+PuigTec EQP1A Stereo.fst
+PuigTec MEQ5 Stereo.fst
+Punish.fst
+Purple Audio MC 77.fst
+PutMeOnDrums.fst
+Pyros.fst
+Q-Clone Stereo.fst
+Q1 Stereo.fst
+Q10 Stereo.fst
+Q2 Stereo.fst
+Q3 Stereo.fst
+Q4 Stereo.fst
+Q6 Stereo.fst
+Q8 Stereo.fst
+QuatroMod.fst
+R360 5.0.fst
+R360 5.1.fst
+R360 Mono-5.0.fst
+R360 Mono-5.1.fst
+R360 Stereo-5.0.fst
+R360 Stereo-5.1.fst
+Rabbit Tape.fst
+RBass Stereo.fst
+RChannel Mono-Stereo.fst
+RChannel Stereo.fst
+RCompressor Stereo.fst
+RDeEsser Stereo.fst
+Reels.fst
+Renaissance Axx Stereo.fst
+RePitch VST.fst
+Replicant 2.fst
+REQ 2 Stereo.fst
+REQ 4 Stereo.fst
+REQ 6 Stereo.fst
+Retro Fi Mono-Stereo.fst
+Retro Fi Stereo.fst
+Retronaut.fst
+Revoice Pro Link (Legacy).fst
+Revoice Pro Link.fst
+Rhino Reverb.fst
+Rift.fst
+RootOne.fst
+RoughRider3.fst
+RoyalCompressor.fst
+RVerb Mono-Stereo.fst
+RVerb Stereo.fst
+RVox Stereo.fst
+RX950.fst
+RZ062a Equalizer.fst
+RZ062b Equalizer.fst
+S1 Imager Stereo.fst
+S1 MS Matrix Stereo.fst
+S1 Shuffler Stereo.fst
+S360 Imager 5.0.fst
+S360 Imager 5.1.fst
+S360 Imager Mono-5.0.fst
+S360 Imager Mono-5.1.fst
+S360 Imager Stereo-5.0.fst
+S360 Imager Stereo-5.1.fst
+S360 Panner Mono-5.0.fst
+S360 Panner Mono-5.1.fst
+S360 Panner Stereo-5.0.fst
+S360 Panner Stereo-5.1.fst
+SA76.fst
+Sakura Dither.fst
+Saphira Stereo.fst
+Saturation Knob.fst
+Scheps 73 Stereo.fst
+Scheps Omni Channel 2 Stereo.fst
+Scheps Parallel Particles Stereo.fst
+Schoeps Double MS.fst
+Schoeps Mono Upmix 1to2.fst
+Schoeps Mono Upmix 1to3.fst
+SerumFX.fst
+Shadow Hills Class A Mastering Comp.fst
+Shadow Hills Mastering Compressor.fst
+ShaperBox 3.fst
+Sibilance Stereo.fst
+Sibilance-Live Stereo.fst
+Side Filter.fst
+Silk Vocal Live Stereo.fst
+Silk Vocal Stereo.fst
+Smack Attack Stereo.fst
+smartEQ4.fst
+Smash And Grab v2.fst
+Solidus Randy 250.fst
+Solidus VS8100.fst
+SoundShifter Pitch Stereo.fst
+Space Rider Mono-Stereo.fst
+Space Rider Stereo.fst
+Space Station UM282.fst
+Space Strip.fst
+Spacer.fst
+Speakers.fst
+Spherix Compressor 7.1.2.fst
+Spherix Compressor 7.1.4.fst
+Spherix Limiter 7.1.2.fst
+Spherix Limiter 7.1.4.fst
+SPL Attacker Plus.fst
+SPL De-Esser Dual-Band.fst
+SPL De-Esser.fst
+SPL De-Verb Plus.fst
+SPL DrumXchanger.fst
+SPL EQ Ranger Plus.fst
+SPL Free Ranger.fst
+SPL HawkEye.fst
+SPL IRON.fst
+SPL Mo-Verb Plus.fst
+SPL Passeq Single.fst
+SPL Passeq.fst
+SPL PQ.fst
+SPL Transient Designer Plus.fst
+SPL TwinTube.fst
+SPL Vitalizer MK2-T.fst
+Spring Reverb.fst
+Springs.fst
+SSL EV2 Channel Stereo.fst
+SSL Native Bus Compressor v6.fst
+SSL Native Channelstrip v6.fst
+SSL Native Drumstrip v6.fst
+SSL Native FlexVerb.fst
+SSL Native Vocalstrip 2.fst
+SSL Native X-Comp v6.fst
+SSL Native X-EQ 2.fst
+SSL Native X-Phase v6.fst
+SSL Native X-Saturator v6.fst
+SSL Native X-ValveComp v6.fst
+SSLChannel Stereo.fst
+SSLComp Stereo.fst
+SSLEQ Stereo.fst
+SSLGChannel Stereo.fst
+Stereo Imager D.fst
+STL ControlHub.fst
+STL Ignite - AmpHub.fst
+STL ToneHub.fst
+StudioVerse Audio Effects Mono-Stereo.fst
+StudioVerse Audio Effects Stereo.fst
+Sub Align Stereo.fst
+Sub Ninja.fst
+SubbassDoctor808.fst
+Submarine Stereo.fst
+Suhr PT100.fst
+Suhr SE100.fst
+Summit Audio EQF-100.fst
+Summit Audio Grand Channel.fst
+Summit Audio TLA-100A.fst
+Supermodal.fst
+SuperTap 2-Taps Mono-Stereo.fst
+SuperTap 2-Taps Stereo.fst
+SuperTap 6-Taps Mono-Stereo.fst
+SuperTap 6-Taps Stereo.fst
+Surge XT Effects.fst
+Swarm Reverb.fst
+SYS AlgoVerb.fst
+SYS Chorus.fst
+SYS Comp.fst
+SYS CompListenMic.fst
+SYS Delay.fst
+SYS Distortion.fst
+SYS EQ-Dynamic.fst
+SYS EQ.fst
+SYS Expander.fst
+SYS Flanger.fst
+SYS Gain.fst
+SYS Gate.fst
+SYS Meter.fst
+SYS MultiMod.fst
+SYS Notepad.fst
+SYS Pan.fst
+SYS Phaser.fst
+SYS PinkNoise.fst
+SYS Pitch.fst
+SYS Saturator.fst
+SYSTEM.fst
+Tape Pro.fst
+Tape.fst
+TapeMAI.fst
+TapeSAI.fst
+Tau Compressor Plus.fst
+TBTECH Kirchhoff-EQ.fst
+TB_Barricade_v4.fst
+TB_BitJuggler_v1.fst
+TB_Compressor_v4.fst
+TB_DualVCF_v1.fst
+TB_Enhancer_v1.fst
+TB_Equalizer_v4.fst
+TB_GonioMeter_v1.fst
+TB_MBC_v1.fst
+TB_Morphit_v1.fst
+TB_ReelBus_v4.fst
+TB_Reverb_v4.fst
+TB_Sibalance_v4.fst
+TB_Spectrogram_v1.fst
+TB_VoicePitcher_v4.fst
+TDR Nova.fst
+Texture.fst
+TH-U.fst
+The Bluesman.fst
+The Dom.fst
+The Driver.fst
+The Glue.fst
+The God Particle.fst
+The Orb.fst
+THE OVEN.fst
+The Overseer.fst
+The Shredder.fst
+ThickPreAI.fst
+Things Bubbles.fst
+Things Crusher.fst
+Things Flip EQ.fst
+Things Motor.fst
+Things Texture.fst
+THX Spatial Creator.fst
+TimeMachine.fst
+TITANIUM31B.fst
+TITANIUM33B.fst
+TITANIUM3BASSTARD.fst
+TITANIUM3EQ.fst
+TITANIUM3PRE.fst
+TITANIUM3STRIP.fst
+TOMO Audiolabs LISA.fst
+Tonal Balance Control 2.fst
+ToneLib-GFX.fst
+ToneLib-Metal.fst
+Tonelux Tilt Live.fst
+Tonelux Tilt.fst
+TONEX.fst
+Torque Stereo.fst
+Torque-Live Stereo.fst
+TR5 Black 76.fst
+TR5 Brickwall Limiter.fst
+TR5 British Channel.fst
+TR5 Bus Compressor.fst
+TR5 Classic Clipper.fst
+TR5 Classic Comp.fst
+TR5 Classic EQ.fst
+TR5 Classic Multi Band Limiter.fst
+TR5 Comprexxor.fst
+TR5 CSR Hall.fst
+TR5 CSR Inverse.fst
+TR5 CSR Plate.fst
+TR5 CSR Room.fst
+TR5 De Esser.fst
+TR5 Dyna-Mu.fst
+TR5 EQ-73.fst
+TR5 EQ-81.fst
+TR5 EQ-PA.fst
+TR5 EQ-PB.fst
+TR5 EQ-PG.fst
+TR5 EQP-1A.fst
+TR5 EQual.fst
+TR5 Fame Studio Reverb.fst
+TR5 Joe Chiccarelli Vocal Strip.fst
+TR5 Leslie.fst
+TR5 Linear Phase EQ.fst
+TR5 Master EQ-432.fst
+TR5 Master Match.fst
+TR5 Metering.fst
+TR5 Mic Room.fst
+TR5 One.fst
+TR5 Opto Comp.fst
+TR5 Precision Comp-Limiter.fst
+TR5 Quad Compressor.fst
+TR5 Quad Image.fst
+TR5 Quad Limiter.fst
+TR5 Saturator X.fst
+TR5 Space Delay.fst
+TR5 Stealth Limiter.fst
+TR5 Suite.fst
+TR5 Sunset Sound Studio Reverb.fst
+TR5 Tape Echo.fst
+TR5 Tape Machine 24.fst
+TR5 Tape Machine 440.fst
+TR5 Tape Machine 80.fst
+TR5 Tape Machine 99.fst
+TR5 TASCAM 388.fst
+TR5 TASCAM PORTA ONE.fst
+TR5 TEAC A-3340S.fst
+TR5 TEAC A-6100 MKII.fst
+TR5 The Farm Stone Room.fst
+TR5 VC-670.fst
+TR5 White 2A.fst
+TR5 White Channel.fst
+Track Symbiosis.fst
+TrackPlug 6.fst
+TRACT LinPhase Stereo.fst
+TRACT Stereo.fst
+tranQuilizr G2.fst
+tranQuilizr.fst
+Transient Shaper.fst
+Transmutator.fst
+TransX Multi Stereo.fst
+TransX Wide Stereo.fst
+TrapTune.fst
+TridA-Pre.fst
+Trident A-Range.fst
+Triple Fader.fst
+TrueVerb Mono-Stereo.fst
+TrueVerb Stereo.fst
+TS-1 Transient Shaper.fst
+TSAR-1 Reverb.fst
+TSAR-1R Reverb.fst
+Tube Delay.fst
+Tube KC-1.fst
+Tube Modulator.fst
+Tube-Tech CL 1B mk II.fst
+Tube-Tech CL 1B.fst
+Tube-Tech Classic Channel mk II.fst
+Tube-Tech Classic Channel.fst
+Tube-Tech Equalizers mk II.fst
+Tube-Tech ME 1B.fst
+Tube-Tech PE 1C.fst
+Tuned Reverb.fst
+Type A.fst
+Type B.fst
+U73b Compressor.fst
+U78 Saturator.fst
+UltraPitch 3 Voices Mono-Stereo.fst
+UltraPitch 6 Voices Mono-Stereo.fst
+UltraPitch Shift Mono-Stereo.fst
+UM225 Stereo-5.0.fst
+UM226 Stereo-5.1.fst
+Unfiltered Audio Bass Mint.fst
+Unfiltered Audio Byome.fst
+Unfiltered Audio Dent 2.fst
+Unfiltered Audio Fault.fst
+Unfiltered Audio G8.fst
+Unfiltered Audio Indent 2.fst
+Unfiltered Audio Instant Delay.fst
+Unfiltered Audio lo-fi-af.fst
+Unfiltered Audio Needlepoint.fst
+Unfiltered Audio Sandman Pro.fst
+Unfiltered Audio Sandman.fst
+Unfiltered Audio Silo.fst
+Unfiltered Audio SpecOps.fst
+Unfiltered Audio Tails.fst
+Unfiltered Audio Triad.fst
+Unfiltered Audio Zip.fst
+UniChannel.fst
+UrbanPuncher.fst
+USRackAI.fst
+ValhallaDelay.fst
+ValhallaFreqEcho.fst
+ValhallaPlate.fst
+ValhallaRoom.fst
+ValhallaShimmer.fst
+ValhallaSpaceModulator.fst
+ValhallaSupermassive.fst
+ValhallaUberMod.fst
+ValhallaVintageVerb.fst
+Valley People Dyna-mite Gate.fst
+Valley People Dyna-mite Slam.fst
+Valley People Dyna-mite.fst
+Valves.fst
+Vari Comp.fst
+VC 160.fst
+VC 2A.fst
+VC 76.fst
+VComp Stereo.fst
+VEQ3 Stereo.fst
+VEQ4 Stereo.fst
+Verbum.fst
+Vertigo VSC-2.fst
+Vertigo VSM-3.fst
+Vintage Amp Room.fst
+Vinyl Strip.fst
+Vitamin Stereo.fst
+Vocal Bender Stereo.fst
+Vocal Chain.fst
+Vocal Rider Live Stereo.fst
+Vocal Rider Stereo.fst
+Vocal Tune.fst
+VocAlign 6 Pro VST.fst
+Voltage Amps Bass Mono-Stereo.fst
+Voltage Amps Bass Stereo.fst
+Voltage Amps Guitar Mono-Stereo.fst
+Voltage Amps Guitar Stereo.fst
+VoxDucker.fst
+Voxessor.fst
+VU Meter Stereo.fst
+W43 Stereo.fst
+Wave Box.fst
+Wave Shredder.fst
+Waves Gemstones Mono-Stereo.fst
+Waves Gemstones Stereo.fst
+Waves Harmony Mono-Stereo.fst
+Waves Harmony Stereo.fst
+Waves Stream Receive Stereo.fst
+Waves Stream Send Stereo.fst
+Waves Tune LT Stereo.fst
+Waves Tune Real-Time Stereo.fst
+Waves Tune Stereo.fst
+Weiss Compressor Limiter.fst
+Weiss Deess.fst
+Weiss DS1-MK3.fst
+Weiss EQ MP.fst
+Weiss EQ1.fst
+Weiss MM-1 Mastering Maximizer.fst
+Wider.fst
+Wires.fst
+WLM Meter 5.0.fst
+WLM Meter 5.1.fst
+WLM Meter Stereo.fst
+WLM Plus 5.0.fst
+WLM Plus 5.1.fst
+WLM Plus Stereo.fst
+WNS Stereo.fst
+X-Click Stereo.fst
+X-Crackle Stereo.fst
+X-FDBK Stereo.fst
+X-Hum Stereo.fst
+X-Noise Stereo.fst
+XenoVerb.fst
+Xrider.fst
+Xvox Comp.fst
+Xvox DS.fst
+Xvox Pro.fst
+Xvox SFX.fst
+Xvox Space.fst
+Xvox Tone.fst
+Yak Delay.fst
+Z-Noise Stereo.fst
