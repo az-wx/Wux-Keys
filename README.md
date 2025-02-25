@@ -11,11 +11,17 @@ Virtuoso collection of Windows OS Automation, Optimization &amp; UX Scripts
 ### Contents & General Application
 | **Script** |        **Methods**        | **Briefly**                                                               |
 |:----------:|:---------------------:|-----------------------------------------------------------------------|
-|      XKeys | The great shortcuts   | Wux invented masterpieces                                             |
-|     M Clip | Mouse & Clipboard     | All clipboard actions on mouse, a bit of navigation                   |
-|       Navi | From Text to Desktops | Scroll, switch between and control: desktops, windows, tabs.          |
-|       Lang | Language, HotStrings  | Transliteration, German umlaut adaptation, HotStrings                 |
-|      Utils | Extra Utilities       | Primarily watchers or utility scripts                                 |
-|     FLKeys | FL Studio KeyMap      | Prime tools on number row, gestures, shortcuts, audio plugins cleanup |
+|      [ **X Keys**](#x-keys) | The great shortcuts   | Wux invented masterpieces                                             |
+|     [**M Clip**](#m-clip) | Mouse & Clipboard     | All clipboard actions on mouse, a bit of navigation                   |
+|       [**Navi**](#navi) | From Text to Desktops | Text, view: scroll; Desktops, windows, tabs: switch, control          |
+|       [**Lang**](#lang) | Language, HotStrings  | Transliteration, German umlaut adaptation, HotStrings                 |
+|      [**Utils**](#utils) | Extra Utilities       | Primarily watchers or utility scripts                                 |
+|     [**FLKeys**](#fl-keys) | FL Studio KeyMap      | Prime tools on number row, gestures, shortcuts, audio plugins cleanup |
 
+### X Keys
+### M Clip
+### Navi
+### Lang
+### Utils
+### FL Keys
 
