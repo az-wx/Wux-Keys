@@ -8,14 +8,14 @@ Virtuoso collection of Windows OS Automation, Optimization &amp; UX Scripts
 * Disable parts of scripts via tray menu
 * Get used to the general approach of doing less and getting more
 * Tweaks improve overall computer handling (see Contents)
-### Contents
-* X Keys  —  Wux invented masterpieces, see comments for tips
-* M Clip  —  Mouse & Clipboard
-* Navi  —  navigation and management of text, screens, desktops, windows, tabs
-* Lang  —  transliteration & hotstrings, language adaptations
-* Utils  —  remaining small utilities & helpers
-* FLKeys  —  FL Studio Handling
-
-Usage: Ninja tweaks to work faster.
+### Contents & General Application
+| **Script** |        **Methods**        | **Briefly**                                                               |
+|:----------:|:---------------------:|-----------------------------------------------------------------------|
+|      XKeys | The great shortcuts   | Wux invented masterpieces                                             |
+|     M Clip | Mouse & Clipboard     | All clipboard actions on mouse, a bit of navigation                   |
+|       Navi | From Text to Desktops | Scroll, switch between and control: desktops, windows, tabs.          |
+|       Lang | Language, HotStrings  | Transliteration, German umlaut adaptation, HotStrings                 |
+|      Utils | Extra Utilities       | Primarily watchers or utility scripts                                 |
+|     FLKeys | FL Studio KeyMap      | Prime tools on number row, gestures, shortcuts, audio plugins cleanup |
 
 

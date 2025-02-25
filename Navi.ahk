@@ -93,13 +93,13 @@ CapsLock & t::Send +^t ; Reopen last closed tab
 #If
 
 WindowKey(key) {
-	SetKeyDelay, 22, 11
+	SetKeyDelay, 11, 33
 	Send {RWin Down}{LCtrl Down}%key%
 	KeyWait, %key%, T.2
 	Send {RWin Up}{LCtrl Up}
 	If ErrorLevel {
 		Send {RWin Down}{LAlt Down}%key%{LAlt Up}{RWin Up}
-		Sleep 111
+		Sleep 11
 		Send {Up}{Enter}
 	}
 	Return

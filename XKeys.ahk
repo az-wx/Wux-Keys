@@ -94,8 +94,7 @@ FuncToggler(func) {
 	Return
 
 
-
-
+; Comfy keys
 CapsLock & \::Send +^s ; Save
 Space & F6::Send +^n ; New folder
 SC056::Send ^z ; Undo
@@ -106,9 +105,7 @@ F12::PrintScreen
 
 #InputLevel 2
 
-
-
--::
+-:: ; Short = '-' | Long = '  —  '
 	SendLevel 1
 	Send {-}
 	KeyWait, -, T0.2
@@ -116,8 +113,7 @@ F12::PrintScreen
 		GoSub, longdash
 	Return
 
-
-*Space:: ; Asterisk to prevent Space spam on hold
+*Space:: ; Short = Space | Long = Shift
 	SendLevel 0
 	Send {LShift DownR}
 	Thread, Interrupt
@@ -133,8 +129,7 @@ F12::PrintScreen
 	}
 	Return
 
-
-*BackSpace::
+*BackSpace:: ; Enter
 	SendLevel 0
 	KeyWait, BackSpace, T.15
 	; GoSub, NewTabWindow
@@ -157,12 +152,12 @@ F12::PrintScreen
 		SendLevel 1
 		Send ^{Enter}
 	} Else If !GetKeyState("CapsLock", "P") {
-			SendLevel 1
-			Send {Enter}
+		SendLevel 1
+		Send {Enter}
 	}	Return
 
 
-*Enter::
+*Enter:: ; BackSpace
 	SendLevel 0
 	While GetKeyState("Enter", "P") {
 		If GetKeyState("LAlt", "P") {
@@ -176,8 +171,7 @@ F12::PrintScreen
 	}
 	Return
 
-
-*Delete::
+*Delete:: ; Delete / Esc
 	SendLevel 0
 	KeyWait, Delete, T.2
 	Send % ErrorLevel ? "{Esc}" : "{Delete}"
@@ -185,9 +179,6 @@ F12::PrintScreen
 		; MouseMove, 11, 11
 		; Send {Click}e
 	Return
-
-#InputLevel
-
 
 ; The final and incredible fix
 #InputLevel 1
