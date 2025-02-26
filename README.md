@@ -3,12 +3,13 @@ Virtuoso collection of Windows OS Automation, Optimization &amp; UX Scripts
 
 ### Key Features
 * Spend less time operating computer, especially with repetitive tasks (ex. Shift integrated into Space bar)
-* Improve comfort (ex. entire Clipboard is on the mouse)
+* Increase workflow comfort (ex. entire Clipboard is on the mouse)
+* Built specificaly for small keyboard and a mouse setup 
 ### Usage
-* Disable parts of scripts via tray menu
-* Get used to the general approach of doing less and getting more
-* Tweaks improve overall computer handling (see Contents)
-### Contents & General Application
+* Disable parts of script via tray menu
+* Take your time to rethink your own keymap, my mapping is strongly based on my own hands and preferences in control devices.
+* Tweaks improve overall computer handling (see [Contents](#contents))
+### Contents
 | **Script** |        **Methods**        | **Briefly**                                                               |
 |:----------:|:---------------------:|-----------------------------------------------------------------------|
 |      [ **X Keys**](#x-keys) | The great shortcuts   | Wux invented masterpieces                                             |
@@ -20,6 +21,14 @@ Virtuoso collection of Windows OS Automation, Optimization &amp; UX Scripts
 
 ### X Keys
 ### M Clip
+1. Right Button: Middle
+2. Middle Button: long  —  Right Click, short  —  Task View
+3. Clipboard: select with Left Button. While Left Button held
+>click Right Button fast  —  copy selection
+
+>click long  —  cut selection
+
+> In case Left Button gets released before Right Button  —  replace selection with Clipboard contents
 ### Navi
 ### Lang
 ### Utils
