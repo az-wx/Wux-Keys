@@ -1,4 +1,4 @@
-﻿
+﻿ 
 ; 4 Way Navigation
 
 
@@ -212,6 +212,7 @@ MouseMotion:
 Tab & BackSpace::Send +^p
 Tab & e::SendInput ^n ; New Window
 Tab & w::SendInput !{F4} ; Close Window
+
 
 
 

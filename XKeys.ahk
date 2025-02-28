@@ -18,10 +18,15 @@ Menu, Tray, Tip, •
 Menu, Tray, Click, 1
 
 Menu, Tray, Add, History
+Menu, Tray , Icon, History, .ico\X.ico
 Menu, Tray, Add, WinSpy, WindowSpy
+Menu, Tray , Icon, WinSpy, .ico\Spy.ico
 Menu, Tray, Add, Help
+Menu, Tray , Icon, Help, .ico\Help.ico
 Menu, Tray, Add, Exit
+Menu, Tray , Icon, Exit, .ico\Exit.ico
 Menu, Tray, Add, Freeze
+Menu, Tray , Icon, Freeze, .ico\Snowflake.ico
 Menu, Tray, Default, Freeze
 Menu, Tray, NoStandard
 
@@ -48,10 +53,8 @@ F6:: ; -Rename   —New Folder
 *CapsLock::Send {LCtrl Down} 
 ~*CapsLock Up::
 	Send {LCtrl Up}
-	If GetKeyState("Space", "P") {
-		Send +{Tab}
-	} Else If (A_PriorKey="CapsLock")&&(A_PriorHotkey="*CapsLock") {
-		Send {Tab}
+	If (A_PriorKey="CapsLock")&&(A_PriorHotkey="*CapsLock") {
+		Send {Blind}{Tab}
 	} Return
 
 
@@ -61,8 +64,16 @@ F6:: ; -Rename   —New Folder
 	}
 	KeyWait, Tab, T0.2
 	Send % !ErrorLevel ? "^f" : "^h"
+	; If !ErrorLevel {
+	; 	Send ^f
+	; 	Search:=1
+	; } Else {
+	; 	Send ^h
+	; 	SearchReplace:=1
+	; }
 	If SearchSelection {
 		Send !l
+		SearchSelection:=0
 	}
 	Return
 
@@ -89,10 +100,10 @@ F12::PrintScreen
 *Space:: ; Short = Space | Long = Shift
 	SendLevel 0
 	Send {LShift DownR}
-	Thread, Interrupt
+	; Thread, Interrupt
 	Keywait, Space
 	Send {LShift Up}
-	If (A_TimeSinceThisHotkey<188)&&(A_PriorKey!="BackSpace")&&(A_PriorKey!="CapsLock") { ; &&(A_PriorKey!="\")
+	If (A_TimeSinceThisHotkey<188)&&(A_PriorKey!="BackSpace")&&(A_PriorKey!="CapsLock")&&(A_PriorKey="Space") { ; &&(A_PriorKey!="\")
 		SendLevel 1
 		Send {Space}
 	} Else If (A_Priorkey="LButton") {
@@ -113,12 +124,12 @@ F12::PrintScreen
 	Else If WinActive("ahk_class #32770")&&!ErrorLevel {
 		ControlFocus, Button2
 		Send {Enter}
+	} Else If ErrorLevel&&WinActive("Code") {
+		Send {Esc}{Home}+^]
 	} Else If ErrorLevel&&(WinActive("Double Commander")||WinActive("ahk_exe Explorer.EXE")) {
 		SendInput {F2} ; Explorer Rename
 	} Else If ErrorLevel&&WinActive("ahk_group Browsers") {
 		Send ^l
-	} Else If ErrorLevel&&WinActive("Code") {
-		Send {Esc}{Home}+^]
 	} Else If GetKeyState("CapsLock", "P")&&WinActive("Google Translate — Mozilla Firefox") {
 		Send +^s ; Swap translation direction
 	} Else If GetKeyState("CapsLock", "P") {
@@ -127,7 +138,7 @@ F12::PrintScreen
 	} Else If !GetKeyState("CapsLock", "P") {
 		SendLevel 1
 		Send {Enter}
-	}	Return
+	} Return
 
 
 *Enter:: ; BackSpace

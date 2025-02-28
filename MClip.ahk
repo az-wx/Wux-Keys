@@ -9,16 +9,15 @@
 
 *MButton::
 	KeyWait, MButton, T.133
-	Send % !ErrorLevel ? "#{Tab}" : "{RButton}"
-	; If !ErrorLevel {
-	; 	Send #{Tab}
-	; } Else {
-	; 	Send {RButton}
-	; 	Loop {
-	; 		Sleep 5
-	; 	} Until !GetKeyState("MButton", "P")
-	; 	Click
-	; }
+	; Send % ErrorLevel ? "#{Tab}" : "{Blind}{Click, R}{LButton Up}"
+	If ErrorLevel {
+		Send #{Tab}
+	} Else {
+		Send {Blind}{Click, R}
+		If GetKeyState("LButton") {
+			Send {LButton Up}
+		}
+	}
 	Return
 
 
