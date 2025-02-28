@@ -1,4 +1,8 @@
-﻿*RButton::MButton
+﻿*RButton::
+	Click, Down Middle
+	KeyWait, RButton
+	Click, Up Middle
+	Return
 #If GetKeyState("Space", "P")
 *RButton::Click
 #If
