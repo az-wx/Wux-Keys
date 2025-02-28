@@ -1,26 +1,24 @@
 ﻿*RButton::MButton
+#If GetKeyState("Space", "P")
+*RButton::Click
+#If
 
 *MButton::
-	KeyWait, MButton, T.177
-	Send % ErrorLevel ? "#{Tab}" : "{RButton}"
+	KeyWait, MButton, T.133
+	Send % !ErrorLevel ? "#{Tab}" : "{RButton}"
+	; If !ErrorLevel {
+	; 	Send #{Tab}
+	; } Else {
+	; 	Send {RButton}
+	; 	Loop {
+	; 		Sleep 5
+	; 	} Until !GetKeyState("MButton", "P")
+	; 	Click
+	; }
 	Return
 
 
-
-; MButton & WheelUp::Send #{Tab}
-
-
-
-MouseMotion:
-	MouseGetPos, x1, y1
-	If (abs(x1-x0)>mouseMoveThreshold)||(abs(y1-y0)>mouseMoveThreshold) {
-		Send {Tab Up}#{Tab}
-		SetTimer, , Off
-	} Return
-
-
-
-   ; Clipboard
+; Clipboard
 
 ~LButton & RButton:: ; Cut, Copy, Paste
 	KeyWait, RButton, T.3

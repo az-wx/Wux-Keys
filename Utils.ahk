@@ -33,8 +33,6 @@ Help:
 	Send #{Up}
 	Return
 
-
-
 SetSystemCursor(Cursor := "", cx := 0, cy := 0) {
 
 	SystemCursors := "32512IDC_ARROW,32513IDC_IBEAM,32514IDC_WAIT,32515IDC_CROSS,32516IDC_UPARROW"
@@ -96,7 +94,6 @@ SetSystemCursor(Cursor := "", cx := 0, cy := 0) {
 
 	throw Exception("Error: Invalid file path or cursor name")
 }
-
 RestoreCursor() {
 	static SPI_SETCURSORS := 0x57
 	return DllCall("SystemParametersInfo", "uint", SPI_SETCURSORS, "uint", 0, "ptr", 0, "uint", 0)
@@ -104,18 +101,22 @@ RestoreCursor() {
 
 CenterWindow:
 	WinGetActiveTitle, NowWinTitle
-	If (NowWinTitle="Open ahk_class #32770")||(NowWinTitle="File Upload")
-	CenterWindow(NowWinTitle)
+	WinGetClass, NowWinClass, %NowWinTitle%
+	If InStr(NowWinClass, "#32770") {
+		If InStr(NowWinTitle, "Open") {
+			WinGet, NowWinID, ID, %NowWinTitle%
+			CenterWindow("ahk_id" . NowWinID)
+		}
+	} Return
+	
+CenterWindow(NowWinTitle) {
+    WinGetPos,,, Width, Height, %NowWinTitle%
+    WinMove, %NowWinTitle%,, (A_ScreenWidth/2)-(Width/2), (A_ScreenHeight/2)-(Height/2)
 	Return
-
-CenterWindow(WinTitle)
-	{
-	WinGetPos,,, Width, Height, %WinTitle%
-	WinMove, %WinTitle%,, (A_ScreenWidth/2)-(Width/2), (A_ScreenHeight/2)-(Height/2)
-	}
+}
 
 
-   ; Since Windows OS always opens new directories in new windows, soon there're a lot. This makes sure there's only one window, everything else gets closed automatically
+; Since Windows OS always opens new directories in new windows, soon there're a lot. This makes sure there's only one window, everything else gets closed automatically
 CheckExplorer:
 	SetTimer, CheckExplorer, Off
 		WinGet, thisID, ID, A

@@ -22,50 +22,13 @@ Menu, Tray, NoStandard
 Menu, X Keys, Add, History
 Menu, X Keys, Add, WinSpy, WindowSpy
 Menu, X Keys, Add, Help
-
 Menu, Tray, Add, X Keys, :X Keys
 
-Menu, Tray, Add, M Clip, MClip
-If FileExist("MClip.ahk")
-	Menu, Tray, Check, M Clip 
-Menu, Tray, Add, Navi, Navi
-If FileExist("Navi.ahk")
-	Menu, Tray, Check, Navi
-Menu, Tray, Add, Lang, Lang
-If FileExist("Lang.ahk")
-	Menu, Tray, Check, Lang
-Menu, Tray, Add, Utils, Utils
-If FileExist("Utils.ahk")
-	Menu, Tray, Check, Utils
-Menu, Tray, Add, FL Keys, FLKeys
-If FileExist("FLKeys.ahk")
-	Menu, Tray, Check, FL Keys
-Menu, Tray, Add, Freeze, Freeze
-Menu, Tray, Default, Freeze
-Menu, Tray, Add, Exit, Exit
 
+SetTimer, CenterWindow, 33
 
+Hotkey, !F6, Freeze
 
-
-
-SetTimer, FLDialogSkipper, 15
-SetTimer, CenterWindow, 15
-; SetTimer, CheckExplorer, 222
-
-Hotkey, *F6, Freeze
-
-FuncToggler(func) {
-	If !FileExist("\.Off\") {
-		FileCreateDir, .Off\
-	}
-	If FileExist(func . ".ahk") {
-		FileMove, %func%.ahk, .Off\%func%.ahk
-	} Else {
-		FileMove, .Off\%func%.ahk, %func%.ahk
-	}
-	GoSub, TestScript
-	Return
-}
 
 #Include, *i %A_ScriptDir%\MClip.ahk
 #Include, *i %A_ScriptDir%\Navi.ahk
@@ -74,9 +37,12 @@ FuncToggler(func) {
 #Include, *i %A_ScriptDir%\FLKeys.ahk
 
 
-
-
-
+F6:: ; -Rename   —New Folder
+	KeyWait, F6, T.2
+	Send % !ErrorLevel ? "{F2}" : "+^n"
+	Return
+	
+	
 ; LCtrl & Tab
 *CapsLock::Send {LCtrl Down} 
 ~*CapsLock Up::
@@ -89,18 +55,24 @@ FuncToggler(func) {
 
 
 ~Space & Tab:: ; Search / Replace
+	If GetKeyState("LButton", "P") {
+		SearchSelection:=1
+	}
 	KeyWait, Tab, T0.2
 	Send % !ErrorLevel ? "^f" : "^h"
+	If SearchSelection {
+		Send !l
+	}
 	Return
 
 
 ; Comfy keys
 CapsLock & \::Send +^s ; Save
-Space & F6::Send +^n ; New folder
+
 SC056::Send ^z ; Undo
 Space & SC056::Send % WinActive("ahk_exe FL64.exe") ? "!^z" : "+^z" ; Redo
 RAlt & F10::Volume_Mute
-^F12::Send {F2} ; Rename
+RAlt & /::Send ^{/} ; Coment out
 F12::PrintScreen
 
 #InputLevel 2
@@ -188,32 +160,9 @@ longdash:
 	Return
 #InputLevel 0
 
-
-
-
+; Function Togglers
 XKeys:
-	GoSub, History
 	Return
-MClip:
-	FuncToggler("MClip")
-	Return
-Navi:
-	FuncToggler("Navi")
-	Return
-
-Lang:
-	FuncToggler("Lang")
-	Return
-Utils:
-	FuncToggler("Utils")
-	Return
-FLKeys:
-	FuncToggler("FLKeys")
-	Return
-FLPlugins:
-	Run, %A_WorkingDir%\FL\
-	Return	
-
 
 Freeze:
 	Suspend, Toggle
@@ -246,18 +195,3 @@ TestScript:
 	; Send {LWin Up}{Alt Up}{Ctrl Up}{Shift Up}
 	Reload
 	Return
-
-
-CheckPluginDirectory:
-	Run,	%A_ScriptDir%\FL\CheckPluginDirectory.ahk
-	Return
-CheckNewPlugins:
-	Run,	%A_ScriptDir%\FL\CheckNewPlugins.ahk
-	Return
-CleanXPluginDirectory:
-	Run,	%A_ScriptDir%\FL\CleanXPluginDirectory.ahk
-	Return
-FLInstalled:
-	Run,	%A_ScriptDir%\FL\FLInstalled.ahk
-	Return
-

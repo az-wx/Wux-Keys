@@ -147,10 +147,3 @@ RAlt & 7::7
 #IfWinActive
 RAlt & F8::Run, FLPlugins.ahk ; Scan changes
 
-
-
-FLDialogSkipper:
-	WinWaitActive, Make clip unique?
-	Send !y
-	Return
-

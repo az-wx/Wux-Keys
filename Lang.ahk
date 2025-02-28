@@ -1,7 +1,6 @@
 ﻿
 SetKeyDelay, 11, 11
 
-
 :*:~~:: ; TimeStamp
 	SendInput ` %A_DD%.%A_MM%` |` %A_Hour%●%A_Min% `
 	Return
