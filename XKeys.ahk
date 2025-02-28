@@ -17,12 +17,13 @@ Menu, Tray, Icon, .ico\'.ico ; Tray Icon
 Menu, Tray, Tip, •
 Menu, Tray, Click, 1
 
+Menu, Tray, Add, History
+Menu, Tray, Add, WinSpy, WindowSpy
+Menu, Tray, Add, Help
+Menu, Tray, Add, Exit
+Menu, Tray, Add, Freeze
+Menu, Tray, Default, Freeze
 Menu, Tray, NoStandard
-
-Menu, X Keys, Add, History
-Menu, X Keys, Add, WinSpy, WindowSpy
-Menu, X Keys, Add, Help
-Menu, Tray, Add, X Keys, :X Keys
 
 
 SetTimer, CenterWindow, 33
