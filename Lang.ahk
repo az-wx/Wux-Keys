@@ -8,7 +8,9 @@ SetKeyDelay, 11, 11
 	SendInput ` %A_DD%.%A_MM%`
 	Return
 
-:*:**::×
+:*:++::×
+
+
 
 ; Deutsch ümlaut
 :?*:a``::ä
@@ -16,10 +18,16 @@ SetKeyDelay, 11, 11
 :?*:u``::ü
 :?*:s``::ß
 
+:*:-``::Return`n
+
+
+
+::zy::zypper
+
+
 
 :*:g,::greetings, `
 
-::gsade::gta san andreas definitive edition
 
 
 SetKeyDelay
@@ -43,11 +51,11 @@ Space & RShift:: ; Transliterate
 
 ModifiersUp:
 		If GetKeyState("LAlt", "T")||GetKeyState("LAlt", "P")
-			Send {LAlt Up}
+			Send {Blind}{LAlt Up}
 		If GetKeyState("LCtrl", "T")||GetKeyState("LCtrl", "P")
-			Send {LCtrl Up}
+			Send {Blind}{LCtrl Up}
 		If GetKeyState("LShift", "T")||GetKeyState("LShift", "P") ; Playing safer, since it is physically is pressed
-			Send {LShift Up}	
+			Send {Blind}{LShift Up}
 		SetTimer, , Off
 		Return
 

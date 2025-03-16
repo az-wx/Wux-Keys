@@ -13,29 +13,8 @@ CoordMode, Mouse, Screen
 mouseMoveThreshold:=22
 
 SetWorkingDir, %A_Script_Dir%
-Menu, Tray, Icon, .ico\'.ico ; Tray Icon
-Menu, Tray, Tip, •
-Menu, Tray, Click, 1
 
-Menu, Tray, Add, History
-Menu, Tray , Icon, History, .ico\X.ico
-Menu, Tray, Add, WinSpy, WindowSpy
-Menu, Tray , Icon, WinSpy, .ico\Spy.ico
-Menu, Tray, Add, Help
-Menu, Tray , Icon, Help, .ico\Help.ico
-Menu, Tray, Add, Exit
-Menu, Tray , Icon, Exit, .ico\Exit.ico
-Menu, Tray, Add, Freeze
-Menu, Tray , Icon, Freeze, .ico\Snowflake.ico
-Menu, Tray, Default, Freeze
-Menu, Tray, NoStandard
-
-
-SetTimer, CenterWindow, 33
-
-Hotkey, !F6, Freeze
-
-
+#Include, *i %A_ScriptDir%\Tray.ahk
 #Include, *i %A_ScriptDir%\MClip.ahk
 #Include, *i %A_ScriptDir%\Navi.ahk
 #Include, *i %A_ScriptDir%\Lang.ahk
@@ -43,12 +22,9 @@ Hotkey, !F6, Freeze
 #Include, *i %A_ScriptDir%\FLKeys.ahk
 
 
-F6:: ; -Rename   —New Folder
-	KeyWait, F6, T.2
-	Send % !ErrorLevel ? "{F2}" : "+^n"
-	Return
-	
-	
+F6::Send {F2} ; Rename
+Space & F6::Send +^n ; New folder
+
 ; LCtrl & Tab
 *CapsLock::Send {LCtrl Down} 
 ~*CapsLock Up::
@@ -59,18 +35,21 @@ F6:: ; -Rename   —New Folder
 
 
 ~Space & Tab:: ; Search / Replace
+	If WinActive("ahk_exe PluginManager.exe") {
+		ControlFocus, TQuickEdit1
+	}
 	If GetKeyState("LButton", "P") {
 		SearchSelection:=1
 	}
 	KeyWait, Tab, T0.2
-	Send % !ErrorLevel ? "^f" : "^h"
-	; If !ErrorLevel {
-	; 	Send ^f
-	; 	Search:=1
-	; } Else {
-	; 	Send ^h
-	; 	SearchReplace:=1
-	; }
+	; Send % !ErrorLevel ? "^f" : "^h"
+	If !ErrorLevel {
+		Send ^f
+		Search:=1
+	} Else {
+		Send ^h
+		SearchReplace:=1
+	}
 	If SearchSelection {
 		Send !l
 		SearchSelection:=0
@@ -85,7 +64,18 @@ SC056::Send ^z ; Undo
 Space & SC056::Send % WinActive("ahk_exe FL64.exe") ? "!^z" : "+^z" ; Redo
 RAlt & F10::Volume_Mute
 RAlt & /::Send ^{/} ; Coment out
+
 F12::PrintScreen
+
+~*LAlt:: ; File Info
+	If WinActive("ahk_exe Explorer.EXE") {
+		If (A_TimeIdleMouse<111) {
+			Send !{Click}
+		} Else {
+			Send !{Enter}
+		}
+	} Return
+
 
 #InputLevel 2
 
@@ -103,8 +93,8 @@ F12::PrintScreen
 	; Thread, Interrupt
 	Keywait, Space
 	Send {LShift Up}
-	If (A_TimeSinceThisHotkey<188)&&(A_PriorKey!="BackSpace")&&(A_PriorKey!="CapsLock")&&(A_PriorKey="Space") { ; &&(A_PriorKey!="\")
-		SendLevel 1
+	If (A_TimeSinceThisHotkey<188)&&(A_PriorKey!="BackSpace")&&(A_PriorKey!="CapsLock")&&(A_ThisHotkey="*Space") { 
+		SendLevel 1	
 		Send {Space}
 	} Else If (A_Priorkey="LButton") {
 		Send ^c
@@ -132,6 +122,19 @@ F12::PrintScreen
 		Send ^l
 	} Else If GetKeyState("CapsLock", "P")&&WinActive("Google Translate — Mozilla Firefox") {
 		Send +^s ; Swap translation direction
+	} Else If GetKeyState("CapsLock", "P")&&WinActive("ahk_exe WindowsTerminal.exe") {
+		; Send {Right}{End}
+		; Sleep 11
+		; Send {Enter}
+		Send ^f{Enter}
+	} Else If GetKeyState("CapsLock", "P")&&Search {
+		GoSub, ModifiersUp
+		Send !{F3}{Esc}
+		Search:=0
+	} Else If GetKeyState("CapsLock", "P")&&SearchReplace {
+		GoSub, ModifiersUp
+		Send !^{Enter}{Esc}
+		SearchReplace:=0
 	} Else If GetKeyState("CapsLock", "P") {
 		SendLevel 1
 		Send ^{Enter}
@@ -144,9 +147,13 @@ F12::PrintScreen
 *Enter:: ; BackSpace
 	SendLevel 0
 	While GetKeyState("Enter", "P") {
-		If GetKeyState("LAlt", "P") {
-			Send % (A_TimeSincePriorHotkey<155) ? "^w" : "+^t"
-			Sleep 188
+		If GetKeyState("CapsLock", "P") {
+			If WinActive("ahk_exe WindowsTerminal.exe") {
+				Send ^w
+			} Else {
+				Send ^{BackSpace}
+			}
+			Sleep 33
 		} Else {
 			SendLevel 1
 			Send {BackSpace}
@@ -157,11 +164,12 @@ F12::PrintScreen
 
 *Delete:: ; Delete / Esc
 	SendLevel 0
-	KeyWait, Delete, T.2
-	Send % ErrorLevel ? "{Esc}" : "{Delete}"
-		; CoordMode, Mouse, Relative
-		; MouseMove, 11, 11
-		; Send {Click}e
+	If GetKeyState("CapsLock", "P") {
+		Send % WinActive("ahk_exe WindowsTerminal.exe") ? "{LCtrl Up}!d" : "^{Delete}"
+	} Else {
+		Send {Delete}
+	}
+	Sleep 111
 	Return
 
 ; The final and incredible fix
@@ -171,39 +179,3 @@ longdash:
 	Send {BackSpace}  `—  `
 	Return
 #InputLevel 0
-
-; Function Togglers
-XKeys:
-	Return
-
-Freeze:
-	Suspend, Toggle
-	If (A_IsSuspended) {
-		Menu, Tray, Icon, %A_ScriptDir%\.ico\....ico, , 1
-		; SetSystemCursor("Arrow") ; AppStarting, Arrow, Cross, Help, IBeam, Icon, No, Size, SizeAll, SizeNESW, SizeNS, SizeNWSE, SizeWE, UpArrow, Wait, Unknown
-		; SetTimer, DialogResponse, Off
-		; PostMessage, 0x0111, 65305,,, F-Clip.ahk - AutoHotkey  ; Suspend.
-		; Pause 1
-	} Else {
-		;Pause 0
-		Menu, Tray, Icon, %A_ScriptDir%\.ico\'.ico, , 1
-		; RestoreCursor()
-		; SetTimer, DialogResponse, On
-		; PostMessage, 0x0111, 65305,,, F-Clip.ahk - AutoHotkey  ; Suspend.
-		GoSub, TestScript
-	} Return
-Exit:
-	ExitApp
-	Return
-TestScript:
-	SendLevel 0
-	SetTitleMatchMode 2
-	If WinActive("Code")&&WinActive(".ahk") {
-		Send ^k^1
-		If WinExist(" .ahk")
-			WinClose, .ahk
-	}
-	Sleep 111
-	; Send {LWin Up}{Alt Up}{Ctrl Up}{Shift Up}
-	Reload
-	Return

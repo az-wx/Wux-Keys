@@ -1,8 +1,11 @@
-﻿*RButton::
-	Click, Down Middle
-	KeyWait, RButton
-	Click, Up Middle
-	Return
+﻿*RButton::MButton
+	
+	; Click, Down Middle
+	; KeyWait, RButton
+	; Click, Up Middle
+	; Return
+
+
 #If GetKeyState("Space", "P")
 *RButton::Click
 #If
@@ -10,7 +13,7 @@
 *MButton::
 	KeyWait, MButton, T.133
 	; Send % ErrorLevel ? "#{Tab}" : "{Blind}{Click, R}{LButton Up}"
-	If ErrorLevel {
+	If !ErrorLevel {
 		Send #{Tab}
 	} Else {
 		Send {Blind}{Click, R}

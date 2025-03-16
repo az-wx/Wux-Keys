@@ -99,6 +99,12 @@ RestoreCursor() {
 	return DllCall("SystemParametersInfo", "uint", SPI_SETCURSORS, "uint", 0, "ptr", 0, "uint", 0)
 }
 
+SkipWindows:
+	WinWaitActive, Windows Security ahk_class #32770
+	ControlSend, Button1, {Tab 2}{Space}
+	Return
+
+
 CenterWindow:
 	WinGetActiveTitle, NowWinTitle
 	WinGetClass, NowWinClass, %NowWinTitle%

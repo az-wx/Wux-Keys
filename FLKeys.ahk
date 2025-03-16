@@ -104,7 +104,6 @@ LButton & F8:: ; Add Plugin
 	KeyWait, LButton
 	CoordMode, Mouse, Relative
 	MouseMove, 11, 11, 0
-	KeyWait, F7
 	Send {Click}{Down 6}
 	Sleep 11
 	Send {Enter}
@@ -132,18 +131,26 @@ CapsLock & WheelUp::Send {Media_Prev}
 CapsLock & WheelDown::Send {Media_Next}
 Insert::!t ; Add a Marker
 
+#IfWinActive, ahk_exe PluginManager.exe
+F5:: ; Find New Plugins
+	CoordMode, Mouse, Relative
+	MouseGetPos, x0, y0
+	Click, 177, 60
+	MouseMove, x0, y0
+	Return
+#If
+
 
 ; Scaling
-RAlt & 1::1
-RAlt & 2::2
-RAlt & 3::3
-RAlt & 4::4
-RAlt & 5::5
-RAlt & 6::6
-RAlt & 7::7
+RWin & 1::1
+RWin & 2::2
+RWin & 3::3
+RWin & 4::4
+RWin & 5::5
+RWin & 6::6
+RWin & 7::7
 
 
 
 #IfWinActive
-RAlt & F8::Run, FLPlugins.ahk ; Scan changes
 
