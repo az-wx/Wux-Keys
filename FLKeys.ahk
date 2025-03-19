@@ -99,20 +99,36 @@ F10:: ; Record. Long-press redoes the last recording. Files are kept on disk and
 	} Return
 
 
-LButton & F8:: ; Add Plugin
-	; SetKeyDelay, 22, 22
+LButton & F8::GoSub AddPlugin ; Add Plugin
+
+AddPlugin:
 	KeyWait, LButton
 	CoordMode, Mouse, Relative
 	MouseMove, 11, 11, 0
 	Send {Click}{Down 6}
 	Sleep 11
 	Send {Enter}
-	WinWait, Confirm, , 3
+	WinWaitActive, Confirm, , 3
 	Send {Enter}
 	Return
 
+AddDeletePlugin:
+	MouseGetPos, x0, y0
+	Click
+	MouseGetPos, , , WinUnderMouse
+	WinGet, WinID, ID, WinUnderMouse
+	GoSub, AddPlugin
+	WinActivate, ahk_id %WinID%
+	GoSub RemovePlugin
+	WinWaitActive, ahk_class TSampleListForm, , 3
+	Send ^{Up}
+	MouseMove, x0, y0
+	Return
+	
+
 LButton & F6::
-Browser_Home:: ; Remove Plugin
+Browser_Home::GoSub RemovePlugin ; Remove Plugin
+RemovePlugin:	
 	KeyWait, LButton
 	CoordMode, Mouse, Relative
 	MouseMove, 11, 11

@@ -1,24 +1,40 @@
 ﻿#SingleInstance, Force
 #NoTrayIcon
-#NoEnv
+; #NoEnv
 
 SetTitleMatchMode 2
 DetectHiddenWindows On
 
 SetTimer, SkipWindows, 111
+; SetTimer, SkipUpdate, 111
+SetTimer, SkipConfirmFL, 111
 SetTimer, CenterWindow, 111
 SetTimer, FLPluginsSearch, On
 
+Loop {
+	WinWaitActive, Update ahk_class PX_WINDOW_CLASS
+	Send {Esc 5}
+	Return
+}
+
+SkipConfirmFL:
+	SetTimer, SkipConfirmFL , Off
+	WinWaitActive, Confirm ahk_class TMsgForm
+	Send {Enter}
+	SetTimer, %A_ThisLabel%, 111
+	Return
+	 
 
 SkipWindows:
-	Gosub, SkipUpdate
 	WinWaitActive, Windows Security ahk_class #32770
 	ControlSend, Button1, {Tab 2}{Space}
 	Return
 
 SkipUpdate:
 	WinWait, Update ahk_class PX_WINDOW_CLASS
-	WinClose, Update
+	WinActivate
+	Send {Esc}
+	WinClose, Update ahk_class PX_WINDOW_CLASS
 	Return
 
 

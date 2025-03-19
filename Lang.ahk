@@ -18,6 +18,9 @@ SetKeyDelay, 11, 11
 :?*:u``::ü
 :?*:s``::ß
 
+:*:@y::azwx@ya.ru
+:*:@g::azowux@gmail.com
+
 :*:-``::Return`n
 
 

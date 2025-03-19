@@ -20,9 +20,16 @@
 		If GetKeyState("LButton") {
 			Send {LButton Up}
 		}
+		GoSub, MButtonHeld
 	}
 	Return
 
+MButtonHeld:
+	Sleep 333
+	If GetKeyState("MButton", "P") {
+		Send p
+	} Return
+	
 
 ; Clipboard
 

@@ -12,8 +12,10 @@ Menu, Tray, Add, Exit
 Menu, Tray , Icon, Exit, .ico\Exit.ico
 Menu, Tray, Add, FL X, FLX
 Menu, Tray , Icon, FL X, .ico\FL.ico
+Menu, Tray, Add, WiFi
+Menu, Tray , Icon, WiFi, .ico\wifi.ico 
 Menu, Tray, Add, Freeze
-Menu, Tray , Icon, Freeze, .ico\Snowflake.ico 
+Menu, Tray , Icon, Freeze, .ico\Snowflake.ico
 Menu, Tray, Default, Freeze
 Menu, Tray, NoStandard
 
@@ -53,7 +55,11 @@ Exit:
 FLX:
     Run FLPlugins.ahk
     Return
-    
+WiFi:
+	Run, powershell.exe -noexit -file %A_ScriptDir%\ToggleWiFi.ps1
+	Return
+	
+
 TestScript:
 	SendLevel 0
 	SetTitleMatchMode 2

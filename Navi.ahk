@@ -72,7 +72,10 @@ CapsLock & w::Send ^w ; Close tab
 CapsLock & e::Send ^t ; New tab
 CapsLock & r::Send ^r ; Reload
 F4::
-	If WinActive("ahk_exe firefox.exe")||WinActive("ahk_exe chrome.exe") {
+	If WinActive("ahk_exe FL64.exe") {
+		SetKeyDelay, 22, 33
+		GoSub AddDeletePlugin
+	} Else If WinActive("ahk_exe firefox.exe")||WinActive("ahk_exe chrome.exe") {
 		Send {F1}
 	} Else If WinActive("Code") {
 		Send ^k^b ; Toggle Sidebar
